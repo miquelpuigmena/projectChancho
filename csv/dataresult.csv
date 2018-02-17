@@ -1,0 +1,168 @@
+Nba,Codere,CHA Hornets,NO Pelicans,1.769230769,None,2.1
+Nba,Codere,DET Pistons,UTA Jazz,1.769230769,None,2.1
+Nba,Codere,IND Pacers,PHX Suns,1.3125,None,3.6
+Nba,Codere,PHI 76ers,CHI Bulls,1.4,None,3
+Nba,Codere,ATL Hawks,TOR Raptors,3.1,None,1.384615385
+Nba,Codere,DAL Mavericks,HOU Rockets,3.1,None,1.384615385
+Euroliga,Codere,Lietuvos Rytas,Fiat Torino,1.22,None,3.8
+Euroliga,Codere,Zenit Saint-Petersburg,FC Bayern München,2.2,None,1.6
+Euroliga,Codere,Dolomiti Energia Trentino,Buducnost VOLI,1.6,None,2.2
+Euroliga,Codere,ALBA Berlin,Darüssafaka Dogus,2.4,None,1.5
+Euroliga,Codere,Limoges CSP,ASVEL Lyon-Villeurbanne,1.7,None,2.05
+Euroliga,Codere,Grissin Bon Reggio Emilia,UNICS Kazan,2.1,None,1.65
+Euroliga,Codere,Cedevita,Lokomotiv-Kuban Krasnodar,2.95,None,1.35
+Euroliga,Codere,Herbalife Gran Canaria,Galatasaray Odeabank,1.1,None,5.8
+Nhl,Codere,CH Blackhawks,TOR Maple Leafs,1.87,None,2
+Laliga,Codere,Athletic,Eibar,1.72,3.6,4.75
+Laliga,Codere,Deportivo,Levante,2.1,3.25,3.5
+Laliga,Codere,Valencia,Real Madrid,4.8,4.4,1.57
+Laliga,Codere,Málaga,Girona,2.5,3.1,2.85
+Laliga,Codere,Villarreal,R. Sociedad,2.2,3.5,3.05
+Laliga,Codere,Leganés,Espanyol,2.45,3,3.05
+Laliga,Codere,Atlético,Las Palmas,1.17,6.75,16
+Laliga,Codere,Sevilla,Getafe,1.53,4,5.75
+Laliga,Codere,Barcelona,Alavés,1.08,10,20
+Laliga,Codere,Celta,Betis,1.75,3.8,4.2
+Laliga,Codere,R. Sociedad,Deportivo,1.6,4,5.25
+Laliga,Codere,Eibar,Sevilla,2.55,3.3,2.65
+Laliga,Codere,Betis,Villarreal,2.65,3.35,2.55
+Laliga,Codere,Alavés,Celta,2.65,3.15,2.65
+Laliga,Codere,Levante,Real Madrid,14,6.75,1.17
+Laliga,Codere,Getafe,Leganés,2.05,3.05,4
+Laliga,Codere,Espanyol,Barcelona,10,5.25,1.28
+Laliga,Codere,Girona,Athletic,2.55,3.3,2.65
+Laliga,Codere,Atlético,Valencia,1.62,3.8,5.25
+Laliga,Codere,Las Palmas,Málaga,2.2,3.4,3.15
+Champions,Codere,Basilea,Man City,8.5,4.75,1.35
+Champions,Codere,Juventus,Tottenham,1.9,3.25,4.2
+Champions,Codere,Oporto,Liverpool,2.95,3.4,2.3
+Champions,Codere,Real Madrid,PSG,2.2,3.7,2.95
+Champions,Codere,Bayern Munich,Besiktas JK,1.16,7,16
+Champions,Codere,Chelsea,Barcelona,3.3,3.4,2.15
+Champions,Codere,Sevilla,Man Utd,2.95,3.3,2.35
+Champions,Codere,Shakhtar,Roma,2.65,3.15,2.65
+Premier,Codere,Swansea,Arsenal,6.25,4,1.5
+Premier,Codere,West Ham,C Palace,2.45,3.2,2.85
+Premier,Codere,Huddersfield ,Liverpool,9.5,5,1.3
+Premier,Codere,Chelsea,Bournemouth,1.22,5.75,12
+Premier,Codere,Everton,Leicester,2.95,3.1,2.45
+Premier,Codere,Newcastle,Burnley,2.15,3.05,3.7
+Premier,Codere,Southampton,Brighton & Hove Albion,1.67,3.35,5.75
+Premier,Codere,Man City,West Brom,1.12,8,20
+Premier,Codere,Stoke,Watford,2.15,3.4,3.3
+Premier,Codere,Tottenham,Man Utd,2.25,3.15,3.25
+Premier,Codere,Burnley,Man City,10,5.75,1.25
+Premier,Codere,Bournemouth,Stoke,2.05,3.35,3.45
+Premier,Codere,Brighton & Hove Albion,West Ham,2.45,2.95,3.1
+Premier,Codere,Leicester,Swansea,1.62,3.6,5.75
+Premier,Codere,Man Utd,Huddersfield ,1.16,7,16
+Premier,Codere,West Brom,Southampton,2.75,3.05,2.65
+Premier,Codere,Arsenal,Everton,1.3,5,9.5
+Premier,Codere,C Palace,Newcastle,2,3.3,3.9
+Premier,Codere,Liverpool,Tottenham,2,3.6,3.5
+Premier,Codere,Watford,Chelsea,6.75,4.2,1.45
+Nba,Sportium,New Orleans Pelicans,Charlotte Hornets,2.1,None,1.76
+Nba,Sportium,Utah Jazz,Detroit Pistons,2.1,None,1.76
+Nba,Sportium,Phoenix Suns,Indiana Pacers,3.6,None,1.31
+Nba,Sportium,Chicago Bulls,Philadelphia 76ers,3,None,1.41
+Nba,Sportium,Toronto Raptors,Atlanta Hawks,1.4,None,3.1
+Nba,Sportium,Houston Rockets,Dallas Mavericks,1.4,None,3.1
+Nba,Sportium,San Antonio Spurs,Memphis Grizzlies,1.64,None,2.35
+Nba,Sportium,Minnesota Timberwolves,Portland Trail Blazers,2.3,None,1.66
+Nba,Sportium,Boston Celtics,LA Clippers,1.8,None,2.05
+Nba,Sportium,Xavier Musketeers,Marquette Golden Eagles,1.33,None,3.4
+Nba,Sportium,Syracuse Orange,Boston College Eagles,1.33,None,3.4
+Nba,Sportium,Duquesne Dukes,Richmond Spiders,1.75,None,2.1
+Nba,Sportium,Florida Gators,South Carolina Gamecocks,1.14,None,5.75
+Nba,Sportium,Florida State Seminoles,Georgia Tech Yellow Jackets,1.2,None,4.75
+Nba,Sportium,Rutgers Scarlet Knights,Nebraska Cornhuskers,1.87,None,1.95
+Nba,Sportium,Chattanooga Mocs,Samford Bulldogs,1.85,None,1.95
+Nba,Sportium,Virginia Military Keydets,Wofford Terriers,4.5,None,1.22
+Nba,Sportium,East Tennessee State Buccaneers,Mercer Bears,1.2,None,4.75
+Nba,Sportium,NC Greensboro Spartans,Furman Paladins,1.85,None,1.95
+Nba,Sportium,Fordham Rams,Rhode Island Rams,11,None,1.05
+Nba,Sportium,St Bonaventure Bonnies,Saint Josephs Hawks,1.36,None,3.2
+Nba,Sportium,La Salle Explorers,Massachusetts Minutemen,1.3,None,3.6
+Nba,Sportium,Niagara Purple Eagles,Manhattan Jaspers,1.5,None,2.62
+Nba,Sportium,Miami FL Hurricanes,Louisville Cardinals,1.53,None,2.5
+Nba,Sportium,South Dakota Coyotes,South Dakota State Jackrabbits,1.61,None,2.3
+Nba,Sportium,Northern Iowa Panthers,Illinois State Redbirds,1.33,None,3.4
+Nba,Sportium,Valparaiso Crusaders,Evansville Purple Aces,1.57,None,2.45
+Nba,Sportium,Southern Illinois Salukis,Indiana State Sycamores,1.66,None,2.25
+Nba,Sportium,Drake University Bulldogs,Loyola Chicago Ramblers,2.2,None,1.7
+Nba,Sportium,Georgetown Hoyas,DePaul Blue Demons,1.53,None,2.5
+Nba,Sportium,Pittsburgh Panthers,North Carolina State Wolfpack,5,None,1.18
+Nba,Sportium,Cincinnati Bearcats,Temple Owls,1.08,None,8.5
+Nba,Sportium,Usc Trojans,Stanford Cardinal,1.2,None,4.75
+Nba,Sportium,Illinois Fighting Illini,Indiana Hoosiers,1.75,None,2.1
+Nba,Sportium,Utah State Aggies,Air Force Falcons,1.22,None,4.5
+Nba,Sportium,Missouri Tigers,Auburn Tigers,1.75,None,2.1
+Nba,Sportium,Boise State Broncos,San Jose State Spartans,1.02,None,21
+Nba,Sportium,Cal Irvine Anteaters,Cal Riverside Highlanders,1.14,None,5.75
+Nba,Sportium,San Diego State Aztecs,Colorado State Rams,1.05,None,11
+Nba,Sportium,Wyoming Cowboys,Nevada Wolfpack,2.62,None,1.5
+Euroliga,Sportium,Panathinaikos Athens,BC Zalgiris,1.25,None,4
+Euroliga,Sportium,Real Madrid,Anadolu Efes,1.08,None,9
+Euroliga,Sportium,Unicaja Málaga,Saski Baskonia,1.66,None,2.2
+Euroliga,Sportium,CSKA Moscú,Brose Baskets,1.06,None,11
+Euroliga,Sportium,Fenerbahçe Ulker,FC Barcelona,1.22,None,4.33
+Euroliga,Sportium,Crvena Zvezda Telekom,Olympiacos BC,2.37,None,1.57
+Euroliga,Sportium,Valencia basket,BC Khimki Moscow Region,1.5,None,2.62
+Euroliga,Sportium,EA7-Emporio Armani Milano,Maccabi Electra Tel Aviv,1.57,None,2.37
+Euroliga,Sportium,Zenit Saint-Petersburg,FC Bayern Munchen,2.2,None,1.61
+Euroliga,Sportium,Lietuvos Rytas,Fiat Torino,1.22,None,4
+Euroliga,Sportium,Dolomiti Energia Trentino,Buducnost VOLI,1.57,None,2.25
+Euroliga,Sportium,Alba Berlin,Darussafaka Dogus,2.37,None,1.53
+Euroliga,Sportium,Limoges CSP,ASVEL Lyon-Villeurbanne,1.66,None,2.1
+Euroliga,Sportium,Grissin Bon Reggio Emilia,UNICS Kazan,2.1,None,1.66
+Euroliga,Sportium,Herbalife Gran Canaria,Galatasaray Odeabank,1.12,None,6
+Euroliga,Sportium,Cedevita,Lokomotiv-Kuban Krasnodar,3,None,1.36
+Euroliga,Sportium,Banvit,Rosa Radom,1.06,None,10
+Euroliga,Sportium,BK Ventspils,Royal Hali Gaziantep BB,1.28,None,3.5
+Euroliga,Sportium,Aris BC,Besiktas Sompo Japan,3.5,None,1.28
+Euroliga,Sportium,EWE Baskets Oldenburg,AS Monaco Basket,2.25,None,1.57
+Euroliga,Sportium,Iberostar Tenerife,PAOK Thessaloniki BC,1.1,None,7
+Euroliga,Sportium,Umana Reyer Venezia,Petrol Olimpija,1.16,None,5
+Euroliga,Sportium,Nanterre 92,Telekom Baskets Bonn,1.25,None,3.75
+Euroliga,Sportium,Galatasaray Femenino,Dinamo Kursk Women,8,None,1.08
+Euroliga,Sportium,Fenerbahce Ulker Women,Yakin Dogu Universitesi Women,2.37,None,1.53
+Euroliga,Sportium,CCC Polkowice Women,Mithra Castors Braine Women,1.72,None,2
+Euroliga,Sportium,ZVVZ USK Praha Women,Uniqa Euroleasing Sopron Women,1.33,None,3.25
+Euroliga,Sportium,Bourges Women,ESB Villeneuve-d'Ascq Women,1.14,None,5.5
+Euroliga,Sportium,Lattes Montpellier Agglomeration Women,Wisla Can-Pack Krakow Women,2.5,None,1.5
+Euroliga,Sportium,Famila Basket Schio Women,UMMC Ekaterinburg femenino,5.5,None,1.14
+Euroliga,Sportium,Atomeromu Szekszard Women,Hatay BSB Women,2.5,None,1.5
+Euroliga,Sportium,Uni Girona Women,Passalacqua Basket Ragusa Women,1.12,None,6
+Nhl,Sportium,Chicago Blackhawks,Toronto Maple Leafs,1.83,None,1.9
+Nhl,Sportium,Calgary Flames,Los Angeles Kings,1.66,None,2.2
+Nhl,Sportium,Dallas Stars,Toronto Maple Leafs,1.72,None,2.1
+Nhl,Sportium,Edmonton Oilers,Calgary Flames,1.72,None,2.1
+Nhl,Sportium,San Jose Sharks,New York Rangers,1.57,None,2.35
+Laliga,Sportium,Athletic Club,SD Eibar,1.85,3.4,4.4
+Laliga,Sportium,RC Deportivo,Levante UD,2,3.4,3.75
+Laliga,Sportium,Valencia CF,Real Madrid,4.25,4.25,1.7
+Laliga,Sportium,Málaga CF,Girona FC,2.45,3.1,3
+Laliga,Sportium,Villarreal CF,Real Sociedad,2.1,3.5,3.25
+Laliga,Sportium,CD Leganés,RCD Espanyol,2.35,2.9,3.4
+Laliga,Sportium,Atlético Madrid,UD Las Palmas,1.18,7,19
+Laliga,Sportium,Sevilla FC,Getafe CF,1.53,4,6
+Laliga,Sportium,FC Barcelona,D.Alavés,1.09,11,29
+Laliga,Sportium,RC Celta,Real Betis,1.72,3.9,4.33
+Champions,Sportium,Juventus,Tottenham,1.9,3.25,4.2
+Champions,Sportium,Basilea,Manchester City,8,4.75,1.4
+Champions,Sportium,Real Madrid,PSG,2.2,3.6,3
+Champions,Sportium,Oporto,Liverpool,3,3.4,2.3
+Champions,Sportium,Chelsea,FC Barcelona,2.87,3.4,2.37
+Champions,Sportium,Bayern de Munich,Besiktas,1.18,6.5,15
+Champions,Sportium,Sevilla FC,Manchester United,2.87,3.4,2.37
+Champions,Sportium,Shakhtar Donetsk,Roma,2.7,3.25,2.55
+Premier,Sportium,West Ham United,Crystal Palace,2.55,3.1,2.87
+Premier,Sportium,Swansea,Arsenal,6,4.2,1.53
+Premier,Sportium,Huddersfield,Liverpool,9.5,5,1.33
+Premier,Sportium,Everton,Leicester,3,3.1,2.45
+Premier,Sportium,Chelsea,Bournemouth,1.25,5.75,12
+Premier,Sportium,Southampton,Brighton,1.7,3.4,5.5
+Premier,Sportium,Newcastle,Burnley,2.15,3,3.7
+Premier,Sportium,Tottenham,Manchester United,2.25,3.2,3.2
+Premier,Sportium,Stoke,Watford,2.2,3.4,3.2
+Premier,Sportium,Manchester City,West Brom,1.13,8,26
