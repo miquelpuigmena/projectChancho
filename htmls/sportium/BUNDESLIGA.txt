@@ -2,15 +2,15 @@
 <html class="logged-out">
 <head>
 <title>
-Apuestas Champions League en Sportium, tu casa de apuestas ¡Bono 200€ Gratis!
+Apuestas Bundesliga en Sportium, tu casa de apuestas ¡Bono 200€ Gratis!
 </title>
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <link rel="dns-prefetch" href="https://cachesports.sportium.es/" />
-<meta name="description" content="¡Apuesta en Champions League en Sportium y consigue un bono de hasta 200€ gratis! Sportium, la casa de apuestas deportivas líder en España con promociones exclusivas." />
+<meta name="description" content="¡Apuesta en Bundesliga en Sportium y consigue un bono de hasta 200€ gratis! Sportium, la casa de apuestas deportivas líder en España con promociones exclusivas." />
 <meta name="keywords" content="PAGE_KWORDS" />
 <meta name="google-site-verification" content="Wm1YNPxgfh6Lb2q0VExFyZib04Jj8HjNI_AFtJu0XGs" />
-<link rel="canonical" href="http://sports.sportium.es/es/t/45225" />
+<link rel="canonical" href="http://sports.sportium.es/es/t/45915" />
 <link rel="icon" type="image/png" href="https://cachesports.sportium.es/web_static/R_LadbrokesParis_1_3_31_36/desktop/sportium/image/icon.png" />
 <link rel="shortcut icon" href="https://cachesports.sportium.es/web_static/R_LadbrokesParis_1_3_31_36/desktop/sportium/image/icon.ico" />
 <link rel="stylesheet" type="text/css"
@@ -29,7 +29,7 @@ href="https://cachesports.sportium.es/web_static/R_LadbrokesParis_1_3_31_36/desk
 href="https://cachesports.sportium.es/web_static/R_LadbrokesParis_1_3_31_36/desktop/sportium/css/fragments/sports.min.css" />
 <script type="text/javascript">
 if (typeof(Geneity) != 'object') var Geneity = Object();
-Geneity.Page = {"page_key": "DEFAULT", "page_args": {"sport_code": "FOOT", "sb_type_id": 45225, "sb_class_id": 15684}, "page_type": "TYPE"};
+Geneity.Page = {"page_key": "DEFAULT", "page_args": {"sport_code": "FOOT", "sb_type_id": 45915, "sb_class_id": 15726}, "page_type": "TYPE"};
 </script>
 <script type="text/javascript"
 src="/web_nr?lang=es&amp;tz_offset=1&amp;key=browser_data.go_js_data">
@@ -3808,7 +3808,7 @@ Club VIP Apuestas
 <div id="main-area">
 <div class="fragment sports-title">
 <span class="favourite-button" title="Añadir o quitar esta competición de 'Favoritos'"
-data-ref_key="TYPE" data-ref_id="45225">&#9733;</span>
+data-ref_key="TYPE" data-ref_id="45915">&#9733;</span>
 <div class="breadcrumbs-content">
 <span class="title">¿Dónde estoy?</span>:
 <ul>
@@ -3819,20 +3819,20 @@ data-ref_key="TYPE" data-ref_id="45225">&#9733;</span>
 <a href="/es/football">Fútbol</a>
 </li>
 <li >
-Competiciones UEFA (Clubs)
+Alemania
 </li>
 <li class="last-item">
-<a href="/es/t/45225/Champions-League">Champions League</a>
+<a href="/es/t/45915/Bundesliga">Bundesliga</a>
 </li>
 </ul>
 </div>
 </div>
 <div class="fragment expander coupon-for-type
 "
-data-msg_stamp="NjY3NzU4MjQ2OjI6ZXM="
+data-msg_stamp="NjY3NzU3MTQxOjI6ZXM="
 >
 <h4 class="expander-button">
-Champions League
+Bundesliga
 - Resultado (1X2)
 </h4>
 <div class="expander-content">
@@ -3845,42 +3845,52 @@ Mercados Principales
 </button>
 <ul class="mkt-sorts popup-content">
 <li class="selected">
-<a href="/es/t/45225/Champions-League?mkt_sort=MRES">
+<a href="/es/t/45915/Bundesliga?mkt_sort=MRES">
 Resultado (1X2)
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=QUAL">
-¿Quién Se Clasificará?
-</a>
-</li>
-<li >
-<a href="/es/t/45225/Champions-League?mkt_sort=CSFT">
+<a href="/es/t/45915/Bundesliga?mkt_sort=CSFT">
 Marcador exacto
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=DBLC">
+<a href="/es/t/45915/Bundesliga?mkt_sort=DBLC">
 Doble oportunidad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=DNOB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=DNOB">
 Apuesta sin empate
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=BTSC">
+<a href="/es/t/45915/Bundesliga?mkt_sort=BTSC">
 Ambos equipos marcarán
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=HCTG">
+<a href="/es/t/45915/Bundesliga?mkt_sort=HCTG">
 Más/Menos (Goles)
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=HTFT">
+<a href="/es/t/45915/Bundesliga?mkt_sort=FGSC">
+Primer Goleador
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=LGSC">
+Último Goleador
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=PSCR">
+Goleador en cualquier momento
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=HTFT">
 Descanso/Final
 </a>
 </li>
@@ -3894,102 +3904,102 @@ Resultado
 </button>
 <ul class="mkt-sorts popup-content">
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=CSFT">
+<a href="/es/t/45915/Bundesliga?mkt_sort=CSFT">
 Marcador exacto
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=CSHT">
+<a href="/es/t/45915/Bundesliga?mkt_sort=CSHT">
 Marcador exacto 1ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=HTFT">
+<a href="/es/t/45915/Bundesliga?mkt_sort=HTFT">
 Descanso/Final
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=1DBC">
+<a href="/es/t/45915/Bundesliga?mkt_sort=1DBC">
 Doble Oportunidad 1ª Mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=1DNB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=1DNB">
 Al Descanso, Empate no Cuenta
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=HTLF">
+<a href="/es/t/45915/Bundesliga?mkt_sort=HTLF">
 Gana al descanso y al final empata o pierde
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=1HNB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=1HNB">
 Apuesta sin Equipo Local 1ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=H1RS">
+<a href="/es/t/45915/Bundesliga?mkt_sort=H1RS">
 Resultado 1ª Mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=1ANB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=1ANB">
 Apuesta sin Equipo Visitante 1ª Mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=2DNB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=2DNB">
 Apuesta sin empate 2ª Mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=H2RS">
+<a href="/es/t/45915/Bundesliga?mkt_sort=H2RS">
 Resultado 2ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=2HNB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=2HNB">
 Apuesta sin Equipo Local 2ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=2DBC">
+<a href="/es/t/45915/Bundesliga?mkt_sort=2DBC">
 Doble oportunidad 2ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=2ANB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=2ANB">
 Apuesta sin Equipo Local 2ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=WIEH">
+<a href="/es/t/45915/Bundesliga?mkt_sort=WIEH">
 Ganará al menos una mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=WIBH">
+<a href="/es/t/45915/Bundesliga?mkt_sort=WIBH">
 Ganador ambas mitades
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=WNTN">
+<a href="/es/t/45915/Bundesliga?mkt_sort=WNTN">
 Gana sin recibir goles
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=WIFB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=WIFB">
 Victoria tras remontada
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=DBLC">
+<a href="/es/t/45915/Bundesliga?mkt_sort=DBLC">
 Doble oportunidad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=DNOB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=DNOB">
 Apuesta sin empate
 </a>
 </li>
@@ -4003,47 +4013,47 @@ Más de/Menos de
 </button>
 <ul class="mkt-sorts popup-content">
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=HCTG">
+<a href="/es/t/45915/Bundesliga?mkt_sort=HCTG">
 Más/Menos (Goles)
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OUAG">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OUAG">
 Más de/Menos de total goles visitante
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OUHG">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OUHG">
 Total goles equipo local - Más de/Menos de
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OUH1">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OUH1">
 1ª Mitad - Más de/Menos de
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OU1H">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OU1H">
 Total goles equipo local 1ª mitad - Más de/Menos de
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OU1A">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OU1A">
 Total goles visitante 1ª mitad - Más de/Menos de
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OUH2">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OUH2">
 2ª Mitad - Más de/Menos de
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OU2H">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OU2H">
 2ª Mitad - Goles totales equipo local -Más de/Menos de
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OU2A">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OU2A">
 Total goles equipo visitante segunda mitad - Más de/Menos de
 </a>
 </li>
@@ -4057,7 +4067,42 @@ Actuación Jugadores
 </button>
 <ul class="mkt-sorts popup-content">
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=STRD">
+<a href="/es/t/45915/Bundesliga?mkt_sort=FGSC">
+Primer Goleador
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=FGSH">
+1º Goleador Equipo Local
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=PSCR">
+Goleador en cualquier momento
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=PTS2">
+Jugador que marcará +2 goles
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=HATR">
+Autor de Hat-trick
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=LGSC">
+Último Goleador
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=PSBH">
+Jugador que marcará en ambas mitades
+</a>
+</li>
+<li >
+<a href="/es/t/45915/Bundesliga?mkt_sort=STRD">
 Otras apuestas
 </a>
 </li>
@@ -4071,87 +4116,87 @@ Goles
 </button>
 <ul class="mkt-sorts popup-content">
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=HCTG">
+<a href="/es/t/45915/Bundesliga?mkt_sort=HCTG">
 Más/Menos (Goles)
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=TOTG">
+<a href="/es/t/45915/Bundesliga?mkt_sort=TOTG">
 Total Goles
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=BTSC">
+<a href="/es/t/45915/Bundesliga?mkt_sort=BTSC">
 Ambos equipos marcarán
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OUHG">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OUHG">
 Total goles equipo local - Más de/Menos de
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=OUAG">
+<a href="/es/t/45915/Bundesliga?mkt_sort=OUAG">
 Más de/Menos de total goles visitante
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=NMTS">
+<a href="/es/t/45915/Bundesliga?mkt_sort=NMTS">
 Nº de equipos que marcará
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=ODEV">
+<a href="/es/t/45915/Bundesliga?mkt_sort=ODEV">
 Par/Impar
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=CLSH">
+<a href="/es/t/45915/Bundesliga?mkt_sort=CLSH">
 Deja su portería a cero
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=FTSC">
+<a href="/es/t/45915/Bundesliga?mkt_sort=FTSC">
 Primer equipo en marcar
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=FTS1">
+<a href="/es/t/45915/Bundesliga?mkt_sort=FTS1">
 Primer equipo en marcar en la 1ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=STRD">
+<a href="/es/t/45915/Bundesliga?mkt_sort=STRD">
 Otras apuestas
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=FTS2">
+<a href="/es/t/45915/Bundesliga?mkt_sort=FTS2">
 Primer equipo en marcar en la 2ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=TSBH">
+<a href="/es/t/45915/Bundesliga?mkt_sort=TSBH">
 Equipo que marcará en ambas mitades
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=H1OE">
+<a href="/es/t/45915/Bundesliga?mkt_sort=H1OE">
 1ª Mitad - Goles Totales Par/Impar
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=H1TO">
+<a href="/es/t/45915/Bundesliga?mkt_sort=H1TO">
 1ª Mitad - Goles Totales
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=H2OE">
+<a href="/es/t/45915/Bundesliga?mkt_sort=H2OE">
 2ª Mitad - Goles Totales Par/Impar
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=H2TO">
+<a href="/es/t/45915/Bundesliga?mkt_sort=H2TO">
 Total goles 2ª mitad
 </a>
 </li>
@@ -4165,17 +4210,17 @@ Con Handicap
 </button>
 <ul class="mkt-sorts popup-content">
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=HCMR">
+<a href="/es/t/45915/Bundesliga?mkt_sort=HCMR">
 Ganador con Handicap
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=HCH1">
+<a href="/es/t/45915/Bundesliga?mkt_sort=HCH1">
 Handicap 1ª Mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=HCH2">
+<a href="/es/t/45915/Bundesliga?mkt_sort=HCH2">
 Handicap 2ª Mitad
 </a>
 </li>
@@ -4189,37 +4234,37 @@ Otros Mercados
 </button>
 <ul class="mkt-sorts popup-content">
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=BTS1">
+<a href="/es/t/45915/Bundesliga?mkt_sort=BTS1">
 Ambos equipos marcarán en la 1ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=BTS2">
+<a href="/es/t/45915/Bundesliga?mkt_sort=BTS2">
 Ambos equipos marcarán en la 2ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=BTSB">
+<a href="/es/t/45915/Bundesliga?mkt_sort=BTSB">
 Ambos equipos marcarán en las dos mitades
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=GSBH">
+<a href="/es/t/45915/Bundesliga?mkt_sort=GSBH">
 Se marcarán goles en ambas mitades
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=GSH1">
+<a href="/es/t/45915/Bundesliga?mkt_sort=GSH1">
 Se marcará en la 1ª mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=GSH2">
+<a href="/es/t/45915/Bundesliga?mkt_sort=GSH2">
 Se marcará en la segunda mitad
 </a>
 </li>
 <li >
-<a href="/es/t/45225/Champions-League?mkt_sort=STRD">
+<a href="/es/t/45915/Bundesliga?mkt_sort=STRD">
 Otras apuestas
 </a>
 </li>
@@ -4231,41 +4276,41 @@ Otras apuestas
 <div >
 <table class="coupon coupon-horizontal coupon-scoreboard video-enabled">
 <tbody>
-<tr class="mkt mkt_content mkt-58292498 "
-data-mkt_id="58292498">
+<tr class="mkt mkt_content mkt-55106613 "
+data-mkt_id="55106613">
 <td class="event-favourite">
 <span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
-data-ref_key="EVENT" data-ref_id="7303673">&#9733;</span>
+data-ref_key="EVENT" data-ref_id="7177957">&#9733;</span>
 </td>
 <td class="time coupon-scoreboard">
-<div class="ev ev-7303673" data-ev_id="7303673">
-<span class="time">20:45</span>
-<span class="date">06 Mar</span>
+<div class="ev ev-7177957" data-ev_id="7177957">
+<span class="time">20:30</span>
+<span class="date">02 Mar</span>
 </div>
 </td>
 <td class="event-scoreboard">
-<span title="Disponible para apostar en vivo" class="will-be-inplay-inside">
-<span class="will-be-inplay-image "></span>
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
 </span>
 </td>
 <td class="stream">
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="PSG "
-class="price price-260221055-LP
-seln-260221055 mkt-58292498 ev-7303673
+<button type="button" name="add-to-slip" title="Bor Monchengladbach "
+class="price price-248140924-LP
+seln-248140924 mkt-55106613 ev-7177957
 "
-value="MjYwMjIxMDU1OjIxLzIwOjow">
+value="MjQ4MTQwOTI0OjE3LzIwOjow">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">PSG</span>
+<span class="seln-name">Bor Monchengladbach</span>
 </span>
 </span>
-<span class="price frac">21/20</span>
-<span class="price dec">2.05</span>
-<span class="price us">+105</span>
+<span class="price frac">17/20</span>
+<span class="price dec">1.85</span>
+<span class="price us">-117</span>
 </span>
 </button>
 </div>
@@ -4273,34 +4318,127 @@ value="MjYwMjIxMDU1OjIxLzIwOjow">
 <td class="seln seln_sort-D">
 <div>
 <button type="button" name="add-to-slip" title="Empate "
-class="price price-260221053-LP
-seln-260221053 mkt-58292498 ev-7303673
+class="price price-248140925-LP
+seln-248140925 mkt-55106613 ev-7177957
 "
-value="MjYwMjIxMDUzOjMvMTo6MA">
+value="MjQ4MTQwOTI1OjEzLzU6OjA">
 <span>
 <span class="seln-label">
 <span>
 <span class="seln-draw-label">X</span>
 </span>
 </span>
-<span class="price frac">3/1</span>
-<span class="price dec">4.00</span>
-<span class="price us">+300</span>
+<span class="price frac">13/5</span>
+<span class="price dec">3.60</span>
+<span class="price us">+260</span>
 </span>
 </button>
 </div>
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Real Madrid "
-class="price price-260221054-LP
-seln-260221054 mkt-58292498 ev-7303673
+<button type="button" name="add-to-slip" title="Werder Bremen "
+class="price price-248140926-LP
+seln-248140926 mkt-55106613 ev-7177957
 "
-value="MjYwMjIxMDU0OjIzLzEwOjow">
+value="MjQ4MTQwOTI2OjE2LzU6OjA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Real Madrid</span>
+<span class="seln-name">Werder Bremen</span>
+</span>
+</span>
+<span class="price frac">16/5</span>
+<span class="price dec">4.20</span>
+<span class="price us">+320</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7177957/Bor-Monchengladbach-vs-Werder-Bremen">
++147
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11913800&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-55112013 "
+data-mkt_id="55112013">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7178001">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7178001" data-ev_id="7178001">
+<span class="time">15:30</span>
+<span class="date">03 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Hamburgo "
+class="price price-248158679-LP
+seln-248158679 mkt-55112013 ev-7178001
+"
+value="MjQ4MTU4Njc5OjUvNDo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Hamburgo</span>
+</span>
+</span>
+<span class="price frac">5/4</span>
+<span class="price dec">2.25</span>
+<span class="price us">+125</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-248158678-LP
+seln-248158678 mkt-55112013 ev-7178001
+"
+value="MjQ4MTU4Njc4OjIxLzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
+</span>
+</span>
+<span class="price frac">21/10</span>
+<span class="price dec">3.10</span>
+<span class="price us">+210</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Mainz "
+class="price price-248158680-LP
+seln-248158680 mkt-55112013 ev-7178001
+"
+value="MjQ4MTU4NjgwOjIzLzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Mainz</span>
 </span>
 </span>
 <span class="price frac">23/10</span>
@@ -4312,48 +4450,48 @@ value="MjYwMjIxMDU0OjIzLzEwOjow">
 </td>
 <td class="mkt-count">
 <a title="Número de mercados"
-href="/es/e/7303673/PSG-vs-Real-Madrid">
-+138
+href="/es/e/7178001/Hamburgo-vs-Mainz">
++144
 </a>
 </td>
 <td class="stats"><!--
 --></td>
 </tr>
-<tr class="mkt mkt_content mkt-58300888 "
-data-mkt_id="58300888">
+<tr class="mkt mkt_content mkt-55115574 "
+data-mkt_id="55115574">
 <td class="event-favourite">
 <span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
-data-ref_key="EVENT" data-ref_id="7303885">&#9733;</span>
+data-ref_key="EVENT" data-ref_id="7178035">&#9733;</span>
 </td>
 <td class="time coupon-scoreboard">
-<div class="ev ev-7303885" data-ev_id="7303885">
-<span class="time">20:45</span>
-<span class="date">06 Mar</span>
+<div class="ev ev-7178035" data-ev_id="7178035">
+<span class="time">15:30</span>
+<span class="date">03 Mar</span>
 </div>
 </td>
 <td class="event-scoreboard">
-<span title="Disponible para apostar en vivo" class="will-be-inplay-inside">
-<span class="will-be-inplay-image "></span>
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
 </span>
 </td>
 <td class="stream">
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Liverpool "
-class="price price-260248046-LP
-seln-260248046 mkt-58300888 ev-7303885
+<button type="button" name="add-to-slip" title="Wolfsburgo "
+class="price price-248170674-LP
+seln-248170674 mkt-55115574 ev-7178035
 "
-value="MjYwMjQ4MDQ2OjEvMjo6MA">
+value="MjQ4MTcwNjc0OjkvNDo6MA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Liverpool</span>
+<span class="seln-name">Wolfsburgo</span>
 </span>
 </span>
-<span class="price frac">1/2</span>
-<span class="price dec">1.50</span>
-<span class="price us">-200</span>
+<span class="price frac">9/4</span>
+<span class="price dec">3.25</span>
+<span class="price us">+225</span>
 </span>
 </button>
 </div>
@@ -4361,92 +4499,92 @@ value="MjYwMjQ4MDQ2OjEvMjo6MA">
 <td class="seln seln_sort-D">
 <div>
 <button type="button" name="add-to-slip" title="Empate "
-class="price price-260248044-LP
-seln-260248044 mkt-58300888 ev-7303885
+class="price price-248170673-LP
+seln-248170673 mkt-55115574 ev-7178035
 "
-value="MjYwMjQ4MDQ0OjEwLzM6OjA">
+value="MjQ4MTcwNjczOjEyLzU6OjA">
 <span>
 <span class="seln-label">
 <span>
 <span class="seln-draw-label">X</span>
 </span>
 </span>
-<span class="price frac">10/3</span>
-<span class="price dec">4.33</span>
-<span class="price us">+333</span>
+<span class="price frac">12/5</span>
+<span class="price dec">3.40</span>
+<span class="price us">+240</span>
 </span>
 </button>
 </div>
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Oporto "
-class="price price-260248045-LP
-seln-260248045 mkt-58300888 ev-7303885
+<button type="button" name="add-to-slip" title="Bayer Leverkusen "
+class="price price-248170675-LP
+seln-248170675 mkt-55115574 ev-7178035
 "
-value="MjYwMjQ4MDQ1OjYvMTo6MA">
+value="MjQ4MTcwNjc1OjIzLzIwOjow">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Oporto</span>
+<span class="seln-name">Bayer Leverkusen</span>
 </span>
 </span>
-<span class="price frac">6/1</span>
-<span class="price dec">7.00</span>
-<span class="price us">+600</span>
+<span class="price frac">23/20</span>
+<span class="price dec">2.15</span>
+<span class="price us">+114</span>
 </span>
 </button>
 </div>
 </td>
 <td class="mkt-count">
 <a title="Número de mercados"
-href="/es/e/7303885/Liverpool-vs-Oporto">
-+129
+href="/es/e/7178035/Wolfsburgo-vs-Bayer-Leverkusen">
++152
 </a>
 </td>
 <td class="stats"><!--
---><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=13330227&amp;language=es" target="_blank"
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11914196&amp;language=es" target="_blank"
 class="stats" data-popup_width="1100"
 data-popup_height="800">
 <span class="ST">st</span>
 </a><!--
 --></td>
 </tr>
-<tr class="mkt mkt_content mkt-58292678 "
-data-mkt_id="58292678">
+<tr class="mkt mkt_content mkt-55123344 "
+data-mkt_id="55123344">
 <td class="event-favourite">
 <span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
-data-ref_key="EVENT" data-ref_id="7303674">&#9733;</span>
+data-ref_key="EVENT" data-ref_id="7178113">&#9733;</span>
 </td>
 <td class="time coupon-scoreboard">
-<div class="ev ev-7303674" data-ev_id="7303674">
-<span class="time">20:45</span>
-<span class="date">07 Mar</span>
+<div class="ev ev-7178113" data-ev_id="7178113">
+<span class="time">15:30</span>
+<span class="date">03 Mar</span>
 </div>
 </td>
 <td class="event-scoreboard">
-<span title="Disponible para apostar en vivo" class="will-be-inplay-inside">
-<span class="will-be-inplay-image "></span>
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
 </span>
 </td>
 <td class="stream">
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Tottenham "
-class="price price-260221593-LP
-seln-260221593 mkt-58292678 ev-7303674
+<button type="button" name="add-to-slip" title="Augsburg "
+class="price price-248197432-LP
+seln-248197432 mkt-55123344 ev-7178113
 "
-value="MjYwMjIxNTkzOjEwLzk6OjA">
+value="MjQ4MTk3NDMyOjMxLzIwOjow">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Tottenham</span>
+<span class="seln-name">Augsburg</span>
 </span>
 </span>
-<span class="price frac">11/10</span>
-<span class="price dec">2.11</span>
-<span class="price us">+110</span>
+<span class="price frac">31/20</span>
+<span class="price dec">2.55</span>
+<span class="price us">+155</span>
 </span>
 </button>
 </div>
@@ -4454,10 +4592,103 @@ value="MjYwMjIxNTkzOjEwLzk6OjA">
 <td class="seln seln_sort-D">
 <div>
 <button type="button" name="add-to-slip" title="Empate "
-class="price price-260221591-LP
-seln-260221591 mkt-58292678 ev-7303674
+class="price price-248197431-LP
+seln-248197431 mkt-55123344 ev-7178113
 "
-value="MjYwMjIxNTkxOjUvMjo6MA">
+value="MjQ4MTk3NDMxOjIzLzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
+</span>
+</span>
+<span class="price frac">23/10</span>
+<span class="price dec">3.30</span>
+<span class="price us">+229</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Hoffenheim "
+class="price price-248197433-LP
+seln-248197433 mkt-55123344 ev-7178113
+"
+value="MjQ4MTk3NDMzOjE3LzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Hoffenheim</span>
+</span>
+</span>
+<span class="price frac">17/10</span>
+<span class="price dec">2.70</span>
+<span class="price us">+170</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7178113/Augsburg-vs-Hoffenheim">
++149
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11914212&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-55129163 "
+data-mkt_id="55129163">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7178173">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7178173" data-ev_id="7178173">
+<span class="time">15:30</span>
+<span class="date">03 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Eintr Frankfurt "
+class="price price-248217527-LP
+seln-248217527 mkt-55129163 ev-7178173
+"
+value="MjQ4MjE3NTI3OjMvNDo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Eintr Frankfurt</span>
+</span>
+</span>
+<span class="price frac">3/4</span>
+<span class="price dec">1.75</span>
+<span class="price us">-133</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-248217525-LP
+seln-248217525 mkt-55129163 ev-7178173
+"
+value="MjQ4MjE3NTI1OjUvMjo6MA">
 <span>
 <span class="seln-label">
 <span>
@@ -4473,15 +4704,181 @@ value="MjYwMjIxNTkxOjUvMjo6MA">
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Juventus "
-class="price price-260221592-LP
-seln-260221592 mkt-58292678 ev-7303674
+<button type="button" name="add-to-slip" title="Hannover "
+class="price price-248217529-LP
+seln-248217529 mkt-55129163 ev-7178173
 "
-value="MjYwMjIxNTkyOjUvMjo6MA">
+value="MjQ4MjE3NTI5OjE5LzU6OjA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Juventus</span>
+<span class="seln-name">Hannover</span>
+</span>
+</span>
+<span class="price frac">15/4</span>
+<span class="price dec">4.80</span>
+<span class="price us">+375</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7178173/Eintr-Frankfurt-vs-Hannover">
++144
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11913976&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-55129340 "
+data-mkt_id="55129340">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7178175">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7178175" data-ev_id="7178175">
+<span class="time">15:30</span>
+<span class="date">03 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="FC Schalke 04 "
+class="price price-248218146-LP
+seln-248218146 mkt-55129340 ev-7178175
+"
+value="MjQ4MjE4MTQ2OjQvNjo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">FC Schalke 04</span>
+</span>
+</span>
+<span class="price frac">4/6</span>
+<span class="price dec">1.66</span>
+<span class="price us">-150</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-248218145-LP
+seln-248218145 mkt-55129340 ev-7178175
+"
+value="MjQ4MjE4MTQ1OjEzLzU6OjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
+</span>
+</span>
+<span class="price frac">13/5</span>
+<span class="price dec">3.60</span>
+<span class="price us">+260</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Hertha Berlin "
+class="price price-248218144-LP
+seln-248218144 mkt-55129340 ev-7178175
+"
+value="MjQ4MjE4MTQ0OjkvMjo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Hertha Berlin</span>
+</span>
+</span>
+<span class="price frac">9/2</span>
+<span class="price dec">5.50</span>
+<span class="price us">+450</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7178175/FC-Schalke-04-vs-Hertha-Berlin">
++144
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11914104&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-55117493 "
+data-mkt_id="55117493">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7178052">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7178052" data-ev_id="7178052">
+<span class="time">18:30</span>
+<span class="date">03 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="RB Leipzig "
+class="price price-248177253-LP
+seln-248177253 mkt-55117493 ev-7178052
+"
+value="MjQ4MTc3MjUzOjgvNTo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">RB Leipzig</span>
+</span>
+</span>
+<span class="price frac">8/5</span>
+<span class="price dec">2.60</span>
+<span class="price us">+160</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-248177251-LP
+seln-248177251 mkt-55117493 ev-7178052
+"
+value="MjQ4MTc3MjUxOjUvMjo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
 </span>
 </span>
 <span class="price frac">5/2</span>
@@ -4491,55 +4888,163 @@ value="MjYwMjIxNTkyOjUvMjo6MA">
 </button>
 </div>
 </td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Borussia Dortmund "
+class="price price-248177252-LP
+seln-248177252 mkt-55117493 ev-7178052
+"
+value="MjQ4MTc3MjUyOjMxLzIwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Borussia Dortmund</span>
+</span>
+</span>
+<span class="price frac">31/20</span>
+<span class="price dec">2.55</span>
+<span class="price us">+155</span>
+</span>
+</button>
+</div>
+</td>
 <td class="mkt-count">
 <a title="Número de mercados"
-href="/es/e/7303674/Tottenham-vs-Juventus">
+href="/es/e/7178052/RB-Leipzig-vs-Borussia-Dortmund">
++152
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11914298&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-55110311 "
+data-mkt_id="55110311">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7177986">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7177986" data-ev_id="7177986">
+<span class="time">15:30</span>
+<span class="date">04 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Colonia "
+class="price price-248152985-LP
+seln-248152985 mkt-55110311 ev-7177986
+"
+value="MjQ4MTUyOTg1OjI3LzIwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Colonia</span>
+</span>
+</span>
+<span class="price frac">27/20</span>
+<span class="price dec">2.35</span>
+<span class="price us">+135</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-248152986-LP
+seln-248152986 mkt-55110311 ev-7177986
+"
+value="MjQ4MTUyOTg2OjExLzU6OjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
+</span>
+</span>
+<span class="price frac">11/5</span>
+<span class="price dec">3.20</span>
+<span class="price us">+220</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Stuttgart "
+class="price price-248152984-LP
+seln-248152984 mkt-55110311 ev-7177986
+"
+value="MjQ4MTUyOTg0OjIvMTo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Stuttgart</span>
+</span>
+</span>
+<span class="price frac">2/1</span>
+<span class="price dec">3.00</span>
+<span class="price us">+200</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7177986/Colonia-vs-Stuttgart">
 +128
 </a>
 </td>
 <td class="stats"><!--
---><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=13330139&amp;language=es" target="_blank"
-class="stats" data-popup_width="1100"
-data-popup_height="800">
-<span class="ST">st</span>
-</a><!--
 --></td>
 </tr>
-<tr class="mkt mkt_content mkt-58300587 "
-data-mkt_id="58300587">
+<tr class="mkt mkt_content mkt-55130859 "
+data-mkt_id="55130859">
 <td class="event-favourite">
 <span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
-data-ref_key="EVENT" data-ref_id="7303883">&#9733;</span>
+data-ref_key="EVENT" data-ref_id="7178191">&#9733;</span>
 </td>
 <td class="time coupon-scoreboard">
-<div class="ev ev-7303883" data-ev_id="7303883">
-<span class="time">20:45</span>
-<span class="date">07 Mar</span>
+<div class="ev ev-7178191" data-ev_id="7178191">
+<span class="time">18:00</span>
+<span class="date">04 Mar</span>
 </div>
 </td>
 <td class="event-scoreboard">
-<span title="Disponible para apostar en vivo" class="will-be-inplay-inside">
-<span class="will-be-inplay-image "></span>
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
 </span>
 </td>
 <td class="stream">
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Manchester City "
-class="price price-260247233-LP
-seln-260247233 mkt-58300587 ev-7303883
+<button type="button" name="add-to-slip" title="Friburgo "
+class="price price-248223364-LP
+seln-248223364 mkt-55130859 ev-7178191
 "
-value="MjYwMjQ3MjMzOjEvNzo6MA">
+value="MjQ4MjIzMzY0OjEwLzE6OjA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Manchester City</span>
+<span class="seln-name">Friburgo</span>
 </span>
 </span>
-<span class="price frac">1/7</span>
-<span class="price dec">1.14</span>
-<span class="price us">-700</span>
+<span class="price frac">10/1</span>
+<span class="price dec">11.00</span>
+<span class="price us">+1000</span>
 </span>
 </button>
 </div>
@@ -4547,10 +5052,377 @@ value="MjYwMjQ3MjMzOjEvNzo6MA">
 <td class="seln seln_sort-D">
 <div>
 <button type="button" name="add-to-slip" title="Empate "
-class="price price-260247155-LP
-seln-260247155 mkt-58300587 ev-7303883
+class="price price-248223365-LP
+seln-248223365 mkt-55130859 ev-7178191
 "
-value="MjYwMjQ3MTU1OjcvMTo6MA">
+value="MjQ4MjIzMzY1OjkvMjo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
+</span>
+</span>
+<span class="price frac">9/2</span>
+<span class="price dec">5.50</span>
+<span class="price us">+450</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Bayern de Munich "
+class="price price-248223363-LP
+seln-248223363 mkt-55130859 ev-7178191
+"
+value="MjQ4MjIzMzYzOjIvNzo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Bayern de Munich</span>
+</span>
+</span>
+<span class="price frac">2/7</span>
+<span class="price dec">1.28</span>
+<span class="price us">-350</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7178191/Friburgo-vs-Bayern-de-Munich">
++148
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11913872&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-55132601 "
+data-mkt_id="55132601">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7178207">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7178207" data-ev_id="7178207">
+<span class="time">20:30</span>
+<span class="date">09 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Mainz "
+class="price price-248229220-LP
+seln-248229220 mkt-55132601 ev-7178207
+"
+value="MjQ4MjI5MjIwOjIxLzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Mainz</span>
+</span>
+</span>
+<span class="price frac">21/10</span>
+<span class="price dec">3.10</span>
+<span class="price us">+210</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-248229221-LP
+seln-248229221 mkt-55132601 ev-7178207
+"
+value="MjQ4MjI5MjIxOjIzLzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
+</span>
+</span>
+<span class="price frac">23/10</span>
+<span class="price dec">3.30</span>
+<span class="price us">+229</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="FC Schalke 04 "
+class="price price-248229222-LP
+seln-248229222 mkt-55132601 ev-7178207
+"
+value="MjQ4MjI5MjIyOjEzLzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">FC Schalke 04</span>
+</span>
+</span>
+<span class="price frac">13/10</span>
+<span class="price dec">2.30</span>
+<span class="price us">+130</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7178207/Mainz-vs-FC-Schalke-04">
++128
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11913830&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-55108734 "
+data-mkt_id="55108734">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7177975">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7177975" data-ev_id="7177975">
+<span class="time">15:30</span>
+<span class="date">10 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Hannover "
+class="price price-248148075-LP
+seln-248148075 mkt-55108734 ev-7177975
+"
+value="MjQ4MTQ4MDc1OjcvNTo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Hannover</span>
+</span>
+</span>
+<span class="price frac">7/5</span>
+<span class="price dec">2.40</span>
+<span class="price us">+140</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-248148073-LP
+seln-248148073 mkt-55108734 ev-7177975
+"
+value="MjQ4MTQ4MDczOjExLzU6OjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
+</span>
+</span>
+<span class="price frac">11/5</span>
+<span class="price dec">3.20</span>
+<span class="price us">+220</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Augsburg "
+class="price price-248148078-LP
+seln-248148078 mkt-55108734 ev-7177975
+"
+value="MjQ4MTQ4MDc4OjIvMTo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Augsburg</span>
+</span>
+</span>
+<span class="price frac">2/1</span>
+<span class="price dec">3.00</span>
+<span class="price us">+200</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7177975/Hannover-vs-Augsburg">
++126
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11913742&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-55114959 "
+data-mkt_id="55114959">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7178029">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7178029" data-ev_id="7178029">
+<span class="time">15:30</span>
+<span class="date">10 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Hoffenheim "
+class="price price-248168554-LP
+seln-248168554 mkt-55114959 ev-7178029
+"
+value="MjQ4MTY4NTU0OjUvNjo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Hoffenheim</span>
+</span>
+</span>
+<span class="price frac">5/6</span>
+<span class="price dec">1.83</span>
+<span class="price us">-120</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-248168849-LP
+seln-248168849 mkt-55114959 ev-7178029
+"
+value="MjQ4MTY4ODQ5OjI3LzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
+</span>
+</span>
+<span class="price frac">27/10</span>
+<span class="price dec">3.70</span>
+<span class="price us">+270</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Wolfsburgo "
+class="price price-248168850-LP
+seln-248168850 mkt-55114959 ev-7178029
+"
+value="MjQ4MTY4ODUwOjMvMTo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Wolfsburgo</span>
+</span>
+</span>
+<span class="price frac">3/1</span>
+<span class="price dec">4.00</span>
+<span class="price us">+300</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7178029/Hoffenheim-vs-Wolfsburgo">
++129
+</a>
+</td>
+<td class="stats"><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-55118143 "
+data-mkt_id="55118143">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7178059">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7178059" data-ev_id="7178059">
+<span class="time">15:30</span>
+<span class="date">10 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Bayern de Munich "
+class="price price-248179424-LP
+seln-248179424 mkt-55118143 ev-7178059
+"
+value="MjQ4MTc5NDI0OjIvMTU6OjA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Bayern de Munich</span>
+</span>
+</span>
+<span class="price frac">2/15</span>
+<span class="price dec">1.13</span>
+<span class="price us">-750</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-248179426-LP
+seln-248179426 mkt-55118143 ev-7178059
+"
+value="MjQ4MTc5NDI2OjcvMTo6MA">
 <span>
 <span class="seln-label">
 <span>
@@ -4566,15 +5438,15 @@ value="MjYwMjQ3MTU1OjcvMTo6MA">
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Basilea "
-class="price price-260247156-LP
-seln-260247156 mkt-58300587 ev-7303883
+<button type="button" name="add-to-slip" title="Hamburgo "
+class="price price-248179428-LP
+seln-248179428 mkt-55118143 ev-7178059
 "
-value="MjYwMjQ3MTU2OjI1LzE6OjA">
+value="MjQ4MTc5NDI4OjI1LzE6OjA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Basilea</span>
+<span class="seln-name">Hamburgo</span>
 </span>
 </span>
 <span class="price frac">25/1</span>
@@ -4586,28 +5458,23 @@ value="MjYwMjQ3MTU2OjI1LzE6OjA">
 </td>
 <td class="mkt-count">
 <a title="Número de mercados"
-href="/es/e/7303883/Manchester-City-vs-Basilea">
+href="/es/e/7178059/Bayern-de-Munich-vs-Hamburgo">
 +123
 </a>
 </td>
 <td class="stats"><!--
---><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=13330143&amp;language=es" target="_blank"
-class="stats" data-popup_width="1100"
-data-popup_height="800">
-<span class="ST">st</span>
-</a><!--
 --></td>
 </tr>
-<tr class="mkt mkt_content mkt-59169640 "
-data-mkt_id="59169640">
+<tr class="mkt mkt_content mkt-55121986 "
+data-mkt_id="55121986">
 <td class="event-favourite">
 <span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
-data-ref_key="EVENT" data-ref_id="7341062">&#9733;</span>
+data-ref_key="EVENT" data-ref_id="7178098">&#9733;</span>
 </td>
 <td class="time coupon-scoreboard">
-<div class="ev ev-7341062" data-ev_id="7341062">
-<span class="time">20:45</span>
-<span class="date">13 Mar</span>
+<div class="ev ev-7178098" data-ev_id="7178098">
+<span class="time">15:30</span>
+<span class="date">10 Mar</span>
 </div>
 </td>
 <td class="event-scoreboard">
@@ -4619,20 +5486,20 @@ data-ref_key="EVENT" data-ref_id="7341062">&#9733;</span>
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Roma "
-class="price price-263609416-LP
-seln-263609416 mkt-59169640 ev-7341062
+<button type="button" name="add-to-slip" title="Hertha Berlin "
+class="price price-248192762-LP
+seln-248192762 mkt-55121986 ev-7178098
 "
-value="MjYzNjA5NDE2OjgvMTE6OjA">
+value="MjQ4MTkyNzYyOjYvNTo6MA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Roma</span>
+<span class="seln-name">Hertha Berlin</span>
 </span>
 </span>
-<span class="price frac">8/11</span>
-<span class="price dec">1.72</span>
-<span class="price us">-137</span>
+<span class="price frac">6/5</span>
+<span class="price dec">2.20</span>
+<span class="price us">+120</span>
 </span>
 </button>
 </div>
@@ -4640,67 +5507,67 @@ value="MjYzNjA5NDE2OjgvMTE6OjA">
 <td class="seln seln_sort-D">
 <div>
 <button type="button" name="add-to-slip" title="Empate "
-class="price price-263609415-LP
-seln-263609415 mkt-59169640 ev-7341062
+class="price price-248192764-LP
+seln-248192764 mkt-55121986 ev-7178098
 "
-value="MjYzNjA5NDE1OjMvMTo6MA">
+value="MjQ4MTkyNzY0OjExLzU6OjA">
 <span>
 <span class="seln-label">
 <span>
 <span class="seln-draw-label">X</span>
 </span>
 </span>
-<span class="price frac">3/1</span>
-<span class="price dec">4.00</span>
-<span class="price us">+300</span>
+<span class="price frac">11/5</span>
+<span class="price dec">3.20</span>
+<span class="price us">+220</span>
 </span>
 </button>
 </div>
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Shakhtar Donetsk "
-class="price price-263609417-LP
-seln-263609417 mkt-59169640 ev-7341062
+<button type="button" name="add-to-slip" title="Friburgo "
+class="price price-248192760-LP
+seln-248192760 mkt-55121986 ev-7178098
 "
-value="MjYzNjA5NDE3OjQvMTo6MA">
+value="MjQ4MTkyNzYwOjEyLzU6OjA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Shakhtar Donetsk</span>
+<span class="seln-name">Friburgo</span>
 </span>
 </span>
-<span class="price frac">4/1</span>
-<span class="price dec">5.00</span>
-<span class="price us">+400</span>
+<span class="price frac">12/5</span>
+<span class="price dec">3.40</span>
+<span class="price us">+240</span>
 </span>
 </button>
 </div>
 </td>
 <td class="mkt-count">
 <a title="Número de mercados"
-href="/es/e/7341062/Roma-vs-Shakhtar-Donetsk">
-+131
+href="/es/e/7178098/Hertha-Berlin-vs-Friburgo">
++124
 </a>
 </td>
 <td class="stats"><!--
---><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=13330331&amp;language=es" target="_blank"
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11914154&amp;language=es" target="_blank"
 class="stats" data-popup_width="1100"
 data-popup_height="800">
 <span class="ST">st</span>
 </a><!--
 --></td>
 </tr>
-<tr class="mkt mkt_content mkt-59171481 "
-data-mkt_id="59171481">
+<tr class="mkt mkt_content mkt-55110859 "
+data-mkt_id="55110859">
 <td class="event-favourite">
 <span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
-data-ref_key="EVENT" data-ref_id="7341088">&#9733;</span>
+data-ref_key="EVENT" data-ref_id="7177991">&#9733;</span>
 </td>
 <td class="time coupon-scoreboard">
-<div class="ev ev-7341088" data-ev_id="7341088">
-<span class="time">20:45</span>
-<span class="date">13 Mar</span>
+<div class="ev ev-7177991" data-ev_id="7177991">
+<span class="time">18:30</span>
+<span class="date">10 Mar</span>
 </div>
 </td>
 <td class="event-scoreboard">
@@ -4712,20 +5579,20 @@ data-ref_key="EVENT" data-ref_id="7341088">&#9733;</span>
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Manchester United "
-class="price price-263616386-LP
-seln-263616386 mkt-59171481 ev-7341088
+<button type="button" name="add-to-slip" title="Bayer Leverkusen "
+class="price price-248154827-LP
+seln-248154827 mkt-55110859 ev-7177991
 "
-value="MjYzNjE2Mzg2OjQvNjo6MA">
+value="MjQ4MTU0ODI3OjQvNTo6MA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Manchester United</span>
+<span class="seln-name">Bayer Leverkusen</span>
 </span>
 </span>
-<span class="price frac">4/6</span>
-<span class="price dec">1.66</span>
-<span class="price us">-150</span>
+<span class="price frac">4/5</span>
+<span class="price dec">1.80</span>
+<span class="price us">-125</span>
 </span>
 </button>
 </div>
@@ -4733,10 +5600,10 @@ value="MjYzNjE2Mzg2OjQvNjo6MA">
 <td class="seln seln_sort-D">
 <div>
 <button type="button" name="add-to-slip" title="Empate "
-class="price price-263616387-LP
-seln-263616387 mkt-59171481 ev-7341088
+class="price price-248154826-LP
+seln-248154826 mkt-55110859 ev-7177991
 "
-value="MjYzNjE2Mzg3OjExLzQ6OjA">
+value="MjQ4MTU0ODI2OjExLzQ6OjA">
 <span>
 <span class="seln-label">
 <span>
@@ -4752,43 +5619,141 @@ value="MjYzNjE2Mzg3OjExLzQ6OjA">
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Sevilla FC "
-class="price price-263616388-LP
-seln-263616388 mkt-59171481 ev-7341088
+<button type="button" name="add-to-slip" title="Bor Monchengladbach "
+class="price price-248154829-LP
+seln-248154829 mkt-55110859 ev-7177991
 "
-value="MjYzNjE2Mzg4OjkvMjo6MA">
+value="MjQ4MTU0ODI5OjE2LzU6OjA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Sevilla FC</span>
+<span class="seln-name">Bor Monchengladbach</span>
 </span>
 </span>
-<span class="price frac">9/2</span>
-<span class="price dec">5.50</span>
-<span class="price us">+450</span>
+<span class="price frac">16/5</span>
+<span class="price dec">4.20</span>
+<span class="price us">+320</span>
 </span>
 </button>
 </div>
 </td>
 <td class="mkt-count">
 <a title="Número de mercados"
-href="/es/e/7341088/Manchester-United-vs-Sevilla-FC">
-+125
+href="/es/e/7177991/Bayer-Leverkusen-vs-Bor-Monchengladbach">
++130
 </a>
 </td>
 <td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11914050&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
 --></td>
 </tr>
-<tr class="mkt mkt_content mkt-59173482 "
-data-mkt_id="59173482">
+<tr class="mkt mkt_content mkt-56223333 "
+data-mkt_id="56223333">
 <td class="event-favourite">
 <span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
-data-ref_key="EVENT" data-ref_id="7341139">&#9733;</span>
+data-ref_key="EVENT" data-ref_id="7220989">&#9733;</span>
 </td>
 <td class="time coupon-scoreboard">
-<div class="ev ev-7341139" data-ev_id="7341139">
+<div class="ev ev-7220989" data-ev_id="7220989">
+<span class="time">15:30</span>
+<span class="date">11 Mar</span>
+</div>
+</td>
+<td class="event-scoreboard">
+<span title="Hora" class="will-be-inplay-inside">
+<span class="will-be-inplay-image shaded"></span>
+</span>
+</td>
+<td class="stream">
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="Stuttgart "
+class="price price-252300009-LP
+seln-252300009 mkt-56223333 ev-7220989
+"
+value="MjUyMzAwMDA5OjE5LzEwOjow">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">Stuttgart</span>
+</span>
+</span>
+<span class="price frac">19/10</span>
+<span class="price dec">2.90</span>
+<span class="price us">+190</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln seln_sort-D">
+<div>
+<button type="button" name="add-to-slip" title="Empate "
+class="price price-252300007-LP
+seln-252300007 mkt-56223333 ev-7220989
+"
+value="MjUyMzAwMDA3OjkvNDo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-draw-label">X</span>
+</span>
+</span>
+<span class="price frac">9/4</span>
+<span class="price dec">3.25</span>
+<span class="price us">+225</span>
+</span>
+</button>
+</div>
+</td>
+<td class="seln ">
+<div>
+<button type="button" name="add-to-slip" title="RB Leipzig "
+class="price price-252300003-LP
+seln-252300003 mkt-56223333 ev-7220989
+"
+value="MjUyMzAwMDAzOjcvNTo6MA">
+<span>
+<span class="seln-label">
+<span>
+<span class="seln-name">RB Leipzig</span>
+</span>
+</span>
+<span class="price frac">7/5</span>
+<span class="price dec">2.40</span>
+<span class="price us">+140</span>
+</span>
+</button>
+</div>
+</td>
+<td class="mkt-count">
+<a title="Número de mercados"
+href="/es/e/7220989/Stuttgart-vs-RB-Leipzig">
++128
+</a>
+</td>
+<td class="stats"><!--
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11913942&amp;language=es" target="_blank"
+class="stats" data-popup_width="1100"
+data-popup_height="800">
+<span class="ST">st</span>
+</a><!--
+--></td>
+</tr>
+<tr class="mkt mkt_content mkt-56223426 "
+data-mkt_id="56223426">
+<td class="event-favourite">
+<span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
+data-ref_key="EVENT" data-ref_id="7220990">&#9733;</span>
+</td>
+<td class="time coupon-scoreboard">
+<div class="ev ev-7220990" data-ev_id="7220990">
 <span class="time">18:00</span>
-<span class="date">14 Mar</span>
+<span class="date">11 Mar</span>
 </div>
 </td>
 <td class="event-scoreboard">
@@ -4800,20 +5765,20 @@ data-ref_key="EVENT" data-ref_id="7341139">&#9733;</span>
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Besiktas "
-class="price price-263624127-LP
-seln-263624127 mkt-59173482 ev-7341139
+<button type="button" name="add-to-slip" title="Borussia Dortmund "
+class="price price-252300265-LP
+seln-252300265 mkt-56223426 ev-7220990
 "
-value="MjYzNjI0MTI3OjExLzI6OjA">
+value="MjUyMzAwMjY1OjgvMTM6OjA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Besiktas</span>
+<span class="seln-name">Borussia Dortmund</span>
 </span>
 </span>
-<span class="price frac">11/2</span>
-<span class="price dec">6.50</span>
-<span class="price us">+550</span>
+<span class="price frac">8/13</span>
+<span class="price dec">1.61</span>
+<span class="price us">-162</span>
 </span>
 </button>
 </div>
@@ -4821,67 +5786,67 @@ value="MjYzNjI0MTI3OjExLzI6OjA">
 <td class="seln seln_sort-D">
 <div>
 <button type="button" name="add-to-slip" title="Empate "
-class="price price-263624123-LP
-seln-263624123 mkt-59173482 ev-7341139
+class="price price-252300266-LP
+seln-252300266 mkt-56223426 ev-7220990
 "
-value="MjYzNjI0MTIzOjcvMjo6MA">
+value="MjUyMzAwMjY2OjI5LzEwOjow">
 <span>
 <span class="seln-label">
 <span>
 <span class="seln-draw-label">X</span>
 </span>
 </span>
-<span class="price frac">7/2</span>
-<span class="price dec">4.50</span>
-<span class="price us">+350</span>
+<span class="price frac">29/10</span>
+<span class="price dec">3.90</span>
+<span class="price us">+290</span>
 </span>
 </button>
 </div>
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Bayern de Munich "
-class="price price-263624125-LP
-seln-263624125 mkt-59173482 ev-7341139
+<button type="button" name="add-to-slip" title="Eintr Frankfurt "
+class="price price-252300267-LP
+seln-252300267 mkt-56223426 ev-7220990
 "
-value="MjYzNjI0MTI1OjEvMjo6MA">
+value="MjUyMzAwMjY3OjE3LzQ6OjA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Bayern de Munich</span>
+<span class="seln-name">Eintr Frankfurt</span>
 </span>
 </span>
-<span class="price frac">1/2</span>
-<span class="price dec">1.50</span>
-<span class="price us">-200</span>
+<span class="price frac">17/4</span>
+<span class="price dec">5.25</span>
+<span class="price us">+425</span>
 </span>
 </button>
 </div>
 </td>
 <td class="mkt-count">
 <a title="Número de mercados"
-href="/es/e/7341139/Besiktas-vs-Bayern-de-Munich">
+href="/es/e/7220990/Borussia-Dortmund-vs-Eintr-Frankfurt">
 +130
 </a>
 </td>
 <td class="stats"><!--
---><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=13330349&amp;language=es" target="_blank"
+--><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=11914028&amp;language=es" target="_blank"
 class="stats" data-popup_width="1100"
 data-popup_height="800">
 <span class="ST">st</span>
 </a><!--
 --></td>
 </tr>
-<tr class="mkt mkt_content mkt-59175002 "
-data-mkt_id="59175002">
+<tr class="mkt mkt_content mkt-56224904 "
+data-mkt_id="56224904">
 <td class="event-favourite">
 <span class="favourite-button" title="Añadir o quitar este evento de 'Favoritos'"
-data-ref_key="EVENT" data-ref_id="7341152">&#9733;</span>
+data-ref_key="EVENT" data-ref_id="7220999">&#9733;</span>
 </td>
 <td class="time coupon-scoreboard">
-<div class="ev ev-7341152" data-ev_id="7341152">
-<span class="time">20:45</span>
-<span class="date">14 Mar</span>
+<div class="ev ev-7220999" data-ev_id="7220999">
+<span class="time">20:30</span>
+<span class="date">12 Mar</span>
 </div>
 </td>
 <td class="event-scoreboard">
@@ -4893,20 +5858,20 @@ data-ref_key="EVENT" data-ref_id="7341152">&#9733;</span>
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="FC Barcelona "
-class="price price-263629279-LP
-seln-263629279 mkt-59175002 ev-7341152
+<button type="button" name="add-to-slip" title="Werder Bremen "
+class="price price-252304781-LP
+seln-252304781 mkt-56224904 ev-7220999
 "
-value="MjYzNjI5Mjc5OjQvOTo6MA">
+value="MjUyMzA0NzgxOjEwLzExOjow">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">FC Barcelona</span>
+<span class="seln-name">Werder Bremen</span>
 </span>
 </span>
-<span class="price frac">4/9</span>
-<span class="price dec">1.44</span>
-<span class="price us">-225</span>
+<span class="price frac">10/11</span>
+<span class="price dec">1.90</span>
+<span class="price us">-110</span>
 </span>
 </button>
 </div>
@@ -4914,55 +5879,50 @@ value="MjYzNjI5Mjc5OjQvOTo6MA">
 <td class="seln seln_sort-D">
 <div>
 <button type="button" name="add-to-slip" title="Empate "
-class="price price-263629278-LP
-seln-263629278 mkt-59175002 ev-7341152
+class="price price-252304780-LP
+seln-252304780 mkt-56224904 ev-7220999
 "
-value="MjYzNjI5Mjc4OjcvMjo6MA">
+value="MjUyMzA0NzgwOjUvMjo6MA">
 <span>
 <span class="seln-label">
 <span>
 <span class="seln-draw-label">X</span>
 </span>
 </span>
-<span class="price frac">7/2</span>
-<span class="price dec">4.50</span>
-<span class="price us">+350</span>
+<span class="price frac">5/2</span>
+<span class="price dec">3.50</span>
+<span class="price us">+250</span>
 </span>
 </button>
 </div>
 </td>
 <td class="seln ">
 <div>
-<button type="button" name="add-to-slip" title="Chelsea "
-class="price price-263629277-LP
-seln-263629277 mkt-59175002 ev-7341152
+<button type="button" name="add-to-slip" title="Colonia "
+class="price price-252304779-LP
+seln-252304779 mkt-56224904 ev-7220999
 "
-value="MjYzNjI5Mjc3OjEzLzI6OjA">
+value="MjUyMzA0Nzc5OjMvMTo6MA">
 <span>
 <span class="seln-label">
 <span>
-<span class="seln-name">Chelsea</span>
+<span class="seln-name">Colonia</span>
 </span>
 </span>
-<span class="price frac">13/2</span>
-<span class="price dec">7.50</span>
-<span class="price us">+650</span>
+<span class="price frac">3/1</span>
+<span class="price dec">4.00</span>
+<span class="price us">+300</span>
 </span>
 </button>
 </div>
 </td>
 <td class="mkt-count">
 <a title="Número de mercados"
-href="/es/e/7341152/FC-Barcelona-vs-Chelsea">
-+130
+href="/es/e/7220999/Werder-Bremen-vs-Colonia">
++126
 </a>
 </td>
 <td class="stats"><!--
---><a title="Estadísticas" href="http://stats.betradar.com/s4/?clientid=534&amp;matchid=13330345&amp;language=es" target="_blank"
-class="stats" data-popup_width="1100"
-data-popup_height="800">
-<span class="ST">st</span>
-</a><!--
 --></td>
 </tr>
 </tbody>

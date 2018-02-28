@@ -1,15 +1,14 @@
 import unicodecsv as csv
 from bs4 import BeautifulSoup
-from utils import writeCSVdocresults, saveHTML, getStringSportiumPretty
+import constants as C
+from utils import writeCSVdocresults, saveHTML, getStringSportiumPretty, cross_local_to_visitant
 
-htmls_sportium="htmls/sportium/"
-casa="Sportium"
 ##########################################################
 ## Sportium is structured in fragments where is posible ##
 ## That some of them have games inside
 def getPossibleFragmentGames(bsObj):
 	try:
-		fragments = bsObj.find("div", {"class":"cms-contents"}).div.find("div", {"id":"main-contents"}).div.div.find("div", {"id":"main-area"}).findAll("div", {"class":"fragment"})
+		fragments = bsObj.find(C.div_tag, {C.class_tag:"cms-contents"}).div.find(C.div_tag, {C.id_tag:"main-contents"}).div.div.find(C.div_tag, {C.id_tag:"main-area"}).findAll(C.div_tag, {C.class_tag:"fragment"})
 		return fragments
 	except:
 		return []
@@ -18,7 +17,7 @@ def getPossibleFragmentGames(bsObj):
 ## Check if given fragment is right to have matches
 def isFragmentaGamesFragment(fragment):
 	if (fragment.h4 != None and fragment.div != None):
-		if(fragment.find("table", {"class","coupon"}) != None ):
+		if(fragment.find(C.table_tag, {C.class_tag,"coupon"}) != None ):
 			return True
 	return False
 
@@ -32,7 +31,7 @@ def getMatchesSportium(path):
 	for currentFrag in getPossibleFragmentGames(bsObj):
 		try:
 			if isFragmentaGamesFragment(currentFrag):
-				for tbody in currentFrag.find("div", {"class":"expander-content"}).find("div", {"class":None}).table.findAll("tbody"):
+				for tbody in currentFrag.find(C.div_tag, {C.class_tag:"expander-content"}).find(C.div_tag, {C.class_tag:None}).table.findAll("tbody"):
 					tbodys.append(tbody)
 		except:
 			pass
@@ -45,31 +44,34 @@ def getData2Results(esport, casa, path):
 	for tbody in getMatchesSportium(path):
 		equips=[]
 		cuotes=[]
-		alltr = tbody.findAll("tr") ## Should be 2 tr's
-		for tr in alltr:
-			try:
-				equips.append(getStringSportiumPretty(tr.find("td", {"class":"event-name"}).div.div.a.text))
-				cuotes.append(tr.findAll("td", {"class":"mkt-sort"})[-1].find("button", {"class":"price"}).find("span", {"class":"price dec"}).text)
-			except:
-				pass
-		writeCSVdocresults(esport, casa, equips, cuotes)
-	
+		alltr = tbody.findAll(C.tr_tag) ## Should be 2 tr's
+		try:
+			for tr in alltr:
+				equips.append(getStringSportiumPretty(tr.find(C.td_tag, {C.class_tag:"event-name"}).div.div.a.text))
+				cuotes.append(tr.findAll(C.td_tag, {C.class_tag:"mkt-sort"})[-1].find("button", {C.class_tag:"price"}).find(C.span_tag, {C.class_tag:"price dec"}).text)
+
+			if esport == C.nba_tag:
+				equips, cuotes = cross_local_to_visitant(equips, cuotes)
+			writeCSVdocresults(esport, casa, equips, cuotes)
+		except:
+			pass
 ##########################################################
 ## Getting in equip and cuota data parsed of each game  ##
 ## with 3 results
 def getData3Results(esport, casa, path):
 	for tbody in getMatchesSportium(path):
-		for tr in tbody.findAll("tr", {"class":"mkt"}):
-			equips=[]
-			cuotes=[]
-			for seln in tr.findAll("td", {"class":"seln"}):
-				try:
-					if(seln!=tr.findAll("td", {"class":"seln"})[1]):
-						equips.append(getStringSportiumPretty(seln.find("button", {"class":"price"}).find("span", {"class":"seln-label"}).text))
-					cuotes.append(seln.find("button", {"class":"price"}).find("span", {"class":"price dec"}).text)
-				except:
-					pass
-			writeCSVdocresults(esport, casa, equips, cuotes)
+		for tr in tbody.findAll(C.tr_tag, {C.class_tag:"mkt"}):
+			try:
+				equips=[]
+				cuotes=[]
+				for seln in tr.findAll(C.td_tag, {C.class_tag:"seln"}):
+						if(seln!=tr.findAll(C.td_tag, {C.class_tag:"seln"})[1]):
+							equips.append(getStringSportiumPretty(seln.find("button", {C.class_tag:"price"}).find(C.span_tag, {C.class_tag:"seln-label"}).text))
+						cuotes.append(seln.find("button", {C.class_tag:"price"}).find(C.span_tag, {C.class_tag:"price dec"}).text)
+				writeCSVdocresults(esport, casa, equips, cuotes)
+			except:
+				pass
+
 
 def getHTMLs():
 	saveHTML("http://109.202.116.81/es/t/40073/NBA",htmls_sportium+"NBA.txt")
@@ -78,16 +80,23 @@ def getHTMLs():
 	saveHTML("http://109.202.116.81/es/t/45211/La-Liga",htmls_sportium+"LALIGA.txt")
 	saveHTML("http://109.202.116.81/es/t/45225/Champions-League",htmls_sportium+"CHAMPIONS.txt")
 	saveHTML("http://109.202.116.81/es/t/40527/Premier-League",htmls_sportium+"PREMIER.txt")
-	
+	saveHTML("http://109.202.116.81/es/t/44571/Serie-A",htmls_sportium+"SERIEA.txt")
+	saveHTML("http://109.202.116.81/es/t/45915/Bundesliga",htmls_sportium+"BUNDESLIGA.txt")
+	saveHTML("http://109.202.116.81/es/t/46074/Ligue-1",htmls_sportium+"LIGUE1.txt")
+	saveHTML("http://109.202.116.81/es/t/45223/Europa-League",htmls_sportium+"UEFA.txt")
+
+
+htmls_sportium=C.html_sportium_path_tag
 ######
 def runSportium():
 	getHTMLs()
-	getData2Results("Nba",casa,htmls_sportium+"NBA.txt")
-	getData2Results("Euroliga",casa,htmls_sportium+"EUROLIGA.txt")
-	getData2Results("Nhl",casa,htmls_sportium+"NHL.txt")
-	getData3Results("Laliga",casa, htmls_sportium+"LALIGA.txt")
-	getData3Results("Champions",casa, htmls_sportium+"CHAMPIONS.txt")
-	getData3Results("Premier",casa, htmls_sportium+"PREMIER.txt")
-
-
-
+	getData2Results(C.nba_tag,C.sportium_tag,htmls_sportium+"NBA.txt")
+	getData2Results(C.euroliga_tag,C.sportium_tag,htmls_sportium+"EUROLIGA.txt")
+	getData2Results(C.nhl_tag,C.sportium_tag,htmls_sportium+"NHL.txt")
+	getData3Results(C.laliga_tag,C.sportium_tag, htmls_sportium+"LALIGA.txt")
+	getData3Results(C.champions_tag,C.sportium_tag, htmls_sportium+"CHAMPIONS.txt")
+	getData3Results(C.premier_tag,C.sportium_tag, htmls_sportium+"PREMIER.txt")
+	getData3Results(C.serie_a_tag,C.sportium_tag, htmls_sportium+"SERIEA.txt")
+	getData3Results(C.bundesliga_tag,C.sportium_tag, htmls_sportium+"BUNDESLIGA.txt")
+	getData3Results(C.ligue1_tag,C.sportium_tag, htmls_sportium+"LIGUE1.txt")
+	getData3Results(C.uefa_tag,C.sportium_tag, htmls_sportium+"UEFA.txt")

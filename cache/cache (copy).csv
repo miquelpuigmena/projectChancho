@@ -1,142 +1,142 @@
-Sport,Oficial Name,Sportium
-Futbol,Barcelona,
-Futbol,Atletico de Madrid,
-Futbol,Valencia,
-Futbol,Madrid,
-Futbol,Villarreal,
-Futbol,Sevilla,
-Futbol,Celta de Vigo,
-Futbol,Eibar,
-Futbol,Getafe,
-Futbol,Girona,
-Futbol,Betis,
-Futbol,Athletic de Bilbao,
-Futbol,Leganes,
-Futbol,Español,
-Futbol,Real sociedad,
-Futbol,Alaves,
-Futbol,Levante,
-Futbol,Deportivo,
-Futbol,Las Palmas,
-Futbol,Malaga,
-Futbol,Manchester City,
-Futbol,Manchester United,
-Futbol,Chelsea,
-Futbol,Liverpool,
-Futbol,Tottenham,
-Futbol,Arsenal,
-Futbol,Leicester,
-Futbol,Burnley,
-Futbol,Everton,
-Futbol,Watford,
-Futbol,West ham,
-Futbol,Bournemouth,
-Futbol,Crystal Palace,
-Futbol,Huddersfield town,
-Futbol,Newcastle,
-Futbol,Brighton,
-Futbol,Stoke City,
-Futbol,Southampton,
-Futbol,Albion,
-Futbol,Swansea,
-Futbol,Basel,
-Futbol,CSKA Moscou,
-Futbol,Benfica,
-Futbol,Paris Saint Germain,
-Futbol,Bayern,
-Futbol,Celtic,
-Futbol,Anderlecht,
-Futbol,Roma,
-Futbol,Qarabag,
-Futbol,Juventus,
-Futbol,Sporting de Lisboa,
-Futbol,Olympiakos,
-Futbol,Spartak Moscow,
-Futbol,Shaktar,
-Futbol,Napoli,
-Futbol,Feyenoord,
-Futbol,Besiktas,
-Futbol,Oporto,
-Futbol,Leipzig,
-Futbol,Monaco,
-Futbol,Dortmund,
-Futbol,Apoel,
-Basquet,Celtics,
-Basquet,Raptors,
-Basquet,Cavaliers,
-Basquet,Heat,
-Basquet,Wizards,
-Basquet,Pacers,
-Basquet,Bucks,
-Basquet,76ers,
-Basquet,Pistons,
-Basquet,Knicks,
-Basquet,Hornets,
-Basquet,Bulls,
-Basquet,Nets,
-Basquet,Hawks,
-Basquet,Magic,
-Basquet,Warriors,
-Basquet,Rockets,
-Basquet,Timberwolves,
-Basquet,Spurs,
-Basquet,Thunder,
-Basquet,Pelicans,
-Basquet,Blazers,
-Basquet,Nuggets,
-Basquet,Clippers,
-Basquet,Jazz,
-Basquet,Grizzlies,
-Basquet,Lakers,
-Basquet,Suns,
-Basquet,Mavericks,
-Basquet,Kings,
-Basquet,Barcelona,
-Basquet,Madrid,
-Basquet,Unicaja,
-Basquet,Panathinakos,
-Basquet,Fenerbache,
-Basquet,Olympiakos,
-Basquet,Zalgiris,
-Basquet,Maccabi Tel Aviv,
-Basquet,CSKA Moscou,
-Basquet,Andalou Efes,
-Basquet,Estrella Roja,
-Basquet,Baskonia,
-Basquet,Milano,
-Basquet,Partizan,
-Basquet,Berlin,
-Basquet,Valencia,
-Basquet,Bayern Munchen,
-Basquet,Besiktas,
-Hockey,Tampa Bay,
-Hockey,Boston,
-Hockey,Washington,
-Hockey,Toronto,
-Hockey,New Jersey,
-Hockey,Columbus,
-Hockey,Philadelphia,
-Hockey,Rangers,
-Hockey,Pittsburgh,
-Hockey,Islanders,
-Hockey,Carolina,
-Hockey,Detroit,
-Hockey,Florida,
-Hockey,Montreal,
-Hockey,Ottawa,
-Hockey,Buffalo,
-Hockey,Vegas,
-Hockey,Winnipeg,
-Hockey,Nashville,
-Hockey,Sant Louis,
-Hockey,San Jose,
-Hockey,Dallas,
-Hockey,Colorado,
-Hockey,Minnesota,
-Hockey,Calgary,
-Hockey,Los Angeles,
-Hockey,Anaheim,
-Hockey,Chicago,
-Hockey,Edmonton,
-Hockey,Vancouver,
-Hockey,Arizona,
+Sport,Oficial Name,Sportium,Codere
+Futbol,Barcelona,FC Barcelona,Barcelona
+Futbol,Atletico de Madrid,Atlético Madrid,Atlético
+Futbol,Valencia,Valencia CF,Valencia
+Futbol,Madrid,Real Madrid,Real Madrid
+Futbol,Villarreal,Villarreal CF,Villarreal
+Futbol,Sevilla,Sevilla FC,Sevilla
+Futbol,Celta de Vigo,RC Celta,Celta
+Futbol,Eibar,SD Eibar,Eibar
+Futbol,Getafe,Getafe CF,Getafe
+Futbol,Girona,Girona FC,Girona
+Futbol,Betis,Real Betis,Betis
+Futbol,Athletic de Bilbao,Athletic Club,Athletic
+Futbol,Leganes,CD Leganés,Leganés
+Futbol,Español,RCD Espanyol,Espanyol
+Futbol,Real sociedad,Real Sociedad,R. Sociedad
+Futbol,Alaves,D.Alavés,Alavés
+Futbol,Levante,Levante UD,Levante
+Futbol,Deportivo,RC Deportivo,Deportivo
+Futbol,Las Palmas,UD Las Palmas,Las Palmas
+Futbol,Malaga,Málaga CF,Málaga
+Futbol,Manchester City,Manchester City,Man City
+Futbol,Manchester United,Manchester United,Man Utd
+Futbol,Chelsea,Chelsea,Chelsea
+Futbol,Liverpool,Liverpool,Liverpool
+Futbol,Tottenham,Tottenham,Tottenham
+Futbol,Arsenal,Arsenal,Arsenal
+Futbol,Leicester,Leicester,Leicester
+Futbol,Burnley,Burnley,Burnley
+Futbol,Everton,Everton,Everton
+Futbol,Watford,Watford,Watford
+Futbol,West ham,West Ham United,West Ham
+Futbol,Bournemouth,Bournemouth,Bournemouth
+Futbol,Crystal Palace,Crystal Palace,C Palace
+Futbol,Huddersfield town,Huddersfield,Huddersfield 
+Futbol,Newcastle,Newcastle,Newcastle
+Futbol,Brighton,Brighton,Brighton & Hove Albion
+Futbol,Stoke City,Stoke,Stoke
+Futbol,Southampton,Southampton,Southampton
+Futbol,Albion,West Brom,West Brom
+Futbol,Swansea,Swansea,Swansea
+Futbol,Basel,Basilea,Basilea
+Futbol,CSKA Moscou,,
+Futbol,Benfica,,
+Futbol,Paris Saint Germain,PSG,PSG
+Futbol,Bayern,Bayern de Munich,Bayern Munich
+Futbol,Celtic,,
+Futbol,Anderlecht,,
+Futbol,Roma,Roma,Roma
+Futbol,Qarabag,,
+Futbol,Juventus,Juventus,Juventus
+Futbol,Sporting de Lisboa,,
+Futbol,Olympiakos,,
+Futbol,Spartak Moscow,,
+Futbol,Shaktar,Shakhtar Donetsk,Shakhtar
+Futbol,Napoli,,
+Futbol,Feyenoord,,
+Futbol,Besiktas,Besiktas,Besiktas JK
+Futbol,Oporto,Oporto,Oporto
+Futbol,Leipzig,,
+Futbol,Monaco,,
+Futbol,Dortmund,,
+Futbol,Apoel,,
+Basquet,Celtics,,
+Basquet,Raptors,,
+Basquet,Cavaliers,,
+Basquet,Heat,,
+Basquet,Wizards,,
+Basquet,Pacers,,
+Basquet,Bucks,,
+Basquet,76ers,,
+Basquet,Pistons,,
+Basquet,Knicks,,
+Basquet,Hornets,,
+Basquet,Bulls,,
+Basquet,Nets,,
+Basquet,Hawks,,
+Basquet,Magic,,
+Basquet,Warriors,,
+Basquet,Rockets,,
+Basquet,Timberwolves,,
+Basquet,Spurs,,
+Basquet,Thunder,,
+Basquet,Pelicans,,
+Basquet,Blazers,,
+Basquet,Nuggets,,
+Basquet,Clippers,,
+Basquet,Jazz,,
+Basquet,Grizzlies,,
+Basquet,Lakers,,
+Basquet,Suns,,
+Basquet,Mavericks,,
+Basquet,Kings,,
+Basquet,Barcelona,,
+Basquet,Madrid,,
+Basquet,Unicaja,,
+Basquet,Panathinakos,,
+Basquet,Fenerbache,,
+Basquet,Olympiakos,,
+Basquet,Zalgiris,,
+Basquet,Maccabi Tel Aviv,,
+Basquet,CSKA Moscou,,
+Basquet,Andalou Efes,,
+Basquet,Estrella Roja,,
+Basquet,Baskonia,,
+Basquet,Milano,,
+Basquet,Partizan,,
+Basquet,Berlin,,
+Basquet,Valencia,,
+Basquet,Bayern Munchen,,
+Basquet,Besiktas,,
+Hockey,Tampa Bay,,
+Hockey,Boston,Boston Bruins,
+Hockey,Washington,Washington Capitals,WSH Capitals
+Hockey,Toronto,Toronto Maple Leafs,TOR Maple Leafs
+Hockey,New Jersey,New Jersey Devils,NJ Devils
+Hockey,Columbus,Columbus Blue Jackets,CO Blue Jackets
+Hockey,Philadelphia,Philadelphia Flyers,PHI Flyers
+Hockey,Rangers,New York Rangers,Rangers
+Hockey,Pittsburgh,Pittsburgh Penguins,PIT Penguins
+Hockey,Islanders,New York Islanders,NY Islanders
+Hockey,Carolina,Carolina Hurricanes,CAR Hurricanes
+Hockey,Detroit,Detroit Red Wings,DET Red Wings
+Hockey,Florida,Florida Panthers,FLO Panthers
+Hockey,Montreal,,
+Hockey,Ottawa,,OTT Senators
+Hockey,Buffalo,Buffalo Sabres,BUF Sabres
+Hockey,Vegas,,VG Knights
+Hockey,Winnipeg,Winnipeg Jets,WIN Jets
+Hockey,Nashville,,NV Predators
+Hockey,Sant Louis,,
+Hockey,San Jose,San Jose Sharks,SJ Sharks
+Hockey,Dallas,Dallas Stars,DAL Stars
+Hockey,Colorado,Colorado Avalanche,COL Avalanche
+Hockey,Minnesota,Minnesota Wild,MIN Wild
+Hockey,Calgary,Calgary Flames,
+Hockey,Los Angeles,,LA Kings
+Hockey,Anaheim,,ANA Ducks
+Hockey,Chicago,,CH Blackhawks
+Hockey,Edmonton,Edmonton Oilers,EDM Oilers
+Hockey,Vancouver,,
+Hockey,Arizona,,
