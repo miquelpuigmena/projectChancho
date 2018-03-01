@@ -238,7 +238,7 @@ html #rtmsNotify .real-time-toast {
 
 </head>
 <body>
-    <script id="client-config" type="text/javascript">window.bwin = window.bwin || {}; window.bwin.config = {"userInfo":{"AccountName":"","Sso":""},"rtms":{"Host":"https://rtms-fe.partygaming.com/gateway","KeepAliveMilliseconds":5000,"ReconnectMilliseconds":15000,"DebugLevel":"off"},"dataLayerTracking":{"isEnabled":true,"dataLayerName":"dataLayer","notTrackedQueryStrings":["sessionKey"]},"login":{"durationInMilliseconds":null,"remainingTimeInMilliseconds":null,"limitReachedUrlPath":"/es/login-duration-limit-reached"},"language":{"nativeName":"español","routeValue":"es"},"env":{"cookieDomain":".bwin.es"},"chatUserData":{"AccountName":"","EmailAddress":"","LoyaltyCategory":"UNKNOWN","MoneyCategory":"U","UserGender":"","UserName":"","FirstName":"","LastName":""},"chat":{"isEnabled":true,"isPushChatEnabled":false,"gmsHost":"https://livechat.bwin.es","gmsChatServicePath":"/genesys/1/service","gmsCometdPath":"/genesys/cometd","host":"https://livechat.bwin.es","gweTrackerScriptPath":"/server/resources/js/build/GTC.min.js","gweCometdPath":"/server/cometd","dslResourcePath":"/chat/dsl/domain-model.xml","debugLevel":"off","httpTimeoutInMilliseconds":15000,"webSiteLanguage":"ES","webSiteUrl":"bwines","brand":"BWINES","channel":"WC","frontend":"be","product":"SPORTSBOOK","isChatAgentAvailable":false,"cookieDomain":".bwin.es","remoteLoggerUrl":"/log"},"appInfo":{"brandId":"BWINES","channelId":"WC","frontendId":"be","productId":"SPORTSBOOK"},"portalConfig":{"isHighValuePerson":false,"chatToolboxVersion":"v2","accountDomainUrl":"https://www.bwin.es/es","regLabelFloating":false,"livePersonChatConfig":{"accountId":"42539216","livePersonPushChatShowInvite":false,"isLivePersonPushChatEnabled":false,"supportedEvents":[],"supportedLanguages":[],"currentCultureInfo":"es-ES"},"danskeUrlConfig":{"checkActiveSession":"NA","dsLoginUrl":"NA","getRelayLogin":"NA"},"IsCenteredLoginEnabled":false,"SkelatonEnabled":false,"tiercode":null,"sbUserId":"","jumioUrl":"https://www.bwin.es/es/authentication/jumiokyc","IsSportingbetUserFromBrazil":false}};</script>
+    <script id="client-config" type="text/javascript">window.bwin = window.bwin || {}; window.bwin.config = {"userInfo":{"AccountName":"","Sso":""},"rtms":{"Host":"https://rtms-fe.partygaming.com/gateway","KeepAliveMilliseconds":5000,"ReconnectMilliseconds":15000,"DebugLevel":"off"},"dataLayerTracking":{"isEnabled":true,"dataLayerName":"dataLayer","notTrackedQueryStrings":["sessionKey"]},"login":{"durationInMilliseconds":null,"remainingTimeInMilliseconds":null,"limitReachedUrlPath":"/es/login-duration-limit-reached"},"language":{"nativeName":"español","routeValue":"es"},"env":{"cookieDomain":".bwin.es"},"chatUserData":{"AccountName":"","EmailAddress":"","LoyaltyCategory":"UNKNOWN","MoneyCategory":"U","UserGender":"","UserName":"","FirstName":"","LastName":""},"chat":{"isEnabled":true,"isPushChatEnabled":false,"gmsHost":"https://livechat.bwin.es","gmsChatServicePath":"/genesys/1/service","gmsCometdPath":"/genesys/cometd","host":"https://livechat.bwin.es","gweTrackerScriptPath":"/server/resources/js/build/GTC.min.js","gweCometdPath":"/server/cometd","dslResourcePath":"/chat/dsl/domain-model.xml","debugLevel":"off","httpTimeoutInMilliseconds":15000,"webSiteLanguage":"ES","webSiteUrl":"bwines","brand":"BWINES","channel":"WC","frontend":"be","product":"SPORTSBOOK","isChatAgentAvailable":true,"cookieDomain":".bwin.es","remoteLoggerUrl":"/log"},"appInfo":{"brandId":"BWINES","channelId":"WC","frontendId":"be","productId":"SPORTSBOOK"},"portalConfig":{"isHighValuePerson":false,"chatToolboxVersion":"v2","accountDomainUrl":"https://www.bwin.es/es","regLabelFloating":false,"livePersonChatConfig":{"accountId":"42539216","livePersonPushChatShowInvite":false,"isLivePersonPushChatEnabled":false,"supportedEvents":[],"supportedLanguages":[],"currentCultureInfo":"es-ES"},"danskeUrlConfig":{"checkActiveSession":"NA","dsLoginUrl":"NA","getRelayLogin":"NA"},"IsCenteredLoginEnabled":false,"SkelatonEnabled":true,"tiercode":null,"sbUserId":"","jumioUrl":"https://www.bwin.es/es/authentication/jumiokyc","IsSportingbetUserFromBrazil":false}};</script>
     
 <script type="text/javascript">var dataLayer = [{'browser.userAgent':'python-requests/2.18.4','component.cmsLinkID':'','component.cmsLinkName':'','component.cmsLinkZone':'','page.betfinderResults':'','page.cmsGuid':'','page.domain':'.bwin.es','page.externalLink':'','page.frontend':'desktop','page.host':'sports.bwin.es','page.language':'es','page.name':'sports/7/6004/apuestas/nba','page.redirectedFrom':'','page.referrer':'','page.siteSection':'Sports','page.trackerID':'','user.hasPositiveBalance':false,'user.isAuthenticated':false,'user.isExisting':false,'user.profile.accountID':'','user.profile.chid':0.0,'user.profile.country':'ES','user.profile.currency':'EUR','user.profile.fvid':0.0,'user.profile.loyaltyStatus':'Undefined','user.profile.mid':0,'user.profile.opid':0,'user.profile.prestage':'','user.profile.pvid':0.0,'user.profile.stage':'','user.profile.userID':'','user.profile.vid':0,'user.session.abTestGroup':'','user.session.geoIPCountry':'ES','user.session.internalCampaign':'','user.state.liveBettingUserState':''}];</script><script>
             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -619,31 +619,31 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 	</a>
 </li>
 <li class="sports-links__item">
-	<a class="sports-links__link"  href="/es/sports/7/6004/apuestas/nba" title="NBA (207)">
-	    	<span class="small-flags small-flag-n-a ">&nbsp;</span>
-
-		<span>NBA</span>
-	</a>
-</li>
-<li class="sports-links__item">
-	<a class="sports-links__link"  href="/es/sports/4/16108/apuestas/laliga-(primera-divisi%c3%b3n)" title="LaLiga (Primera Divisi&#243;n) (2384)">
+	<a class="sports-links__link"  href="/es/sports/4/16108/apuestas/laliga-(primera-divisi%c3%b3n)" title="LaLiga (Primera Divisi&#243;n) (1882)">
 	    	<span class="small-flags small-flag-esp ">&nbsp;</span>
 
 		<span>LaLiga (Primera Divisi&#243;n)</span>
 	</a>
 </li>
 <li class="sports-links__item">
-	<a class="sports-links__link"  href="/es/sports/5/38084%2c38083%2c12286%2c12277%2c27606%2c4624%2c4626%2c9164%2c9163%2c63918%2c63920" title="Tenis - ATP/WTA (475)">
+	<a class="sports-links__link"  href="/es/sports/5/38084%2c38083%2c12286%2c12277%2c27606%2c27607%2c4624%2c4626%2c9164%2c9163%2c63918%2c63920" title="Tenis - ATP/WTA (340)">
 	    	<span class="small-flags small-flag-wrl ">&nbsp;</span>
 
 		<span>Tenis - ATP/WTA</span>
 	</a>
 </li>
 <li class="sports-links__item">
-	<a class="sports-links__link"  href="/es/sports/4/110/apuestas/copa-libertadores" title="Copa Libertadores (1177)">
+	<a class="sports-links__link"  href="/es/sports/4/110/apuestas/copa-libertadores" title="Copa Libertadores (856)">
 	    	<span class="small-flags small-flag-s-a ">&nbsp;</span>
 
 		<span>Copa Libertadores</span>
+	</a>
+</li>
+<li class="sports-links__item">
+	<a class="sports-links__link"  href="/es/sports/4/16199/apuestas/primeira-liga" title="Primeira Liga (962)">
+	    	<span class="small-flags small-flag-por ">&nbsp;</span>
+
+		<span>Primeira Liga</span>
 	</a>
 </li>		</ul>
 </div></div>
@@ -657,7 +657,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 		<h3>Mis favoritos</h3>
 	</div>
     <div class="ui-widget-content-body favourites">        
-<form action="/es/sports/favourites/update" method="post"><input name="__RequestVerificationToken" type="hidden" value="x827P14NAW3gYwINMFjpjVvOgtJFhE0CnSmjztFA6BFKVNIw9b1JnVRE3Nf9H6JS48G1wg2" />            <ul class="sports-links"
+<form action="/es/sports/favourites/update" method="post"><input name="__RequestVerificationToken" type="hidden" value="SevYPfQO8VZUHiSgcGBCsIBVXG3Nk24qjL7G_9m-PQwSGUQTPXQex8FdJP1DGAnavsP-zw2" />            <ul class="sports-links"
                 data-add-player="/es/sports/favourites/addplayer"
                 data-add-league="/es/sports/favourites/addleague"
 			>
@@ -680,7 +680,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 </div>
         </div>
         <div id="sports-navigation-container" data-base-url="/es/sports">
-<div class="left-nav-time-filter-option left-nav-one-sport ui-widget-content" id="sports-navigation"><div class="left-nav-time-filter-option left-nav-one-sport ui-widget-header" title="Hay 53147 apuestas online disponibles."><h3>53.147 apuestas</h3></div><div class="left-nav-time-filter-option left-nav-one-sport ui-widget-content-body">    <div id="nav-time-filter-container" class="left-nav-time-filter hide">
+<div class="left-nav-time-filter-option left-nav-one-sport ui-widget-content" id="sports-navigation"><div class="left-nav-time-filter-option left-nav-one-sport ui-widget-header" title="Hay 57480 apuestas online disponibles."><h3>57.480 apuestas</h3></div><div class="left-nav-time-filter-option left-nav-one-sport ui-widget-content-body">    <div id="nav-time-filter-container" class="left-nav-time-filter hide">
             <h4 data-tooltip="Filtro de tiempo" data-title="Intervalo de tiempo" data-selection-error="Algunas de las ligas seleccionadas no ten&#237;an eventos para el periodo de tiempo escogido.&lt;br /&gt; Estas ligas han sido eliminadas de su selecci&#243;n.">Filtro</h4>
             <ul class="left-nav-time-filter__list">
                     <li><a href="?timeFilter=" class=''>Ilimitado</a></li>
@@ -719,7 +719,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
         <div id="nav-special-leagues">
             <ul id="nav-specials-list" class="sports-links">
                     <li id="nav-special-main-6004" class="nav-toggle special sports-links__item">
-                        <a id="nav-special-header-6004" title="207 apuestas disponibles para NBA - 0 ligas seleccionadas" class="sports-links__link special-link">
+                        <a id="nav-special-header-6004" title="340 apuestas disponibles para NBA - 0 ligas seleccionadas" class="sports-links__link special-link">
                             <i class="left-nav-special-link__icon icon-special"></i>
                             <span class="nav-deselect-all left-nav-one-sport__hover-icon icon-uncheckall" title="Deseleccionar todo" style="display: none;"></span>
                             <span class="nav-select-all left-nav-one-sport__hover-icon icon-checkall" title="Seleccionar todo" style="display: none;"></span>
@@ -728,14 +728,14 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                             <ul class='sports-links hide'>
             <li id="nav-league-6004" class="chrome10-fix-6004 special sports-links__item">
                 <a href="/es/sports/7/6004/apuestas/nba" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">207</span>
+                        <span class="left-nav-one-sport__bet-count">340</span>
                         <span class="sports-links__text">NBA</span>
                 </a>
             </li>
     </ul>
 
                     </li>                    <li id="nav-special-main-854" class="nav-toggle special sports-links__item">
-                        <a id="nav-special-header-854" title="1 apuestas disponibles para Liga ACB - 0 ligas seleccionadas" class="sports-links__link special-link">
+                        <a id="nav-special-header-854" title="9 apuestas disponibles para Liga ACB - 0 ligas seleccionadas" class="sports-links__link special-link">
                             <i class="left-nav-special-link__icon icon-special"></i>
                             <span class="nav-deselect-all left-nav-one-sport__hover-icon icon-uncheckall" title="Deseleccionar todo" style="display: none;"></span>
                             <span class="nav-select-all left-nav-one-sport__hover-icon icon-checkall" title="Seleccionar todo" style="display: none;"></span>
@@ -744,14 +744,14 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                             <ul class='sports-links hide'>
             <li id="nav-league-854" class="chrome10-fix-854 special sports-links__item">
                 <a href="/es/sports/7/854/apuestas/liga-acb" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">1</span>
+                        <span class="left-nav-one-sport__bet-count">9</span>
                         <span class="sports-links__text">Liga ACB</span>
                 </a>
             </li>
     </ul>
 
                     </li>                    <li id="nav-special-main-870" class="nav-toggle special sports-links__item">
-                        <a id="nav-special-header-870" title="277 apuestas disponibles para Euroliga - 0 ligas seleccionadas" class="sports-links__link special-link">
+                        <a id="nav-special-header-870" title="249 apuestas disponibles para Euroliga - 0 ligas seleccionadas" class="sports-links__link special-link">
                             <i class="left-nav-special-link__icon icon-special"></i>
                             <span class="nav-deselect-all left-nav-one-sport__hover-icon icon-uncheckall" title="Deseleccionar todo" style="display: none;"></span>
                             <span class="nav-select-all left-nav-one-sport__hover-icon icon-checkall" title="Seleccionar todo" style="display: none;"></span>
@@ -762,12 +762,6 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                 <a href="/es/sports/7/870/apuestas/euroliga-masc-" class="sports-links__link sports-links__link--one-sport">
                         <span class="left-nav-one-sport__bet-count">249</span>
                         <span class="sports-links__text">Euroliga masc.</span>
-                </a>
-            </li>
-            <li id="nav-league-1045" class="chrome10-fix-1045 special sports-links__item">
-                <a href="/es/sports/7/1045/apuestas/euroliga-femen-" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">28</span>
-                        <span class="sports-links__text">Euroliga femen.</span>
                 </a>
             </li>
     </ul>
@@ -796,7 +790,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
     </ul>
 
             </li>            <li id="nav-region-9" class="nav-toggle sports-links__item">
-                <a title="87 apuestas disponibles para Norteam&#233;rica - 0 ligas seleccionadas" class="sports-links__link region-link">
+                <a title="28 apuestas disponibles para Norteam&#233;rica - 0 ligas seleccionadas" class="sports-links__link region-link">
                     <span class="sports-links__icon sports-links__icon--flag">
                          	<span class="small-flags small-flag-n-a ">&nbsp;</span>
 
@@ -808,33 +802,14 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                     <ul class='sports-links hide'>
             <li id="nav-league-264" class="chrome10-fix-264  sports-links__item">
                 <a href="/es/sports/7/264/apuestas/ncaa-" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">18</span>
+                        <span class="left-nav-one-sport__bet-count">28</span>
                         <span class="sports-links__text">NCAA </span>
                 </a>
             </li>
     </ul>
 
-            </li>            <li id="nav-region-12" class="nav-toggle sports-links__item">
-                <a title="44 apuestas disponibles para Rep&#250;blica Checa - 0 ligas seleccionadas" class="sports-links__link region-link">
-                    <span class="sports-links__icon sports-links__icon--flag">
-                         	<span class="small-flags small-flag-cze ">&nbsp;</span>
-
-                    </span>
-                    <span class="nav-deselect-all left-nav-one-sport__hover-icon icon-uncheckall" title="Deseleccionar todo" style="display: none;"></span>
-                    <span class="nav-select-all left-nav-one-sport__hover-icon icon-checkall" title="Seleccionar todo" style="display: none;"></span>
-                    <span class="nav-region-name sports-links__text">República Checa</span>   
-                </a>
-                    <ul class='sports-links hide'>
-            <li id="nav-league-6537" class="chrome10-fix-6537  sports-links__item">
-                <a href="/es/sports/7/6537/apuestas/kooperativa-nbl" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">44</span>
-                        <span class="sports-links__text">Kooperativa NBL</span>
-                </a>
-            </li>
-    </ul>
-
             </li>            <li id="nav-region-17" class="nav-toggle sports-links__item">
-                <a title="32 apuestas disponibles para Alemania - 0 ligas seleccionadas" class="sports-links__link region-link">
+                <a title="6 apuestas disponibles para Alemania - 0 ligas seleccionadas" class="sports-links__link region-link">
                     <span class="sports-links__icon sports-links__icon--flag">
                          	<span class="small-flags small-flag-ger ">&nbsp;</span>
 
@@ -846,33 +821,33 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                     <ul class='sports-links hide'>
             <li id="nav-league-860" class="chrome10-fix-860  sports-links__item">
                 <a href="/es/sports/7/860/apuestas/bundesliga" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">32</span>
+                        <span class="left-nav-one-sport__bet-count">6</span>
                         <span class="sports-links__text">Bundesliga</span>
                 </a>
             </li>
     </ul>
 
-            </li>            <li id="nav-region-20" class="nav-toggle sports-links__item">
-                <a title="4 apuestas disponibles para Italia - 0 ligas seleccionadas" class="sports-links__link region-link">
+            </li>            <li id="nav-region-33" class="nav-toggle sports-links__item">
+                <a title="37 apuestas disponibles para Brasil - 0 ligas seleccionadas" class="sports-links__link region-link">
                     <span class="sports-links__icon sports-links__icon--flag">
-                         	<span class="small-flags small-flag-ita ">&nbsp;</span>
+                         	<span class="small-flags small-flag-bra ">&nbsp;</span>
 
                     </span>
                     <span class="nav-deselect-all left-nav-one-sport__hover-icon icon-uncheckall" title="Deseleccionar todo" style="display: none;"></span>
                     <span class="nav-select-all left-nav-one-sport__hover-icon icon-checkall" title="Seleccionar todo" style="display: none;"></span>
-                    <span class="nav-region-name sports-links__text">Italia</span>   
+                    <span class="nav-region-name sports-links__text">Brasil</span>   
                 </a>
                     <ul class='sports-links hide'>
-            <li id="nav-league-51939" class="chrome10-fix-51939  sports-links__item">
-                <a href="/es/sports/7/51939/apuestas/serie-a2-east" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">4</span>
-                        <span class="sports-links__text">Serie A2 East</span>
+            <li id="nav-league-17287" class="chrome10-fix-17287  sports-links__item">
+                <a href="/es/sports/7/17287/apuestas/nbb" class="sports-links__link sports-links__link--one-sport">
+                        <span class="left-nav-one-sport__bet-count">37</span>
+                        <span class="sports-links__text">NBB</span>
                 </a>
             </li>
     </ul>
 
             </li>            <li id="nav-region-38" class="nav-toggle sports-links__item">
-                <a title="24 apuestas disponibles para Argentina - 0 ligas seleccionadas" class="sports-links__link region-link">
+                <a title="39 apuestas disponibles para Argentina - 0 ligas seleccionadas" class="sports-links__link region-link">
                     <span class="sports-links__icon sports-links__icon--flag">
                          	<span class="small-flags small-flag-arg ">&nbsp;</span>
 
@@ -882,15 +857,15 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                     <span class="nav-region-name sports-links__text">Argentina</span>   
                 </a>
                     <ul class='sports-links hide'>
-            <li id="nav-league-56580" class="chrome10-fix-56580  sports-links__item">
-                <a href="/es/sports/7/56580/apuestas/torneo-federal" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">4</span>
-                        <span class="sports-links__text">Torneo Federal</span>
+            <li id="nav-league-4980" class="chrome10-fix-4980  sports-links__item">
+                <a href="/es/sports/7/4980/apuestas/liga-nacional" class="sports-links__link sports-links__link--one-sport">
+                        <span class="left-nav-one-sport__bet-count">32</span>
+                        <span class="sports-links__text">Liga Nacional</span>
                 </a>
             </li>
             <li id="nav-league-62851" class="chrome10-fix-62851  sports-links__item">
                 <a href="/es/sports/7/62851/apuestas/liga-argentina" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">20</span>
+                        <span class="left-nav-one-sport__bet-count">7</span>
                         <span class="sports-links__text">Liga Argentina</span>
                 </a>
             </li>
@@ -916,7 +891,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
     </ul>
 
             </li>            <li id="nav-region-112" class="nav-toggle sports-links__item">
-                <a title="2 apuestas disponibles para El Salvador - 0 ligas seleccionadas" class="sports-links__link region-link">
+                <a title="4 apuestas disponibles para El Salvador - 0 ligas seleccionadas" class="sports-links__link region-link">
                     <span class="sports-links__icon sports-links__icon--flag">
                          	<span class="small-flags small-flag-esa ">&nbsp;</span>
 
@@ -928,14 +903,14 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                     <ul class='sports-links hide'>
             <li id="nav-league-56035" class="chrome10-fix-56035  sports-links__item">
                 <a href="/es/sports/7/56035/apuestas/liga-mayor" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">2</span>
+                        <span class="left-nav-one-sport__bet-count">4</span>
                         <span class="sports-links__text">Liga Mayor</span>
                 </a>
             </li>
     </ul>
 
             </li>            <li id="nav-region-198" class="nav-toggle sports-links__item">
-                <a title="12 apuestas disponibles para Corea - 0 ligas seleccionadas" class="sports-links__link region-link">
+                <a title="15 apuestas disponibles para Corea - 0 ligas seleccionadas" class="sports-links__link region-link">
                     <span class="sports-links__icon sports-links__icon--flag">
                          	<span class="small-flags small-flag-kor ">&nbsp;</span>
 
@@ -947,32 +922,14 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                     <ul class='sports-links hide'>
             <li id="nav-league-9235" class="chrome10-fix-9235  sports-links__item">
                 <a href="/es/sports/7/9235/apuestas/liga-de-baloncesto-coreana" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">8</span>
+                        <span class="left-nav-one-sport__bet-count">12</span>
                         <span class="sports-links__text">Liga de baloncesto coreana</span>
                 </a>
             </li>
             <li id="nav-league-11875" class="chrome10-fix-11875  sports-links__item">
                 <a href="/es/sports/7/11875/apuestas/korean-basketball-league-mujeres" class="sports-links__link sports-links__link--one-sport">
-                        <span class="left-nav-one-sport__bet-count">4</span>
+                        <span class="left-nav-one-sport__bet-count">3</span>
                         <span class="sports-links__text">Korean Basketball League - Mujeres</span>
-                </a>
-            </li>
-    </ul>
-
-            </li>            <li id="nav-region-33" class="nav-toggle sports-links__item">
-                <a title="39 apuestas disponibles para Brasil - 0 ligas seleccionadas" class="sports-links__link region-link">
-                    <span class="sports-links__icon sports-links__icon--flag">
-                         	<span class="small-flags small-flag-bra ">&nbsp;</span>
-
-                    </span>
-                    <span class="nav-deselect-all left-nav-one-sport__hover-icon icon-uncheckall" title="Deseleccionar todo" style="display: none;"></span>
-                    <span class="nav-select-all left-nav-one-sport__hover-icon icon-checkall" title="Seleccionar todo" style="display: none;"></span>
-                    <span class="nav-region-name sports-links__text">Brasil</span>   
-                </a>
-                    <ul class='sports-links hide'>
-            <li id="nav-league-17288" class="chrome10-fix-17288  sports-links__item">
-                <a href="/es/sports/7/17288/apuestas/nbb" class="sports-links__link sports-links__link--one-sport">
-                        NBB - live
                 </a>
             </li>
     </ul>
@@ -1119,8 +1076,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option category-option--checked default-cursor">
                                             <input type="checkbox" name="categoryIds" value="43" checked='checked' disabled/>
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Apuesta por el ganador (6)">
-                                                Apuesta por el ganador <span class="catagory-count">(6)</span>
+                                            <span class="category-name" title="Apuesta por el ganador (9)">
+                                                Apuesta por el ganador <span class="catagory-count">(9)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1130,8 +1087,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="44"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Handicap/Spread (42)">
-                                                Handicap/Spread <span class="catagory-count">(42)</span>
+                                            <span class="category-name" title="Handicap/Spread (63)">
+                                                Handicap/Spread <span class="catagory-count">(63)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1139,8 +1096,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="49"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Jugadores - Apuestas especiales (40)">
-                                                Jugadores - Apuestas especiales <span class="catagory-count">(40)</span>
+                                            <span class="category-name" title="Jugadores - Apuestas especiales (57)">
+                                                Jugadores - Apuestas especiales <span class="catagory-count">(57)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1157,8 +1114,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="380"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Puntos (8)">
-                                                Puntos <span class="catagory-count">(8)</span>
+                                            <span class="category-name" title="Puntos (27)">
+                                                Puntos <span class="catagory-count">(27)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1166,8 +1123,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="48"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Total (54)">
-                                                Total <span class="catagory-count">(54)</span>
+                                            <span class="category-name" title="Total (81)">
+                                                Total <span class="catagory-count">(81)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1175,8 +1132,17 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="728"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Handicap/Spread descanso (6)">
-                                                Handicap/Spread descanso <span class="catagory-count">(6)</span>
+                                            <span class="category-name" title="Handicap/Spread descanso (9)">
+                                                Handicap/Spread descanso <span class="catagory-count">(9)</span>
+                                            </span>
+                                        </label>
+                                    </li>
+                                    <li class="categories-filter categories-filter__category-item category-2">
+                                        <label class="radio-label category-option ">
+                                            <input type="checkbox" name="categoryIds" value="729"  />
+                                            <span class="checker category-option__checker"></span>
+                                            <span class="category-name" title="Quarter handicap/spread (9)">
+                                                Quarter handicap/spread <span class="catagory-count">(9)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1184,8 +1150,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="730"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Total 1er tiempo (6)">
-                                                Total 1er tiempo <span class="catagory-count">(6)</span>
+                                            <span class="category-name" title="Total 1er tiempo (9)">
+                                                Total 1er tiempo <span class="catagory-count">(9)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1193,8 +1159,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="731"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Total/cuarto (24)">
-                                                Total/cuarto <span class="catagory-count">(24)</span>
+                                            <span class="category-name" title="Total/cuarto (45)">
+                                                Total/cuarto <span class="catagory-count">(45)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1202,8 +1168,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="1054"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Resultado (1 X 2) (6)">
-                                                Resultado (1 X 2) <span class="catagory-count">(6)</span>
+                                            <span class="category-name" title="Resultado (1 X 2) (9)">
+                                                Resultado (1 X 2) <span class="catagory-count">(9)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1211,8 +1177,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="1333"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Races (2)">
-                                                Races <span class="catagory-count">(2)</span>
+                                            <span class="category-name" title="Races (6)">
+                                                Races <span class="catagory-count">(6)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1220,8 +1186,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <label class="radio-label category-option ">
                                             <input type="checkbox" name="categoryIds" value="4"  />
                                             <span class="checker category-option__checker"></span>
-                                            <span class="category-name" title="Diversos (6)">
-                                                Diversos <span class="catagory-count">(6)</span>
+                                            <span class="category-name" title="Diversos (9)">
+                                                Diversos <span class="catagory-count">(9)</span>
                                             </span>
                                         </label>
                                     </li>
@@ -1243,50 +1209,50 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 			<div class="marketboard-filter__quick-tips-el">
 				<div class="quick-tips">
 					<div class="quick-tips--label">Pron&#243;stico r&#225;pido</div>
-					<form action="/es/betslip/betslipv2/addmulti" class="quick-tip" method="post"><input name="__RequestVerificationToken" type="hidden" value="qiPcv9MuntI8NBG-fgn9r8zJFUfsqoCBVj6s2A0MWoWgFo5Iy7HR1Y1_m1GA5pGcUtGSXw2" />                <fieldset class="btn-s1">
+					<form action="/es/betslip/betslipv2/addmulti" class="quick-tip" method="post"><input name="__RequestVerificationToken" type="hidden" value="7PW90LznnAqUc_8I_eRKrDZZZrJY2SDRsNMB0dLm9g4M0cEkRryeHR0xKYPoKWnOmDRADQ2" />                <fieldset class="btn-s1">
 
                         <input type="hidden" name="sources[0]" value="SportsView/QuickTip"/>
                         <input type="hidden" name="sources[1]" value="FavouritesView/QuickTip"/>
                         <input type="hidden" name="sources[2]" value="LastMinuteBetsView/QuickTip"/>
                         <input type="hidden" name="sources[3]" value="LeagueView/QuickTip"/>
-                                            <input type="hidden" name="picks[0].OptionId" value="7/6004/6979980/251397707/775878710"/>
-                        <input type="hidden" name="picks[0].Odds" value="1,10"/>
+                                            <input type="hidden" name="picks[0].OptionId" value="7/6004/6984759/251717260/776800446"/>
+                        <input type="hidden" name="picks[0].Odds" value="1,22"/>
                         <input type="hidden" name="picks[0].Source" value="LeagueView/QuickTip"/>
-                        <input type="hidden" name="picks[1].OptionId" value="7/6004/6979976/251397667/775878590"/>
-                        <input type="hidden" name="picks[1].Odds" value="1,15"/>
+                        <input type="hidden" name="picks[1].OptionId" value="7/6004/6984763/251717302/776800570"/>
+                        <input type="hidden" name="picks[1].Odds" value="1,22"/>
                         <input type="hidden" name="picks[1].Source" value="LeagueView/QuickTip"/>
-                        <input type="hidden" name="picks[2].OptionId" value="7/6004/6979977/251397677/775878620"/>
-                        <input type="hidden" name="picks[2].Odds" value="1,15"/>
+                        <input type="hidden" name="picks[2].OptionId" value="7/6004/6984766/251717332/776800660"/>
+                        <input type="hidden" name="picks[2].Odds" value="1,26"/>
                         <input type="hidden" name="picks[2].Source" value="LeagueView/QuickTip"/>
-                        <input type="hidden" name="picks[3].OptionId" value="7/6004/6979981/251397717/775878740"/>
-                        <input type="hidden" name="picks[3].Odds" value="1,48"/>
+                        <input type="hidden" name="picks[3].OptionId" value="7/6004/6984761/251717280/776800507"/>
+                        <input type="hidden" name="picks[3].Odds" value="1,28"/>
                         <input type="hidden" name="picks[3].Source" value="LeagueView/QuickTip"/>
-                        <input type="hidden" name="picks[4].OptionId" value="7/6004/6979979/251397697/775878680"/>
-                        <input type="hidden" name="picks[4].Odds" value="1,65"/>
+                        <input type="hidden" name="picks[4].OptionId" value="7/6004/6984760/251717270/776800476"/>
+                        <input type="hidden" name="picks[4].Odds" value="1,47"/>
                         <input type="hidden" name="picks[4].Source" value="LeagueView/QuickTip"/>
                                         <input type="submit" value="Favoritos" id="favorites-tip" class="quick-tip-btn"/>
                 </fieldset>
 </form>
-					<form action="/es/betslip/betslipv2/addmulti" class="quick-tip" method="post"><input name="__RequestVerificationToken" type="hidden" value="N5-86_LY7GumoCbtwIoqiXRJpCFZMFgFPOg0O_rl21ghs5T-fx2pPRwzOt1FfY-32zJmrA2" />                <fieldset class="btn-s1">
+					<form action="/es/betslip/betslipv2/addmulti" class="quick-tip" method="post"><input name="__RequestVerificationToken" type="hidden" value="JekH5McaD-NkO5J2EoMmZAhZJ9Pj4TXEqQ8GAZZLIMQpElRqKQhraI6na3RCQuZQ9Kp-gg2" />                <fieldset class="btn-s1">
 
                         <input type="hidden" name="sources[0]" value="SportsView/QuickTip"/>
                         <input type="hidden" name="sources[1]" value="FavouritesView/QuickTip"/>
                         <input type="hidden" name="sources[2]" value="LastMinuteBetsView/QuickTip"/>
                         <input type="hidden" name="sources[3]" value="LeagueView/QuickTip"/>
-                                            <input type="hidden" name="picks[0].OptionId" value="7/6004/6979980/251397707/775878709"/>
-                        <input type="hidden" name="picks[0].Odds" value="7,25"/>
+                                            <input type="hidden" name="picks[0].OptionId" value="7/6004/6984759/251717260/776800447"/>
+                        <input type="hidden" name="picks[0].Odds" value="4,40"/>
                         <input type="hidden" name="picks[0].Source" value="LeagueView/QuickTip"/>
-                        <input type="hidden" name="picks[1].OptionId" value="7/6004/6979976/251397667/775878589"/>
-                        <input type="hidden" name="picks[1].Odds" value="5,75"/>
+                        <input type="hidden" name="picks[1].OptionId" value="7/6004/6984763/251717302/776800571"/>
+                        <input type="hidden" name="picks[1].Odds" value="4,33"/>
                         <input type="hidden" name="picks[1].Source" value="LeagueView/QuickTip"/>
-                        <input type="hidden" name="picks[2].OptionId" value="7/6004/6979977/251397677/775878619"/>
-                        <input type="hidden" name="picks[2].Odds" value="5,75"/>
+                        <input type="hidden" name="picks[2].OptionId" value="7/6004/6984766/251717332/776800661"/>
+                        <input type="hidden" name="picks[2].Odds" value="3,90"/>
                         <input type="hidden" name="picks[2].Source" value="LeagueView/QuickTip"/>
-                        <input type="hidden" name="picks[3].OptionId" value="7/6004/6979981/251397717/775878739"/>
-                        <input type="hidden" name="picks[3].Odds" value="2,70"/>
+                        <input type="hidden" name="picks[3].OptionId" value="7/6004/6984761/251717280/776800506"/>
+                        <input type="hidden" name="picks[3].Odds" value="3,75"/>
                         <input type="hidden" name="picks[3].Source" value="LeagueView/QuickTip"/>
-                        <input type="hidden" name="picks[4].OptionId" value="7/6004/6979979/251397697/775878679"/>
-                        <input type="hidden" name="picks[4].Odds" value="2,25"/>
+                        <input type="hidden" name="picks[4].OptionId" value="7/6004/6984760/251717270/776800477"/>
+                        <input type="hidden" name="picks[4].Odds" value="2,75"/>
                         <input type="hidden" name="picks[4].Source" value="LeagueView/QuickTip"/>
                                         <input type="submit" value="Cenicientas" id="underdogs-tip" class="quick-tip-btn"/>
                 </fieldset>
@@ -1316,7 +1282,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
     <div class="clear"></div>
 	<div id="markets-container">
 		<div id="markets" class="marketboard"
-		     data-count="6"
+		     data-count="9"
 			 data-league-statistics-url="/es/sports/eventset/indexleaguestatistics"
 			 data-hours-before-first-event="1">
 				<div class="ui-widget-content">
@@ -1356,7 +1322,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 				<div class="marketboard-event-group__item--sub-group">		<h2 class="marketboard-event-group__header marketboard-event-group__header--level-3">
 			
 		<span class="marketboard-event-group__header-content marketboard-event-group__header-content--level-3">
- mi&#233;rcoles - 28/02/2018
+ jueves - 01/03/2018
 		</span>
 
 
@@ -1371,22 +1337,12 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 	<div class="mb-event-details-buttons">
 		<span class="mb-event-details-buttons__button mb-event-details-buttons__button--more-markets ">
 				<a 
-				   title="33 M&#225;s apuestas"
-				   href="/es/sports/events/7/6004/6979976/apuestas/chicago-bulls-en-casa-de-charlotte-hornets"
+				   title="36 M&#225;s apuestas"
+				   href="/es/sports/events/7/6004/6984759/apuestas/toronto-raptors-en-casa-de-orlando-magic"
 				   class="mb-event-details-buttons__button-link">
-					<span>+</span><span>33</span>
+					<span>+</span><span>36</span>
 				</a>
-		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics ">
-			    <a 
-				   title="Estad&#237;sticas"
-				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234362&amp;language=es" 
-				   rel="popup" 
-				   data-popup-params="width=800, height=875, resizable=1, toolbar=0, status=1, scrollbars=1" 
-				   target="statistics" 
-				   class="mb-event-details-buttons__button-link">
-					
-<i class="icon-glyph_stats_filled"></i>
-				</a>
+		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics mb-event-details-buttons__button--dynamic">
 		</span>
 	</div>
 
@@ -1394,7 +1350,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 		<div class="marketboard-event-with-header__header">
 			<div class="marketboard-event-with-header__header-title">
-				Chicago Bulls en casa de Charlotte Hornets
+				Toronto Raptors en casa de Orlando Magic
 
 1:05			</div>
 		</div>
@@ -1408,28 +1364,28 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979976/251397667/775878589" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979976%2F251397667%2F775878589&amp;odds=5.75&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984759/251717260/776800446" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984759%2F251717260%2F776800446&amp;odds=1.22&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
-<i class="icon-glyph_star favourite-icon " data-player="7|Chicago Bulls"></i>
+<i class="icon-glyph_star favourite-icon " data-player="7|Toronto Raptors"></i>
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Chicago Bulls</div>
-					<div class="mb-option-button__option-odds ">5.75</div>
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Toronto Raptors</div>
+					<div class="mb-option-button__option-odds ">1.22</div>
 				</button>
 		</td>
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979976/251397667/775878590" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979976%2F251397667%2F775878590&amp;odds=1.15&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984759/251717260/776800447" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984759%2F251717260%2F776800447&amp;odds=4.40&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
-<i class="icon-glyph_star favourite-icon " data-player="7|Charlotte Hornets"></i>
+<i class="icon-glyph_star favourite-icon " data-player="7|Orlando Magic"></i>
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Charlotte Hornets</div>
-					<div class="mb-option-button__option-odds ">1.15</div>
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Orlando Magic</div>
+					<div class="mb-option-button__option-odds ">4.40</div>
 				</button>
 		</td>
 		</tr>
@@ -1446,15 +1402,15 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 	<div class="mb-event-details-buttons">
 		<span class="mb-event-details-buttons__button mb-event-details-buttons__button--more-markets ">
 				<a 
-				   title="31 M&#225;s apuestas"
-				   href="/es/sports/events/7/6004/6979977/apuestas/brooklyn-nets-en-casa-de-cleveland-cavaliers"
+				   title="36 M&#225;s apuestas"
+				   href="/es/sports/events/7/6004/6984758/apuestas/milwaukee-bucks-en-casa-de-detroit-pistons"
 				   class="mb-event-details-buttons__button-link">
-					<span>+</span><span>31</span>
+					<span>+</span><span>36</span>
 				</a>
 		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics ">
 			    <a 
 				   title="Estad&#237;sticas"
-				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234364&amp;language=es" 
+				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234374&amp;language=es" 
 				   rel="popup" 
 				   data-popup-params="width=800, height=875, resizable=1, toolbar=0, status=1, scrollbars=1" 
 				   target="statistics" 
@@ -1469,7 +1425,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 		<div class="marketboard-event-with-header__header">
 			<div class="marketboard-event-with-header__header-title">
-				Brooklyn Nets en casa de Cleveland Cavaliers
+				Milwaukee Bucks en casa de Detroit Pistons
 
 1:05			</div>
 		</div>
@@ -1483,28 +1439,28 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979977/251397677/775878619" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979977%2F251397677%2F775878619&amp;odds=5.75&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984758/251717250/776800416" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984758%2F251717250%2F776800416&amp;odds=2.05&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
-<i class="icon-glyph_star favourite-icon " data-player="7|Brooklyn Nets"></i>
+<i class="icon-glyph_star favourite-icon " data-player="7|Milwaukee Bucks"></i>
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Brooklyn Nets</div>
-					<div class="mb-option-button__option-odds ">5.75</div>
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Milwaukee Bucks</div>
+					<div class="mb-option-button__option-odds ">2.05</div>
 				</button>
 		</td>
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979977/251397677/775878620" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979977%2F251397677%2F775878620&amp;odds=1.15&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984758/251717250/776800417" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984758%2F251717250%2F776800417&amp;odds=1.78&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
-<i class="icon-glyph_star favourite-icon " data-player="7|Cleveland Cavaliers"></i>
+<i class="icon-glyph_star favourite-icon " data-player="7|Detroit Pistons"></i>
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Cleveland Cavaliers</div>
-					<div class="mb-option-button__option-odds ">1.15</div>
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Detroit Pistons</div>
+					<div class="mb-option-button__option-odds ">1.78</div>
 				</button>
 		</td>
 		</tr>
@@ -1521,22 +1477,12 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 	<div class="mb-event-details-buttons">
 		<span class="mb-event-details-buttons__button mb-event-details-buttons__button--more-markets ">
 				<a 
-				   title="35 M&#225;s apuestas"
-				   href="/es/sports/events/7/6004/6979978/apuestas/philadelphia-76ers-en-casa-de-miami-heat"
+				   title="36 M&#225;s apuestas"
+				   href="/es/sports/events/7/6004/6984760/apuestas/indiana-pacers-en-casa-de-atlanta-hawks"
 				   class="mb-event-details-buttons__button-link">
-					<span>+</span><span>35</span>
+					<span>+</span><span>36</span>
 				</a>
-		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics ">
-			    <a 
-				   title="Estad&#237;sticas"
-				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234366&amp;language=es" 
-				   rel="popup" 
-				   data-popup-params="width=800, height=875, resizable=1, toolbar=0, status=1, scrollbars=1" 
-				   target="statistics" 
-				   class="mb-event-details-buttons__button-link">
-					
-<i class="icon-glyph_stats_filled"></i>
-				</a>
+		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics mb-event-details-buttons__button--dynamic">
 		</span>
 	</div>
 
@@ -1544,7 +1490,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 		<div class="marketboard-event-with-header__header">
 			<div class="marketboard-event-with-header__header-title">
-				Philadelphia 76ers en casa de Miami Heat
+				Indiana Pacers en casa de Atlanta Hawks
 
 1:35			</div>
 		</div>
@@ -1558,28 +1504,28 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979978/251397687/775878649" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979978%2F251397687%2F775878649&amp;odds=1.95&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984760/251717270/776800476" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984760%2F251717270%2F776800476&amp;odds=1.47&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
-<i class="icon-glyph_star favourite-icon " data-player="7|Philadelphia 76ers"></i>
+<i class="icon-glyph_star favourite-icon " data-player="7|Indiana Pacers"></i>
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Philadelphia 76ers</div>
-					<div class="mb-option-button__option-odds ">1.95</div>
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Indiana Pacers</div>
+					<div class="mb-option-button__option-odds ">1.47</div>
 				</button>
 		</td>
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979978/251397687/775878650" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979978%2F251397687%2F775878650&amp;odds=1.87&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984760/251717270/776800477" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984760%2F251717270%2F776800477&amp;odds=2.75&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
-<i class="icon-glyph_star favourite-icon " data-player="7|Miami Heat"></i>
+<i class="icon-glyph_star favourite-icon " data-player="7|Atlanta Hawks"></i>
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Miami Heat</div>
-					<div class="mb-option-button__option-odds ">1.87</div>
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Atlanta Hawks</div>
+					<div class="mb-option-button__option-odds ">2.75</div>
 				</button>
 		</td>
 		</tr>
@@ -1596,15 +1542,15 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 	<div class="mb-event-details-buttons">
 		<span class="mb-event-details-buttons__button mb-event-details-buttons__button--more-markets ">
 				<a 
-				   title="33 M&#225;s apuestas"
-				   href="/es/sports/events/7/6004/6979979/apuestas/washington-wizards-en-casa-de-milwaukee-bucks"
+				   title="36 M&#225;s apuestas"
+				   href="/es/sports/events/7/6004/6984761/apuestas/charlotte-hornets-en-casa-de-boston-celtics"
 				   class="mb-event-details-buttons__button-link">
-					<span>+</span><span>33</span>
+					<span>+</span><span>36</span>
 				</a>
 		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics ">
 			    <a 
 				   title="Estad&#237;sticas"
-				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234368&amp;language=es" 
+				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234380&amp;language=es" 
 				   rel="popup" 
 				   data-popup-params="width=800, height=875, resizable=1, toolbar=0, status=1, scrollbars=1" 
 				   target="statistics" 
@@ -1619,7 +1565,82 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 		<div class="marketboard-event-with-header__header">
 			<div class="marketboard-event-with-header__header-title">
-				Washington Wizards en casa de Milwaukee Bucks
+				Charlotte Hornets en casa de Boston Celtics
+
+1:35			</div>
+		</div>
+
+
+			<div class="marketboard-event-with-header__markets-container">
+				<table class="marketboard-event-with-header__markets-list">
+					
+		<tr class="marketboard-options-row marketboard-options-row--2-col">
+
+
+
+
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984761/251717280/776800506" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984761%2F251717280%2F776800506&amp;odds=3.75&amp;source=LeagueView%2fMarketboard">
+				<div class="mb-option-button__favourite">
+					
+
+<i class="icon-glyph_star favourite-icon " data-player="7|Charlotte Hornets"></i>
+				</div>
+				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Charlotte Hornets</div>
+					<div class="mb-option-button__option-odds ">3.75</div>
+				</button>
+		</td>
+
+
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984761/251717280/776800507" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984761%2F251717280%2F776800507&amp;odds=1.28&amp;source=LeagueView%2fMarketboard">
+				<div class="mb-option-button__favourite">
+					
+
+<i class="icon-glyph_star favourite-icon " data-player="7|Boston Celtics"></i>
+				</div>
+				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Boston Celtics</div>
+					<div class="mb-option-button__option-odds ">1.28</div>
+				</button>
+		</td>
+		</tr>
+
+				</table>
+			</div>
+	</div>
+</div>
+				<div class="marketboard-event-group__item--event">	<div class="marketboard-event-header-separator"></div>
+	<div class="marketboard-event-with-header">
+
+		<div class="marketboard-event-with-header__detail-buttons">
+			
+	<div class="mb-event-details-buttons">
+		<span class="mb-event-details-buttons__button mb-event-details-buttons__button--more-markets ">
+				<a 
+				   title="36 M&#225;s apuestas"
+				   href="/es/sports/events/7/6004/6984763/apuestas/golden-state-warriors-en-casa-de-washington-wizards"
+				   class="mb-event-details-buttons__button-link">
+					<span>+</span><span>36</span>
+				</a>
+		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics ">
+			    <a 
+				   title="Estad&#237;sticas"
+				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234382&amp;language=es" 
+				   rel="popup" 
+				   data-popup-params="width=800, height=875, resizable=1, toolbar=0, status=1, scrollbars=1" 
+				   target="statistics" 
+				   class="mb-event-details-buttons__button-link">
+					
+<i class="icon-glyph_stats_filled"></i>
+				</a>
+		</span>
+	</div>
+
+		</div>
+
+		<div class="marketboard-event-with-header__header">
+			<div class="marketboard-event-with-header__header-title">
+				Golden State Warriors en casa de Washington Wizards
 
 2:05			</div>
 		</div>
@@ -1633,7 +1654,20 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979979/251397697/775878679" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979979%2F251397697%2F775878679&amp;odds=2.25&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984763/251717302/776800570" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984763%2F251717302%2F776800570&amp;odds=1.22&amp;source=LeagueView%2fMarketboard">
+				<div class="mb-option-button__favourite">
+					
+
+<i class="icon-glyph_star favourite-icon " data-player="7|Golden State Warriors"></i>
+				</div>
+				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Golden State Warriors</div>
+					<div class="mb-option-button__option-odds ">1.22</div>
+				</button>
+		</td>
+
+
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984763/251717302/776800571" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984763%2F251717302%2F776800571&amp;odds=4.33&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
@@ -1641,20 +1675,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
 					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Washington Wizards</div>
-					<div class="mb-option-button__option-odds ">2.25</div>
-				</button>
-		</td>
-
-
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979979/251397697/775878680" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979979%2F251397697%2F775878680&amp;odds=1.65&amp;source=LeagueView%2fMarketboard">
-				<div class="mb-option-button__favourite">
-					
-
-<i class="icon-glyph_star favourite-icon " data-player="7|Milwaukee Bucks"></i>
-				</div>
-				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Milwaukee Bucks</div>
-					<div class="mb-option-button__option-odds ">1.65</div>
+					<div class="mb-option-button__option-odds ">4.33</div>
 				</button>
 		</td>
 		</tr>
@@ -1671,15 +1692,15 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 	<div class="mb-event-details-buttons">
 		<span class="mb-event-details-buttons__button mb-event-details-buttons__button--more-markets ">
 				<a 
-				   title="33 M&#225;s apuestas"
-				   href="/es/sports/events/7/6004/6979980/apuestas/sacramento-kings-en-casa-de-portland-trail-blazers"
+				   title="36 M&#225;s apuestas"
+				   href="/es/sports/events/7/6004/6984762/apuestas/phoenix-suns-en-casa-de-memphis-grizzlies"
 				   class="mb-event-details-buttons__button-link">
-					<span>+</span><span>33</span>
+					<span>+</span><span>36</span>
 				</a>
 		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics ">
 			    <a 
 				   title="Estad&#237;sticas"
-				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234370&amp;language=es" 
+				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234384&amp;language=es" 
 				   rel="popup" 
 				   data-popup-params="width=800, height=875, resizable=1, toolbar=0, status=1, scrollbars=1" 
 				   target="statistics" 
@@ -1694,9 +1715,9 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 		<div class="marketboard-event-with-header__header">
 			<div class="marketboard-event-with-header__header-title">
-				Sacramento Kings en casa de Portland Trail Blazers
+				Phoenix Suns en casa de Memphis Grizzlies
 
-4:05			</div>
+2:05			</div>
 		</div>
 
 
@@ -1708,28 +1729,28 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979980/251397707/775878709" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979980%2F251397707%2F775878709&amp;odds=7.25&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984762/251717290/776800536" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984762%2F251717290%2F776800536&amp;odds=2.20&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
-<i class="icon-glyph_star favourite-icon " data-player="7|Sacramento Kings"></i>
+<i class="icon-glyph_star favourite-icon " data-player="7|Phoenix Suns"></i>
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Sacramento Kings</div>
-					<div class="mb-option-button__option-odds ">7.25</div>
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Phoenix Suns</div>
+					<div class="mb-option-button__option-odds ">2.20</div>
 				</button>
 		</td>
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979980/251397707/775878710" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979980%2F251397707%2F775878710&amp;odds=1.10&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984762/251717290/776800537" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984762%2F251717290%2F776800537&amp;odds=1.70&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
-<i class="icon-glyph_star favourite-icon " data-player="7|Portland Trail Blazers"></i>
+<i class="icon-glyph_star favourite-icon " data-player="7|Memphis Grizzlies"></i>
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Portland Trail Blazers</div>
-					<div class="mb-option-button__option-odds ">1.10</div>
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Memphis Grizzlies</div>
+					<div class="mb-option-button__option-odds ">1.70</div>
 				</button>
 		</td>
 		</tr>
@@ -1746,15 +1767,80 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 	<div class="mb-event-details-buttons">
 		<span class="mb-event-details-buttons__button mb-event-details-buttons__button--more-markets ">
 				<a 
-				   title="29 M&#225;s apuestas"
-				   href="/es/sports/events/7/6004/6979981/apuestas/los-angeles-clippers-en-casa-de-denver-nuggets"
+				   title="36 M&#225;s apuestas"
+				   href="/es/sports/events/7/6004/6984764/apuestas/new-orleans-pelicans-en-casa-de-san-antonio-spurs"
 				   class="mb-event-details-buttons__button-link">
-					<span>+</span><span>29</span>
+					<span>+</span><span>36</span>
+				</a>
+		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics mb-event-details-buttons__button--dynamic">
+		</span>
+	</div>
+
+		</div>
+
+		<div class="marketboard-event-with-header__header">
+			<div class="marketboard-event-with-header__header-title">
+				New Orleans Pelicans en casa de San Antonio Spurs
+
+2:35			</div>
+		</div>
+
+
+			<div class="marketboard-event-with-header__markets-container">
+				<table class="marketboard-event-with-header__markets-list">
+					
+		<tr class="marketboard-options-row marketboard-options-row--2-col">
+
+
+
+
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984764/251717312/776800600" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984764%2F251717312%2F776800600&amp;odds=2.70&amp;source=LeagueView%2fMarketboard">
+				<div class="mb-option-button__favourite">
+					
+
+<i class="icon-glyph_star favourite-icon " data-player="7|New Orleans Pelicans"></i>
+				</div>
+				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">New Orleans Pelicans</div>
+					<div class="mb-option-button__option-odds ">2.70</div>
+				</button>
+		</td>
+
+
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984764/251717312/776800601" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984764%2F251717312%2F776800601&amp;odds=1.48&amp;source=LeagueView%2fMarketboard">
+				<div class="mb-option-button__favourite">
+					
+
+<i class="icon-glyph_star favourite-icon " data-player="7|San Antonio Spurs"></i>
+				</div>
+				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">San Antonio Spurs</div>
+					<div class="mb-option-button__option-odds ">1.48</div>
+				</button>
+		</td>
+		</tr>
+
+				</table>
+			</div>
+	</div>
+</div>
+				<div class="marketboard-event-group__item--event">	<div class="marketboard-event-header-separator"></div>
+	<div class="marketboard-event-with-header">
+
+		<div class="marketboard-event-with-header__detail-buttons">
+			
+	<div class="mb-event-details-buttons">
+		<span class="mb-event-details-buttons__button mb-event-details-buttons__button--more-markets ">
+				<a 
+				   title="36 M&#225;s apuestas"
+				   href="/es/sports/events/7/6004/6984765/apuestas/oklahoma-city-thunder-en-casa-de-dallas-mavericks"
+				   class="mb-event-details-buttons__button-link">
+					<span>+</span><span>36</span>
 				</a>
 		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics ">
 			    <a 
 				   title="Estad&#237;sticas"
-				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234372&amp;language=es" 
+				   href="http://stats.betradar.com/s4/?clientid=25&amp;matchid=12234386&amp;language=es" 
 				   rel="popup" 
 				   data-popup-params="width=800, height=875, resizable=1, toolbar=0, status=1, scrollbars=1" 
 				   target="statistics" 
@@ -1769,7 +1855,72 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 		<div class="marketboard-event-with-header__header">
 			<div class="marketboard-event-with-header__header-title">
-				Los Angeles Clippers en casa de Denver Nuggets
+				Oklahoma City Thunder en casa de Dallas Mavericks
+
+2:35			</div>
+		</div>
+
+
+			<div class="marketboard-event-with-header__markets-container">
+				<table class="marketboard-event-with-header__markets-list">
+					
+		<tr class="marketboard-options-row marketboard-options-row--2-col">
+
+
+
+
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984765/251717322/776800630" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984765%2F251717322%2F776800630&amp;odds=1.48&amp;source=LeagueView%2fMarketboard">
+				<div class="mb-option-button__favourite">
+					
+
+<i class="icon-glyph_star favourite-icon " data-player="7|Oklahoma City Thunder"></i>
+				</div>
+				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Oklahoma City Thunder</div>
+					<div class="mb-option-button__option-odds ">1.48</div>
+				</button>
+		</td>
+
+
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984765/251717322/776800631" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984765%2F251717322%2F776800631&amp;odds=2.70&amp;source=LeagueView%2fMarketboard">
+				<div class="mb-option-button__favourite">
+					
+
+<i class="icon-glyph_star favourite-icon " data-player="7|Dallas Mavericks"></i>
+				</div>
+				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Dallas Mavericks</div>
+					<div class="mb-option-button__option-odds ">2.70</div>
+				</button>
+		</td>
+		</tr>
+
+				</table>
+			</div>
+	</div>
+</div>
+				<div class="marketboard-event-group__item--event">	<div class="marketboard-event-header-separator"></div>
+	<div class="marketboard-event-with-header">
+
+		<div class="marketboard-event-with-header__detail-buttons">
+			
+	<div class="mb-event-details-buttons">
+		<span class="mb-event-details-buttons__button mb-event-details-buttons__button--more-markets ">
+				<a 
+				   title="36 M&#225;s apuestas"
+				   href="/es/sports/events/7/6004/6984766/apuestas/houston-rockets-en-casa-de-los-angeles-clippers"
+				   class="mb-event-details-buttons__button-link">
+					<span>+</span><span>36</span>
+				</a>
+		</span><span class="mb-event-details-buttons__button mb-event-details-buttons__button--statistics mb-event-details-buttons__button--dynamic">
+		</span>
+	</div>
+
+		</div>
+
+		<div class="marketboard-event-with-header__header">
+			<div class="marketboard-event-with-header__header-title">
+				Houston Rockets en casa de Los Angeles Clippers
 
 4:35			</div>
 		</div>
@@ -1783,7 +1934,20 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 
 
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979981/251397717/775878739" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979981%2F251397717%2F775878739&amp;odds=2.70&amp;source=LeagueView%2fMarketboard">
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984766/251717332/776800660" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984766%2F251717332%2F776800660&amp;odds=1.26&amp;source=LeagueView%2fMarketboard">
+				<div class="mb-option-button__favourite">
+					
+
+<i class="icon-glyph_star favourite-icon " data-player="7|Houston Rockets"></i>
+				</div>
+				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
+					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Houston Rockets</div>
+					<div class="mb-option-button__option-odds ">1.26</div>
+				</button>
+		</td>
+
+
+		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6984766/251717332/776800661" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6984766%2F251717332%2F776800661&amp;odds=3.90&amp;source=LeagueView%2fMarketboard">
 				<div class="mb-option-button__favourite">
 					
 
@@ -1791,20 +1955,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 				</div>
 				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
 					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Los Angeles Clippers</div>
-					<div class="mb-option-button__option-odds ">2.70</div>
-				</button>
-		</td>
-
-
-		<td class="mb-option-button rounded mb-option-button--2-col" data-option="7/6004/6979981/251397717/775878740" title="" data-action="/es/betslip/betslipv2/add?optionId=7%2F6004%2F6979981%2F251397717%2F775878740&amp;odds=1.48&amp;source=LeagueView%2fMarketboard">
-				<div class="mb-option-button__favourite">
-					
-
-<i class="icon-glyph_star favourite-icon " data-player="7|Denver Nuggets"></i>
-				</div>
-				<button type="button" class="no-uniform mb-option-button__button mb-option-button__button--favourited">
-					<div class="mb-option-button__option-name mb-option-button__option-name--odds-4">Denver Nuggets</div>
-					<div class="mb-option-button__option-odds ">1.48</div>
+					<div class="mb-option-button__option-odds ">3.90</div>
 				</button>
 		</td>
 		</tr>
@@ -1947,6 +2098,27 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                     <td class="league-statistics__item league-statistics__item--center">5</td>
                     <td class="league-statistics__item league-statistics__item--left">    <i class="theme-minus league-statistics__icon league-statistics__icon--neutral"></i>
 </td>
+                    <td class="league-statistics__item league-statistics__item--left">Portland</td>
+                        <td title="N&#250;mero de victorias">
+                            35
+                        </td>
+                        <td title="N&#250;mero de derrotas">
+                            26
+                        </td>
+                        <td title="&#218;ltimas 10 victorias/derrotas">
+                            6/4
+                        </td>
+                        <td title="Racha">
+                            4
+                        </td>
+                        <td title="Porcentaje">
+                            0.574
+                        </td>
+                </tr>
+                <tr>
+                    <td class="league-statistics__item league-statistics__item--center">6</td>
+                    <td class="league-statistics__item league-statistics__item--left">    <i class="theme-minus league-statistics__icon league-statistics__icon--neutral"></i>
+</td>
                     <td class="league-statistics__item league-statistics__item--left">New Orleans</td>
                         <td title="N&#250;mero de victorias">
                             34
@@ -1959,27 +2131,6 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                         </td>
                         <td title="Racha">
                             6
-                        </td>
-                        <td title="Porcentaje">
-                            0.567
-                        </td>
-                </tr>
-                <tr>
-                    <td class="league-statistics__item league-statistics__item--center">6</td>
-                    <td class="league-statistics__item league-statistics__item--left">    <i class="theme-minus league-statistics__icon league-statistics__icon--neutral"></i>
-</td>
-                    <td class="league-statistics__item league-statistics__item--left">Portland</td>
-                        <td title="N&#250;mero de victorias">
-                            34
-                        </td>
-                        <td title="N&#250;mero de derrotas">
-                            26
-                        </td>
-                        <td title="&#218;ltimas 10 victorias/derrotas">
-                            6/4
-                        </td>
-                        <td title="Racha">
-                            3
                         </td>
                         <td title="Porcentaje">
                             0.567
@@ -2010,9 +2161,9 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                     <td class="league-statistics__item league-statistics__item--center">8</td>
                     <td class="league-statistics__item league-statistics__item--left">    <i class="theme-minus league-statistics__icon league-statistics__icon--neutral"></i>
 </td>
-                    <td class="league-statistics__item league-statistics__item--left">Denver</td>
+                    <td class="league-statistics__item league-statistics__item--left">LA Clippers</td>
                         <td title="N&#250;mero de victorias">
-                            33
+                            32
                         </td>
                         <td title="N&#250;mero de derrotas">
                             27
@@ -2021,31 +2172,31 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                             7/3
                         </td>
                         <td title="Racha">
-                            -1
+                            2
                         </td>
                         <td title="Porcentaje">
-                            0.55
+                            0.542
                         </td>
                 </tr>
                 <tr>
                     <td class="league-statistics__item league-statistics__item--center">9</td>
                     <td class="league-statistics__item league-statistics__item--left">    <i class="theme-minus league-statistics__icon league-statistics__icon--neutral"></i>
 </td>
-                    <td class="league-statistics__item league-statistics__item--left">LA Clippers</td>
+                    <td class="league-statistics__item league-statistics__item--left">Denver</td>
                         <td title="N&#250;mero de victorias">
-                            31
+                            33
                         </td>
                         <td title="N&#250;mero de derrotas">
-                            27
+                            28
                         </td>
                         <td title="&#218;ltimas 10 victorias/derrotas">
                             7/3
                         </td>
                         <td title="Racha">
-                            1
+                            -2
                         </td>
                         <td title="Porcentaje">
-                            0.534
+                            0.541
                         </td>
                 </tr>
                 <tr>
@@ -2141,16 +2292,16 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                             18
                         </td>
                         <td title="N&#250;mero de derrotas">
-                            42
+                            43
                         </td>
                         <td title="&#218;ltimas 10 victorias/derrotas">
                             2/8
                         </td>
                         <td title="Racha">
-                            -4
+                            -5
                         </td>
                         <td title="Porcentaje">
-                            0.3
+                            0.295
                         </td>
                 </tr>
                 <tr>
@@ -2187,7 +2338,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
 
 	<script type="application/ld+json">
-		[{"@context":"http://schema.org","@type":"SportsEvent","name":"Chicago Bulls en casa de Charlotte Hornets","startDate":"2018-02-28T01:05:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6979976/apuestas/chicago-bulls-en-casa-de-charlotte-hornets","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Brooklyn Nets en casa de Cleveland Cavaliers","startDate":"2018-02-28T01:05:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6979977/apuestas/brooklyn-nets-en-casa-de-cleveland-cavaliers","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Philadelphia 76ers en casa de Miami Heat","startDate":"2018-02-28T01:35:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6979978/apuestas/philadelphia-76ers-en-casa-de-miami-heat","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Washington Wizards en casa de Milwaukee Bucks","startDate":"2018-02-28T02:05:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6979979/apuestas/washington-wizards-en-casa-de-milwaukee-bucks","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Sacramento Kings en casa de Portland Trail Blazers","startDate":"2018-02-28T04:05:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6979980/apuestas/sacramento-kings-en-casa-de-portland-trail-blazers","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Los Angeles Clippers en casa de Denver Nuggets","startDate":"2018-02-28T04:35:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6979981/apuestas/los-angeles-clippers-en-casa-de-denver-nuggets","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}}]
+		[{"@context":"http://schema.org","@type":"SportsEvent","name":"Toronto Raptors en casa de Orlando Magic","startDate":"2018-03-01T01:05:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6984759/apuestas/toronto-raptors-en-casa-de-orlando-magic","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Milwaukee Bucks en casa de Detroit Pistons","startDate":"2018-03-01T01:05:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6984758/apuestas/milwaukee-bucks-en-casa-de-detroit-pistons","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Indiana Pacers en casa de Atlanta Hawks","startDate":"2018-03-01T01:35:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6984760/apuestas/indiana-pacers-en-casa-de-atlanta-hawks","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Charlotte Hornets en casa de Boston Celtics","startDate":"2018-03-01T01:35:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6984761/apuestas/charlotte-hornets-en-casa-de-boston-celtics","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Golden State Warriors en casa de Washington Wizards","startDate":"2018-03-01T02:05:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6984763/apuestas/golden-state-warriors-en-casa-de-washington-wizards","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Phoenix Suns en casa de Memphis Grizzlies","startDate":"2018-03-01T02:05:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6984762/apuestas/phoenix-suns-en-casa-de-memphis-grizzlies","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"New Orleans Pelicans en casa de San Antonio Spurs","startDate":"2018-03-01T02:35:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6984764/apuestas/new-orleans-pelicans-en-casa-de-san-antonio-spurs","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Oklahoma City Thunder en casa de Dallas Mavericks","startDate":"2018-03-01T02:35:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6984765/apuestas/oklahoma-city-thunder-en-casa-de-dallas-mavericks","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}},{"@context":"http://schema.org","@type":"SportsEvent","name":"Houston Rockets en casa de Los Angeles Clippers","startDate":"2018-03-01T04:35:00","url":"https://sports.bwin.es/es/sports/events/7/6004/6984766/apuestas/houston-rockets-en-casa-de-los-angeles-clippers","location":{"@type":"Place","name":"NBA","address":{"@type":"PostalAddress","name":""}}}]
 	</script>
 
 
@@ -2244,7 +2395,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
         </div>
 <div id="miniMyBetsRoot" data-ng-cloak>
     <div id="bets" data-ng-controller="MyBetsController as mb">
-        <input name="__RequestVerificationToken" type="hidden" value="ZGmsQFcCgs5OKPUw5mAR2CXVrZun42fqKR5OJvVwWjCTfolh0w3h8FN_rQ5is6lsqvIskw2" />
+        <input name="__RequestVerificationToken" type="hidden" value="eK6SjNjLUfFYmCAknximgGfKGSEGAxrnd1_TZMpCfKSEc6QnElxXa2t8Li14BM3BzAuD8A2" />
         <nav data-lb-tab-container class="rounded-top">
             <a class="bets-help" href="https://help.bwin.es/es/sports-help/sports-betting/placing-a-bet" rel="popup" data-popup-params="resizable=1, toolbar=1, status=1, scrollbars=1, width=780, height=700" title="" target="_blank">
                 <span class="theme-question"></span>
@@ -2291,7 +2442,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
     >
     </div>
         <form action="/es/betslip/betslipv2" method="post" name="betslip-form" class="js-betslip-initial-view-form">
-            <input name="__RequestVerificationToken" type="hidden" value="m6L-Ie0hotK3Pj1OmJEED08IOb1UusvxX-G2r5GAYm9nrHcKrGTybjm9OxPHAbsJsznYVQ2" />
+            <input name="__RequestVerificationToken" type="hidden" value="2nHmvGQCkgydLdTUKETt71c6DFopxu0Vi7HUcefFtEdgkfL0FwY-dTcUjzj_ohza3UzH2w2" />
 
             <div class="betslip-waiting-screen">
                 <div id="waiting-screen" class="betslip-waiting-screen__loading-overlay">
@@ -2348,7 +2499,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
         <div id="bestseller-container">
 
-<form action="/es/sports/bestseller/refresh" class="refresh" method="post"><input name="__RequestVerificationToken" type="hidden" value="rMxqCOviyoze6V4H9L9i-vm_TAhWIbJSSo3UEOtubW4YaN3UUGBiHNp7V3b2qzJjjFWT7Q2" /></form>    <div id="bestseller" class="bestseller ui-widget-content rounded">
+<form action="/es/sports/bestseller/refresh" class="refresh" method="post"><input name="__RequestVerificationToken" type="hidden" value="UndN9ahkPfkMI0EI2C4azMjPBBN7LoDF_hvuD9pjmcdxvFOu2iNOOlk-VkJv3RJ1vOl-vA2" /></form>    <div id="bestseller" class="bestseller ui-widget-content rounded">
         <div class="bestseller__header ui-widget-header">
             <div class="bestseller__paging">
                 <span class="bestseller__paging-prev icon-glyph_left"></span>
@@ -2358,7 +2509,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
             <h3>Bestseller M&#250;ltiple</h3>
         </div>
         <div class="bestseller__body ui-widget-content-body">
-<form action="/es/betslip/betslipv2/addmulti" method="post"><input name="__RequestVerificationToken" type="hidden" value="3K-kt8mk0hAU3a5DMQ7h2fHfzGcVRBvZssFIzFjWpN196vAJvbN458Bqv83IlDj-R0NkCw2" />                    <div class="bestseller__content" style="">
+<form action="/es/betslip/betslipv2/addmulti" method="post"><input name="__RequestVerificationToken" type="hidden" value="EnraXtDuPzkEaeJAn-j8tXI43SZPN9A9WYB-M9KWL04m_ZK7cs_KCazJbSMdSAD3D76PtQ2" />                    <div class="bestseller__content" style="">
                         <div class="bestseller__image-text">
                             <div class="bestseller__col-image">
                                 <span class="bestseller__image  bestseller__image--normal"></span>
@@ -2372,20 +2523,20 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
                         <div class="bestseller__form">
                             <fieldset class="bestseller__form-fieldset bestseller__form-fieldset--hidden">
-                                    <input type="hidden" name="picks[0].OptionId" value="4/1606/6922866/247764345/765376266" />
-                                    <input type="hidden" name="picks[0].Odds" value="1,45" />
+                                    <input type="hidden" name="picks[0].OptionId" value="4/4131/6950753/249566969/770539934" />
+                                    <input type="hidden" name="picks[0].Odds" value="1,22" />
                                     <input type="hidden" name="picks[0].Source" value="SportsbookMain/VanillaBestseller1" />
-                                    <input type="hidden" name="picks[1].OptionId" value="4/16108/6902132/246500955/761711204" />
-                                    <input type="hidden" name="picks[1].Odds" value="1,91" />
+                                    <input type="hidden" name="picks[1].OptionId" value="4/46/6913074/247173383/763707747" />
+                                    <input type="hidden" name="picks[1].Odds" value="1,22" />
                                     <input type="hidden" name="picks[1].Source" value="SportsbookMain/VanillaBestseller1" />
-                                    <input type="hidden" name="picks[2].OptionId" value="4/46/6913065/247173127/763706955" />
-                                    <input type="hidden" name="picks[2].Odds" value="1,20" />
+                                    <input type="hidden" name="picks[2].OptionId" value="4/16108/6902140/246501819/761713963" />
+                                    <input type="hidden" name="picks[2].Odds" value="1,80" />
                                     <input type="hidden" name="picks[2].Source" value="SportsbookMain/VanillaBestseller1" />
-                                    <input type="hidden" name="picks[3].OptionId" value="4/16108/6902136/246501364/761712499" />
-                                    <input type="hidden" name="picks[3].Odds" value="1,25" />
+                                    <input type="hidden" name="picks[3].OptionId" value="4/1606/6922871/247764956/765378180" />
+                                    <input type="hidden" name="picks[3].Odds" value="1,70" />
                                     <input type="hidden" name="picks[3].Source" value="SportsbookMain/VanillaBestseller1" />
-                                    <input type="hidden" name="picks[4].OptionId" value="4/1606/6922868/247764577/765377003" />
-                                    <input type="hidden" name="picks[4].Odds" value="1,12" />
+                                    <input type="hidden" name="picks[4].OptionId" value="4/16108/6902138/246501603/761713267" />
+                                    <input type="hidden" name="picks[4].Odds" value="2,60" />
                                     <input type="hidden" name="picks[4].Source" value="SportsbookMain/VanillaBestseller1" />
                                 <input name="type" type="hidden" value="Normal" />
                             </fieldset>
@@ -2396,8 +2547,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <div class="bestseller__form-text bestseller__form-text--stake custom-combobox">
                                             <input id="bs-stake-0"
                                                    class="bestseller__form-text--input"
-                                                   data-odds="4.6528"
-                                                   data-winnings="23"
+                                                   data-odds="11.8417"
+                                                   data-winnings="59"
                                                    name="stake"
                                                    type="text"
                                                    data-taxrate="0"
@@ -2418,9 +2569,9 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                     </div>
                                     <div class="bestseller-form__col bestseller-form__col3">
                                         <div class="bestseller__form__button-data btn-s3" data-currency="EUR" data-tooltip-format="Esta combinaci&#243;n bestseller otorga un premio de {0} {2} por una apuesta de {1} {2}."
-                                             title="Esta combinaci&#243;n bestseller otorga un premio de 23 EUR por una apuesta de 5 EUR.">
+                                             title="Esta combinaci&#243;n bestseller otorga un premio de 59 EUR por una apuesta de 5 EUR.">
                                             <button class="bestseller__form__win-button" type="submit" name="add">
-                                                <div class="bestseller__form__win-button__desc">Gane <span>23</span> EUR</div>
+                                                <div class="bestseller__form__win-button__desc">Gane <span>59</span> EUR</div>
                                             </button>
                                         </div>
                                     </div>
@@ -2428,7 +2579,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                             </div>
                         </div>
                     </div>
-</form><form action="/es/betslip/betslipv2/addmulti" method="post"><input name="__RequestVerificationToken" type="hidden" value="yrA-1Jm4Xcfg6CoXh7eySa__yCrHJeoKO7h38eRYuKPfHTRehaK0qubrwIgH_YIVMsQJ2g2" />                    <div class="bestseller__content" style="display:none">
+</form><form action="/es/betslip/betslipv2/addmulti" method="post"><input name="__RequestVerificationToken" type="hidden" value="8MP5c9cKlpqoc1oXNdu10FRlPctAaiFL8tBC2HN92uRdkuOPQfEjNwdNUWiPFr0pA3OhHg2" />                    <div class="bestseller__content" style="display:none">
                         <div class="bestseller__image-text">
                             <div class="bestseller__col-image">
                                 <span class="bestseller__image  bestseller__image--jackpot"></span>
@@ -2442,20 +2593,20 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
                         <div class="bestseller__form">
                             <fieldset class="bestseller__form-fieldset bestseller__form-fieldset--hidden">
-                                    <input type="hidden" name="picks[0].OptionId" value="4/1606/6922867/247764458/765376630" />
-                                    <input type="hidden" name="picks[0].Odds" value="1,91" />
+                                    <input type="hidden" name="picks[0].OptionId" value="4/16108/6931528/248367768/767127709" />
+                                    <input type="hidden" name="picks[0].Odds" value="1,48" />
                                     <input type="hidden" name="picks[0].Source" value="SportsbookMain/VanillaBestseller2" />
-                                    <input type="hidden" name="picks[1].OptionId" value="4/16108/6902132/246500955/761711204" />
-                                    <input type="hidden" name="picks[1].Odds" value="1,91" />
+                                    <input type="hidden" name="picks[1].OptionId" value="4/1606/6922869/247764698/765377377" />
+                                    <input type="hidden" name="picks[1].Odds" value="2,05" />
                                     <input type="hidden" name="picks[1].Source" value="SportsbookMain/VanillaBestseller2" />
-                                    <input type="hidden" name="picks[2].OptionId" value="4/16108/6902138/246501603/761713267" />
-                                    <input type="hidden" name="picks[2].Odds" value="2,65" />
+                                    <input type="hidden" name="picks[2].OptionId" value="4/1606/6922870/247764822/765377765" />
+                                    <input type="hidden" name="picks[2].Odds" value="1,65" />
                                     <input type="hidden" name="picks[2].Source" value="SportsbookMain/VanillaBestseller2" />
-                                    <input type="hidden" name="picks[3].OptionId" value="4/46/6893805/245891669/760022264" />
-                                    <input type="hidden" name="picks[3].Odds" value="1,78" />
+                                    <input type="hidden" name="picks[3].OptionId" value="4/1606/6922867/247764458/765376630" />
+                                    <input type="hidden" name="picks[3].Odds" value="2,00" />
                                     <input type="hidden" name="picks[3].Source" value="SportsbookMain/VanillaBestseller2" />
-                                    <input type="hidden" name="picks[4].OptionId" value="4/16108/6902137/246501496/761712921" />
-                                    <input type="hidden" name="picks[4].Odds" value="2,20" />
+                                    <input type="hidden" name="picks[4].OptionId" value="4/16108/6931521/248366954/767125108" />
+                                    <input type="hidden" name="picks[4].Odds" value="1,67" />
                                     <input type="hidden" name="picks[4].Source" value="SportsbookMain/VanillaBestseller2" />
                                 <input name="type" type="hidden" value="Jackpot" />
                             </fieldset>
@@ -2466,8 +2617,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <div class="bestseller__form-text bestseller__form-text--stake custom-combobox">
                                             <input id="bs-stake-1"
                                                    class="bestseller__form-text--input"
-                                                   data-odds="37.8578"
-                                                   data-winnings="189"
+                                                   data-odds="16.7204"
+                                                   data-winnings="84"
                                                    name="stake"
                                                    type="text"
                                                    data-taxrate="0"
@@ -2488,9 +2639,9 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                     </div>
                                     <div class="bestseller-form__col bestseller-form__col3">
                                         <div class="bestseller__form__button-data btn-s3" data-currency="EUR" data-tooltip-format="Esta combinaci&#243;n bestseller otorga un premio de {0} {2} por una apuesta de {1} {2}."
-                                             title="Esta combinaci&#243;n bestseller otorga un premio de 189 EUR por una apuesta de 5 EUR.">
+                                             title="Esta combinaci&#243;n bestseller otorga un premio de 84 EUR por una apuesta de 5 EUR.">
                                             <button class="bestseller__form__win-button" type="submit" name="add">
-                                                <div class="bestseller__form__win-button__desc">Gane <span>189</span> EUR</div>
+                                                <div class="bestseller__form__win-button__desc">Gane <span>84</span> EUR</div>
                                             </button>
                                         </div>
                                     </div>
@@ -2498,7 +2649,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                             </div>
                         </div>
                     </div>
-</form><form action="/es/betslip/betslipv2/addmulti" method="post"><input name="__RequestVerificationToken" type="hidden" value="w8W1v3LtE-SBjJCItjz99mrcXNLYyWhyBw4YEhxE6TU0HiAklmjhYHEDoV0-hiXv8FNCnA2" />                    <div class="bestseller__content" style="display:none">
+</form><form action="/es/betslip/betslipv2/addmulti" method="post"><input name="__RequestVerificationToken" type="hidden" value="b5dJXn8Nlt1g136suuPoyJmBFH3U_guhYYFfiSpK_uZm7MnZl-fRxo1XrR3E5yelSHnfUw2" />                    <div class="bestseller__content" style="display:none">
                         <div class="bestseller__image-text">
                             <div class="bestseller__col-image">
                                 <span class="bestseller__image  bestseller__image--random"></span>
@@ -2512,14 +2663,14 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
 
                         <div class="bestseller__form">
                             <fieldset class="bestseller__form-fieldset bestseller__form-fieldset--hidden">
-                                    <input type="hidden" name="picks[0].OptionId" value="4/16108/6902134/246501187/761711934" />
-                                    <input type="hidden" name="picks[0].Odds" value="2,15" />
+                                    <input type="hidden" name="picks[0].OptionId" value="4/1606/6922872/247765077/765378559" />
+                                    <input type="hidden" name="picks[0].Odds" value="1,44" />
                                     <input type="hidden" name="picks[0].Source" value="SportsbookMain/VanillaBestseller3" />
-                                    <input type="hidden" name="picks[1].OptionId" value="4/1606/6922873/247765213/765378967" />
-                                    <input type="hidden" name="picks[1].Odds" value="1,44" />
+                                    <input type="hidden" name="picks[1].OptionId" value="4/1606/6922867/247764458/765376630" />
+                                    <input type="hidden" name="picks[1].Odds" value="2,00" />
                                     <input type="hidden" name="picks[1].Source" value="SportsbookMain/VanillaBestseller3" />
-                                    <input type="hidden" name="picks[2].OptionId" value="4/16108/6902139/246501710/761713615" />
-                                    <input type="hidden" name="picks[2].Odds" value="1,20" />
+                                    <input type="hidden" name="picks[2].OptionId" value="7/6004/6984759/251717260/776800446" />
+                                    <input type="hidden" name="picks[2].Odds" value="1,22" />
                                     <input type="hidden" name="picks[2].Source" value="SportsbookMain/VanillaBestseller3" />
                                     <input type="hidden" name="picks[3].OptionId" value="4/4131/6950753/249566969/770539934" />
                                     <input type="hidden" name="picks[3].Odds" value="1,22" />
@@ -2536,8 +2687,8 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                         <div class="bestseller__form-text bestseller__form-text--stake custom-combobox">
                                             <input id="bs-stake-2"
                                                    class="bestseller__form-text--input"
-                                                   data-odds="5.0764"
-                                                   data-winnings="25"
+                                                   data-odds="4.8010"
+                                                   data-winnings="24"
                                                    name="stake"
                                                    type="text"
                                                    data-taxrate="0"
@@ -2558,9 +2709,9 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                     </div>
                                     <div class="bestseller-form__col bestseller-form__col3">
                                         <div class="bestseller__form__button-data btn-s3" data-currency="EUR" data-tooltip-format="Esta combinaci&#243;n bestseller otorga un premio de {0} {2} por una apuesta de {1} {2}."
-                                             title="Esta combinaci&#243;n bestseller otorga un premio de 25 EUR por una apuesta de 5 EUR.">
+                                             title="Esta combinaci&#243;n bestseller otorga un premio de 24 EUR por una apuesta de 5 EUR.">
                                             <button class="bestseller__form__win-button" type="submit" name="add">
-                                                <div class="bestseller__form__win-button__desc">Gane <span>25</span> EUR</div>
+                                                <div class="bestseller__form__win-button__desc">Gane <span>24</span> EUR</div>
                                             </button>
                                         </div>
                                     </div>
@@ -3120,7 +3271,7 @@ document.cookie = 'bonus-min=%2Fen%2Fsignupbonus%3FtrackerId%3D4418548; expires=
                                 <li><span>espa&#241;ol</span></li>
                         </ul>
                     </div>
-                                    <span id="server-time" data-time="1519777937394"></span>
+                                    <span id="server-time" data-time="1519861281347"></span>
                 
                 
             </div>
