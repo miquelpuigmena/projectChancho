@@ -38,7 +38,7 @@ html_codere_path_tag = "htmls/codere/"
 html_betfair_path_tag = "htmls/betfair/"
 html_bwin_path_tag = "htmls/bwin/"
 
-official_pos_cache = 0
+official_pos_cache = 1
 sportium_tag = "Sportium"
 sportium_pos_cache = 2
 codere_tag = "Codere"
@@ -48,6 +48,8 @@ betfair_pos_cache = 4
 bwin_tag = "Bwin"
 bwin_pos_cache = 5
 
+path_file_drive_cache_id = "drive/file_id.txt"
+cache_tag = "cache.csv"
 
 div_tag = "div"
 id_tag = "id"

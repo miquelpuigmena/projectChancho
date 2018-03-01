@@ -134,6 +134,10 @@ def define_Alphas():
 	file_w.close()
 	f = open("csv/script/"+str(t)+".csv",'a')
 	writer = csv.writer(f)
+	contador=0
 	for line in priv_orderListByColumn(alpha_list, C.alpha_tag):
+		if contador<10:
+			print line
+			contador += 1
 		writer.writerow(line)
 	f.close()

@@ -5,14 +5,17 @@ from utils import writeCSVdocresults, saveHTML
 
 def getDataResults(esport, casa, jsonData):
 	for game in jsonData:
-		cuotes=[]
-		equips=[]
-		teams = game["Games"][0]["Results"]
-		for team in teams:
-			cuotes.append(team["Odd"])
-			if (team["Name"]!="X"):
-				equips.append(team["Name"])
-		writeCSVdocresults(esport, casa, equips, cuotes)
+		try:
+			cuotes=[]
+			equips=[]
+			teams = game["Games"][0]["Results"]
+			for team in teams:
+				cuotes.append(team["Odd"])
+				if (team["Name"]!="X"):
+					equips.append(team["Name"])
+			writeCSVdocresults(esport, casa, equips, cuotes)
+		except:
+			pass
 
 linkConstructor="https://m.apuestas.codere.es/csbgonline/home/GetEvents?parentid="
 NHL="139434016"

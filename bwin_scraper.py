@@ -49,7 +49,7 @@ def priv_getData2Results(esport, casa, path):
 
 def runBwin():
 	getHTMLs()
-	priv_getData3Results(C.laliga_tag,C.bwin_tag,C.html_bwin_path_tag+"LALIGA.txt")
+	#priv_getData3Results(C.laliga_tag,C.bwin_tag,C.html_bwin_path_tag+"LALIGA.txt")
 	priv_getData3Results(C.champions_tag,C.bwin_tag,C.html_bwin_path_tag+"CHAMPIONS.txt")
 	priv_getData3Results(C.uefa_tag,C.bwin_tag,C.html_bwin_path_tag+"UEFA.txt")
 	priv_getData3Results(C.premier_tag,C.bwin_tag,C.html_bwin_path_tag+"PREMIER.txt")
