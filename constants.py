@@ -38,7 +38,7 @@ html_codere_path_tag = "htmls/codere/"
 html_betfair_path_tag = "htmls/betfair/"
 html_bwin_path_tag = "htmls/bwin/"
 
-official_pos_cache = 1
+official_pos_cache = 0
 sportium_tag = "Sportium"
 sportium_pos_cache = 2
 codere_tag = "Codere"
