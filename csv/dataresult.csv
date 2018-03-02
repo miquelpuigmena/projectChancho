@@ -1,163 +1,138 @@
-NBA,Codere,Miami Heat,LA Lakers,1.5,None,2.7
-NBA,Codere,Cleveland Cavaliers,Philadelphia 76ers,1.64516129,None,2.3
-NBA,Codere,Portland Trail Blazers,Minnesota Timberwolves,1.476190476,None,2.75
-NBA,Codere,Orlando Magic,Detroit Pistons,2.25,None,1.689655172
-NBA,Codere,Atlanta Hawks,Golden State Warriors,9,None,1.076923077
-NBA,Codere,Washington Wizards,Toronto Raptors,2.3,None,1.64516129
-NBA,Codere,LA Clippers,New York Knicks,1.181818182,None,5
-NHL,Codere,Boston Bruins,Pittsburgh Penguins,1.87,None,2
-NHL,Codere,Philadelphia Flyers,Carolina Hurricanes,1.7,None,2.2
-NHL,Codere,Florida Panthers,New Jersey Devils,1.75,None,2.15
-NHL,Codere,Dallas Stars,Tampa Bay Lightning,1.65,None,2.3
-NHL,Codere,Arizona Coyotes,Minnesota Wild,2.4,None,1.62
-NHL,Codere,Edmonton Oilers,Nashville Predators,2.3,None,1.65
-NHL,Codere,San Jose Sharks,Chicago Blackhawks,1.62,None,2.4
-NHL,Codere,Los Angeles Kings,Columbus Blue Jackets,1.65,None,2.3
-La Liga,Codere,Villarreal,Girona,1.75,3.5,4.5
-La Liga,Codere,Sevilla,Athletic de Bilbao,1.67,3.75,4.8
-La Liga,Codere,Deportivo,Eibar,2.65,3.25,2.6
-La Liga,Codere,Leganes,Malaga,2.05,3.1,3.9
-La Liga,Codere,Real Madrid,Getafe,1.18,7.25,12
-La Liga,Codere,Levante,Espa�ol,2.8,3.05,2.6
-La Liga,Codere,Real sociedad,Alaves,1.72,3.8,4.4
-La Liga,Codere,Valencia,Betis,1.45,4.75,5.75
-La Liga,Codere,Celta de Vigo,Las Palmas,1.5,4.25,6
-La Liga,Codere,Girona,Deportivo,1.75,3.6,4.6
-La Liga,Codere,Eibar,Real Madrid,6.25,4.6,1.45
-La Liga,Codere,Sevilla,Valencia,2,3.6,3.35
-La Liga,Codere,Getafe,Levante,1.8,3.4,4.75
-La Liga,Codere,Malaga,Barcelona,10,5.75,1.25
-La Liga,Codere,Espa�ol,Real sociedad,2.4,3.15,2.95
-La Liga,Codere,Las Palmas,Villarreal,3.3,3.5,2.05
-La Liga,Codere,Athletic de Bilbao,Leganes,1.83,3.3,4.6
-La Liga,Codere,Alaves,Betis,2.2,3.25,3.25
-Champions League,Codere,Liverpool,Oporto,1.45,4.4,6.25
-Champions League,Codere,PSG,Real Madrid,2.05,3.8,3.2
-Champions League,Codere,Manchester City,Basel,1.12,8,20
-Champions League,Codere,Tottenham,Juventus,2.1,3.4,3.4
-Champions League,Codere,Manchester United,Sevilla,1.7,3.7,4.75
-Champions League,Codere,Roma,Shaktar,1.7,3.8,4.6
-Champions League,Codere,Besiktas,Bayern Munich,6.25,4.6,1.45
-Champions League,Codere,Barcelona,Chelsea,1.45,4.4,6.75
-Premier,Codere,Burnley,Everton,2.45,3,3.05
-Premier,Codere,Leicester,Bournemouth,1.75,3.6,4.4
-Premier,Codere,Southampton,Stoke City,1.67,3.7,5
-Premier,Codere,Swansea,West ham,2.5,3.1,2.85
-Premier,Codere,Tottenham,Huddersfield town,1.18,6.75,14
-Premier,Codere,Watford,West Brom Albion,2.1,3.25,3.5
-Premier,Codere,Liverpool,Newcastle,1.2,6.75,11
-Premier,Codere,Brighton,Arsenal,4.2,3.8,1.75
-Premier,Codere,Manchester City,Chelsea,1.6,4,5.25
-Premier,Codere,Crystal Palace,Manchester United,6.5,3.9,1.53
-Premier,Codere,Manchester United,Liverpool,2.45,3.3,2.8
-Premier,Codere,Everton,Brighton,2,3.15,4
-Premier,Codere,Huddersfield town,Swansea,2.4,3.05,3.05
-Premier,Codere,Newcastle,Southampton,2.45,3.2,2.85
-Premier,Codere,West Brom Albion,Leicester,2.85,3.2,2.45
-Premier,Codere,West ham,Burnley,2.2,3.05,3.5
-Premier,Codere,Chelsea,Crystal Palace,1.28,5.25,10
-Premier,Codere,Arsenal,Watford,1.33,5.25,8
-Premier,Codere,Bournemouth,Tottenham,5.25,4,1.6
-Premier,Codere,Stoke City,Manchester City,10,5.75,1.25
-Serie A,Codere,SPAL,Bolonia,2.4,3.05,3.05
-Serie A,Codere,Lazio,Juventus,3.4,3.3,2.15
-Serie A,Codere,Napoles,Roma,1.55,3.9,6
-Serie A,Codere,Genova,Cagliari,1.83,3.3,4.6
-Serie A,Codere,Atalanta,Sampdoria,1.72,3.8,4.4
-Serie A,Codere,Benevento,Hellas Verona,2.1,3.4,3.4
-Serie A,Codere,Chievo,Sassuolo,2.3,3.15,3.15
-Serie A,Codere,Torino,Crotone,1.37,4.6,8
-Serie A,Codere,Udinese,Fiorentina,3.15,3.15,2.3
-Serie A,Codere,AC Milan,Inter de Mil�n,2.45,3.1,2.95
-Serie A,Codere,Roma,Torino,1.62,3.9,5.25
-Serie A,Codere,Hellas Verona,Chievo,3.15,3.25,2.25
-Serie A,Codere,Fiorentina,Benevento,1.25,5.75,10
-Serie A,Codere,Bolonia,Atalanta,3.9,3.25,1.95
-Serie A,Codere,Cagliari,Lazio,5.25,3.8,1.62
-Serie A,Codere,Crotone,Sampdoria,3.4,3.15,2.2
-Serie A,Codere,Juventus,Udinese,1.25,5.75,10
-Serie A,Codere,Sassuolo,SPAL,1.9,3.4,4
-Serie A,Codere,Genova,AC Milan,2.95,3.1,2.45
-Serie A,Codere,Inter de Mil�n,Napoles,3.45,3.35,2.05
-Serie A,Codere,Juventus,Atalanta,1.4,4.4,7.5
-Serie A,Codere,Lazio,Bolonia,1.28,5.25,10
-Bundesliga,Codere,Ausburg,Hoffenheim,2.55,3.35,2.65
-Bundesliga,Codere,Frankfurt,Hannover 96,1.75,3.5,4.6
-Bundesliga,Codere,Hamburg,Mainz 05,2.2,3.15,3.4
-Bundesliga,Codere,Schalke 04,Hertha Berlin,1.6,3.7,5.75
-Bundesliga,Codere,Wolfsburg,Bayern Leverkusen,3.25,3.45,2.15
-Bundesliga,Codere,RB Leipzig,Borussia Dormund,2.6,3.5,2.5
-Bundesliga,Codere,Colonia,Stuttgart,2.35,3.3,2.95
-Bundesliga,Codere,Friburgo,Bayern Munchen,10,5.5,1.25
-Bundesliga,Codere,Mainz 05,Schalke 04,3.05,3.25,2.3
-Bundesliga,Codere,Bayern Munchen,Hamburg,1.12,8,20
-Bundesliga,Codere,Hannover 96,Ausburg,2.4,3.25,2.85
-Bundesliga,Codere,Hertha Berlin,Friburgo,2.2,3.25,3.25
-Bundesliga,Codere,Hoffenheim,Wolfsburg,1.8,3.7,4
-Bundesliga,Codere,Stuttgart,RB Leipzig,2.85,3.25,2.4
-Bundesliga,Codere,Borussia Dormund,Frankfurt,1.6,4,5.25
-Bundesliga,Codere,Werder Bremen,Colonia,1.85,3.6,4
-Ligue 1,Codere,Niza,Lille,1.75,3.5,5
-Ligue 1,Codere,Monaco,Bordeaux,1.6,4,5.75
-Ligue 1,Codere,Troyes,PSG,9.5,5.75,1.25
-Ligue 1,Codere,Amiens,Rennes,3,2.95,2.5
-Ligue 1,Codere,Angers,Guingamp,2.05,3.2,3.8
-Ligue 1,Codere,Metz,Toulouse,2.55,3.1,2.8
-Ligue 1,Codere,Saint Etienne,Dijon,1.67,3.7,5
-Ligue 1,Codere,Caen,Estraburgo,2.1,3.15,3.6
-Ligue 1,Codere,Montpellier,Oly. de Lyon,2.9,3.25,2.4
-Ligue 1,Codere,Oly. de Marsella,Nantes,1.45,4.25,6.5
-Ligue 1,Codere,Estraburgo,Monaco,5.25,3.6,1.67
-Ligue 1,Codere,PSG,Metz,1.03,15,27
-Ligue 1,Codere,Bordeaux,Angers,1.62,3.6,5.75
-Ligue 1,Codere,Dijon,Amiens,1.95,3.3,4
-Ligue 1,Codere,Lille,Montpellier,2.3,3.25,3.05
-Ligue 1,Codere,Nantes,Troyes,1.72,3.4,5.25
-Ligue 1,Codere,Rennes,Saint Etienne,2.15,3.3,3.4
-Ligue 1,Codere,Guingamp,Niza,2.55,3.15,2.8
-Ligue 1,Codere,Oly. de Lyon,Caen,1.45,4.2,7.25
-Ligue 1,Codere,Toulouse,Oly. de Marsella,4.4,3.35,1.85
-UEFA,Codere,CSKA Moscou,Olympique de Lyon,2.65,3.15,2.65
-UEFA,Codere,Borussia Dormund,RB Salzburg,1.45,4.4,6.75
-UEFA,Codere,Lazio,Dinamo Kiev,1.45,4.4,6.75
-UEFA,Codere,RB Leipzig,Zenit,1.67,3.7,5
-UEFA,Codere,Olympique de Marsella,Athletic de Bilbao,1.88,3.4,4.2
-UEFA,Codere,Sporting de Lisboa,Viktoria Plzen,1.4,4.4,7.5
-NBA,Sportium,Miami Heat,LA Lakers,1.50,None,2.70
-NBA,Sportium,Cleveland Cavaliers,Philadelphia 76ers,1.69,None,2.25
-NBA,Sportium,Sacramento Kings,Brooklyn Nets,2.20,None,1.71
-NBA,Sportium,Portland Trail Blazers,Minnesota Timberwolves,1.50,None,2.70
+NBA,Betfair,Philadelphia 76ers,Charlotte Hornets, 1.53 ,None, 2.62 
+NBA,Betfair,Orlando Magic,Detroit Pistons, 2.15 ,None, 1.75 
+NBA,Betfair,Atlanta Hawks,Golden State Warriors, 8.0 ,None, 1.1 
+NBA,Betfair,Memphis Grizzlies,Denver Nuggets, 3.1 ,None, 1.4 
+NBA,Betfair,Washington Wizards,Toronto Raptors, 2.25 ,None, 1.7 
+NBA,Betfair,Chicago Bulls,Dallas Mavericks, 2.05 ,None, 1.85 
+NBA,Betfair,Milwaukee Bucks,Indiana Pacers, 1.7 ,None, 2.25 
+NBA,Betfair,Phoenix Suns,Oklahoma City Thunder, 4.0 ,None, 1.28 
+NBA,Betfair,Utah Jazz,Minnesota Timberwolves, 1.36 ,None, 3.4 
+La Liga,Betfair,Villarreal,Girona, 1.8 , 3.7 , 4.75 
+La Liga,Betfair,Sevilla,Athletic de Bilbao, 1.75 , 3.75 , 5.0 
+La Liga,Betfair,Leganes,Malaga, 2.15 , 3.0 , 4.1 
+La Liga,Betfair,Real Madrid,Getafe, 1.2 , 7.5 , 14.0 
+La Liga,Betfair,Levante,Espa�ol, 3.0 , 3.1 , 2.62 
+La Liga,Betfair,Barcelona,Atletico de Madrid, 1.72 , 3.9 , 5.0 
+La Liga,Betfair,Real sociedad,Alaves, 1.72 , 3.9 , 5.0 
+La Liga,Betfair,Valencia,Betis, 1.47 , 4.75 , 6.0 
+La Liga,Betfair,Celta de Vigo,Las Palmas, 1.44 , 4.6 , 7.5 
+La Liga,Betfair,Eibar,Real Madrid, 7.0 , 4.6 , 1.44 
+La Liga,Betfair,Sevilla,Valencia, 2.1 , 3.7 , 3.4 
+La Liga,Betfair,Getafe,Levante, 1.83 , 3.4 , 4.75 
+La Liga,Betfair,Malaga,Barcelona, 12.0 , 6.0 , 1.25 
+La Liga,Betfair,Espa�ol,Real sociedad, 2.4 , 3.3 , 3.0 
+La Liga,Betfair,Atletico de Madrid,Celta de Vigo, 1.33 , 4.33 , 8.0 
+La Liga,Betfair,Las Palmas,Villarreal, 3.2 , 3.3 , 2.0 
+La Liga,Betfair,Athletic de Bilbao,Leganes, 1.75 , 3.2 , 4.5 
+La Liga,Betfair,Alaves,Betis, 2.1 , 3.2 , 3.2 
+Champions League,Betfair,PSG,Real Madrid, 2.05 , 4.0 , 3.3 
+Champions League,Betfair,Liverpool,Oporto, 1.5 , 4.5 , 6.5 
+Champions League,Betfair,Manchester City,Basel, 1.08 , 8.0 , 19.0 
+Champions League,Betfair,Tottenham,Juventus, 2.15 , 3.4 , 3.5 
+Champions League,Betfair,Roma,Shaktar, 1.61 , 3.6 , 4.5 
+Champions League,Betfair,Manchester United,Sevilla, 1.61 , 3.6 , 4.75 
+Champions League,Betfair,Besiktas,Bayern Munich, 6.0 , 4.33 , 1.36 
+Champions League,Betfair,Barcelona,Chelsea, 1.4 , 4.33 , 6.0 
+Premier,Betfair,Burnley,Everton, 2.5 , 3.1 , 3.3 
+Premier,Betfair,Leicester,Bournemouth, 1.85 , 3.8 , 4.33 
+Premier,Betfair,Watford,West Brom Albion, 2.1 , 3.3 , 3.75 
+Premier,Betfair,Swansea,West ham, 2.5 , 3.1 , 3.0 
+Premier,Betfair,Southampton,Stoke City, 1.75 , 3.7 , 5.0 
+Premier,Betfair,Tottenham,Huddersfield town, 1.2 , 7.5 , 21.0 
+Premier,Betfair,Liverpool,Newcastle, 1.22 , 7.0 , 15.0 
+Premier,Betfair,Brighton,Arsenal, 4.33 , 3.9 , 1.86 
+Premier,Betfair,Manchester City,Chelsea, 1.61 , 4.33 , 5.5 
+Premier,Betfair,Crystal Palace,Manchester United, 6.5 , 4.0 , 1.55 
+Premier,Betfair,Manchester United,Liverpool, 2.3 , 3.2 , 2.7 
+Premier,Betfair,West Brom Albion,Leicester, 2.9 , 3.25 , 2.5 
+Premier,Betfair,Huddersfield town,Swansea, 2.45 , 3.1 , 3.1 
+Premier,Betfair,Newcastle,Southampton, 2.55 , 3.3 , 2.87 
+Premier,Betfair,Everton,Brighton, 1.95 , 3.3 , 4.2 
+Premier,Betfair,West ham,Burnley, 2.1 , 2.87 , 3.5 
+Premier,Betfair,Chelsea,Crystal Palace, 1.25 , 5.5 , 12.0 
+Premier,Betfair,Arsenal,Watford, 1.4 , 4.75 , 8.0 
+Premier,Betfair,Bournemouth,Tottenham, 5.0 , 4.0 , 1.5 
+Premier,Betfair,Stoke City,Manchester City, 10.5 , 5.5 , 1.18 
+Serie A,Betfair,SPAL,Bolonia, 2.5 , 3.2 , 3.1 
+Serie A,Betfair,Lazio,Juventus, 3.6 , 3.3 , 2.2 
+Serie A,Betfair,Napoles,Roma, 1.6 , 4.1 , 6.0 
+Serie A,Betfair,Genova,Cagliari, 1.85 , 3.4 , 4.75 
+Serie A,Betfair,Udinese,Fiorentina, 3.25 , 3.25 , 2.3 
+Serie A,Betfair,Benevento,Hellas Verona, 2.1 , 3.5 , 3.4 
+Serie A,Betfair,Torino,Crotone, 1.4 , 4.6 , 8.0 
+Serie A,Betfair,Chievo,Sassuolo, 2.4 , 3.2 , 3.1 
+Serie A,Betfair,Atalanta,Sampdoria, 1.72 , 3.9 , 4.75 
+Serie A,Betfair,AC Milan,Inter de Mil�n, 2.45 , 3.2 , 3.1 
+Serie A,Betfair,Roma,Torino, 1.61 , 4.0 , 5.5 
+Serie A,Betfair,Hellas Verona,Chievo, 3.2 , 3.3 , 2.3 
+Serie A,Betfair,Fiorentina,Benevento, 1.2 , 5.5 , 10.5 
+Serie A,Betfair,Sassuolo,SPAL, 1.9 , 3.5 , 4.2 
+Serie A,Betfair,Juventus,Udinese, 1.25 , 5.5 , 12.0 
+Serie A,Betfair,Cagliari,Lazio, 5.0 , 3.6 , 1.57 
+Serie A,Betfair,Bolonia,Atalanta, 3.8 , 3.2 , 1.9 
+Serie A,Betfair,Genova,AC Milan, 2.9 , 2.87 , 2.4 
+Serie A,Betfair,Inter de Mil�n,Napoles, 3.3 , 3.3 , 1.95 
+Bundesliga,Betfair,Monchengladbach,Werder Bremen, 2.0 , 3.5 , 3.8 
+Bundesliga,Betfair,Wolfsburg,Bayern Leverkusen, 3.4 , 3.5 , 2.2 
+Bundesliga,Betfair,Schalke 04,Hertha Berlin, 1.66 , 3.8 , 5.5 
+Bundesliga,Betfair,Frankfurt,Hannover 96, 1.75 , 3.7 , 5.0 
+Bundesliga,Betfair,Hamburg,Mainz 05, 2.3 , 3.3 , 3.4 
+Bundesliga,Betfair,Ausburg,Hoffenheim, 2.62 , 3.4 , 2.75 
+Bundesliga,Betfair,RB Leipzig,Borussia Dormund, 2.55 , 3.6 , 2.62 
+Bundesliga,Betfair,Colonia,Stuttgart, 2.4 , 3.3 , 3.0 
+Bundesliga,Betfair,Friburgo,Bayern Munchen, 10.5 , 5.5 , 1.3 
+Bundesliga,Betfair,Mainz 05,Schalke 04, 3.1 , 3.5 , 2.25 
+Bundesliga,Betfair,Hoffenheim,Wolfsburg, 1.8 , 3.8 , 4.33 
+Bundesliga,Betfair,Bayern Munchen,Hamburg, 1.07 , 8.0 , 21.0 
+Bundesliga,Betfair,Hertha Berlin,Friburgo, 2.1 , 3.2 , 3.2 
+Bundesliga,Betfair,Hannover 96,Ausburg, 2.3 , 3.2 , 2.8 
+Bundesliga,Betfair,Stuttgart,RB Leipzig, 2.75 , 3.2 , 2.3 
+Bundesliga,Betfair,Borussia Dormund,Frankfurt, 1.5 , 4.0 , 5.0 
+Bundesliga,Betfair,Werder Bremen,Colonia, 1.75 , 3.5 , 3.9 
+Ligue 1,Betfair,Niza,Lille, 1.8 , 3.5 , 5.0 
+Ligue 1,Betfair,Monaco,Bordeaux, 1.65 , 4.0 , 5.5 
+Ligue 1,Betfair,Troyes,PSG, 12.0 , 5.5 , 1.28 
+Ligue 1,Betfair,Metz,Toulouse, 2.75 , 3.25 , 2.75 
+Ligue 1,Betfair,Amiens,Rennes, 3.1 , 3.1 , 2.5 
+Ligue 1,Betfair,Saint Etienne,Dijon, 1.7 , 3.9 , 5.0 
+Ligue 1,Betfair,Angers,Guingamp, 2.0 , 3.25 , 4.2 
+Ligue 1,Betfair,Caen,Estraburgo, 2.1 , 3.3 , 3.75 
+Ligue 1,Betfair,Oly. de Marsella,Nantes, 1.5 , 4.2 , 7.0 
+UEFA,Betfair,Atletico de Madrid,Lokomotiv Moscou, 1.25 , 5.5 , 13.0 
+UEFA,Betfair,Borussia Dormund,RB Salzburg, 1.44 , 4.75 , 7.0 
+UEFA,Betfair,CSKA Moscou,Olympique de Lyon, 2.62 , 3.25 , 2.7 
+UEFA,Betfair,Lazio,Dinamo Kiev, 1.44 , 4.6 , 7.0 
+UEFA,Betfair,Sporting de Lisboa,Viktoria Plzen, 1.4 , 4.5 , 8.5 
+UEFA,Betfair,RB Leipzig,Zenit, 1.7 , 3.8 , 5.0 
+UEFA,Betfair,Olympique de Marsella,Athletic de Bilbao, 1.9 , 3.6 , 4.2 
 NBA,Sportium,Orlando Magic,Detroit Pistons,2.25,None,1.69
+NBA,Sportium,Philadelphia 76ers,Charlotte Hornets,1.57,None,2.55
 NBA,Sportium,Atlanta Hawks,Golden State Warriors,8.00,None,1.08
 NBA,Sportium,Washington Wizards,Toronto Raptors,2.30,None,1.66
 NBA,Sportium,Chicago Bulls,Dallas Mavericks,2.00,None,1.83
+NBA,Sportium,Memphis Grizzlies,Denver Nuggets,2.90,None,1.43
+NBA,Sportium,Milwaukee Bucks,Indiana Pacers,1.71,None,2.20
+NBA,Sportium,Phoenix Suns,Oklahoma City Thunder,3.80,None,1.28
+NBA,Sportium,Utah Jazz,Minnesota Timberwolves,1.38,None,3.20
 NBA,Sportium,LA Clippers,New York Knicks,1.20,None,4.50
 Euroliga,Sportium,Panathinakos,Olympiakos,1.44,None,2.75
-NHL,Sportium,Philadelphia Flyers,Carolina Hurricanes,1.66,None,2.20
-NHL,Sportium,Boston Bruins,Pittsburgh Penguins,1.80,None,2.00
-NHL,Sportium,Florida Panthers,New Jersey Devils,1.72,None,2.10
-NHL,Sportium,Dallas Stars,Tampa Bay Lightning,1.57,None,2.35
-NHL,Sportium,Arizona Coyotes,Minnesota Wild,2.40,None,1.57
-NHL,Sportium,Edmonton Oilers,Nashville Predators,2.30,None,1.61
-NHL,Sportium,San Jose Sharks,Chicago Blackhawks,1.57,None,2.40
-NHL,Sportium,Los Angeles Kings,Columbus Blue Jackets,1.61,None,2.25
 NHL,Sportium,New York Islanders,Montreal Canadiens,1.72,None,2.10
-NHL,Sportium,Carolina Hurricanes,New Jersey Devils,1.72,None,2.10
-NHL,Sportium,Florida Panthers,Buffalo Sabres,1.44,None,2.75
+NHL,Sportium,Carolina Hurricanes,New Jersey Devils,1.72,None,2.05
+NHL,Sportium,Florida Panthers,Buffalo Sabres,1.50,None,2.50
 NHL,Sportium,Winnipeg Jets,Detroit Red Wings,1.44,None,2.80
 NHL,Sportium,Calgary Flames,New York Rangers,1.50,None,2.60
 NHL,Sportium,Colorado Avalanche,Minnesota Wild,1.90,None,1.90
 NHL,Sportium,Vegas Golden Knights,Ottawa Senators,1.33,None,3.20
 NHL,Sportium,Vancouver Canucks,Nashville Predators,2.35,None,1.57
 NHL,Sportium,Anaheim Ducks,Columbus Blue Jackets,1.57,None,2.35
-La Liga,Sportium,Villarreal,Girona,1.80,3.50,4.60
+La Liga,Sportium,Villarreal,Girona,1.80,3.50,4.50
 La Liga,Sportium,Sevilla,Athletic de Bilbao,1.75,3.60,4.60
-La Liga,Sportium,Deportivo,Eibar,2.62,3.20,2.65
+La Liga,Sportium,Deportivo,Eibar,2.62,3.20,2.70
 La Liga,Sportium,Real Madrid,Getafe,1.22,6.50,13.00
 La Liga,Sportium,Levante,Espa�ol,3.00,3.00,2.50
-La Liga,Sportium,Barcelona,Atletico de Madrid,1.72,3.70,4.75
-La Liga,Sportium,Valencia,Betis,1.50,4.60,6.00
-La Liga,Sportium,Celta de Vigo,Las Palmas,1.44,4.50,6.50
+La Liga,Sportium,Barcelona,Atletico de Madrid,1.70,3.60,4.80
+La Liga,Sportium,Valencia,Betis,1.44,4.60,6.50
+La Liga,Sportium,Celta de Vigo,Las Palmas,1.44,4.50,7.00
 La Liga,Sportium,Eibar,Real Madrid,6.50,4.40,1.44
 La Liga,Sportium,Getafe,Levante,1.80,3.30,4.80
 La Liga,Sportium,Espa�ol,Real sociedad,2.40,3.25,2.90
@@ -171,11 +146,11 @@ Champions League,Sportium,Manchester United,Sevilla,1.72,3.75,5.00
 Champions League,Sportium,Besiktas,Bayern Munich,6.50,4.50,1.50
 Champions League,Sportium,Barcelona,Chelsea,1.44,4.50,7.50
 Premier,Sportium,Burnley,Everton,2.40,3.00,3.10
-Premier,Sportium,Leicester,Bournemouth,1.80,3.70,4.20
+Premier,Sportium,Leicester,Bournemouth,1.80,3.70,4.25
 Premier,Sportium,Southampton,Stoke City,1.72,3.60,5.00
-Premier,Sportium,Tottenham,Huddersfield town,1.18,7.00,15.00
+Premier,Sportium,Tottenham,Huddersfield town,1.18,7.00,13.00
 Premier,Sportium,Swansea,West ham,2.50,3.00,2.90
-Premier,Sportium,Watford,West Brom Albion,2.10,3.20,3.70
+Premier,Sportium,Watford,West Brom Albion,2.05,3.20,3.75
 Premier,Sportium,Liverpool,Newcastle,1.20,6.50,15.00
 Premier,Sportium,Brighton,Arsenal,4.20,3.60,1.83
 Premier,Sportium,Manchester City,Chelsea,1.61,4.00,5.20
@@ -187,10 +162,10 @@ Premier,Sportium,West ham,Burnley,2.25,3.00,3.40
 Premier,Sportium,Everton,Brighton,2.00,3.20,4.00
 Premier,Sportium,Newcastle,Southampton,2.55,3.10,2.87
 Premier,Sportium,Chelsea,Crystal Palace,1.30,5.20,10.00
-Premier,Sportium,Arsenal,Watford,1.36,4.80,8.00
+Premier,Sportium,Arsenal,Watford,1.40,4.75,7.00
 Premier,Sportium,Bournemouth,Tottenham,5.25,4.00,1.60
 Premier,Sportium,Stoke City,Manchester City,12.00,5.80,1.25
-Serie A,Sportium,SPAL,Bolonia,2.37,3.10,3.10
+Serie A,Sportium,SPAL,Bolonia,2.40,3.10,3.10
 Serie A,Sportium,Lazio,Juventus,3.50,3.20,2.15
 Serie A,Sportium,Napoles,Roma,1.57,4.00,5.50
 Serie A,Sportium,Genova,Cagliari,1.87,3.25,4.50
@@ -209,7 +184,7 @@ Serie A,Sportium,Bolonia,Atalanta,3.80,3.20,2.00
 Serie A,Sportium,Cagliari,Lazio,5.25,3.90,1.61
 Serie A,Sportium,Genova,AC Milan,2.87,3.00,2.55
 Serie A,Sportium,Inter de Mil�n,Napoles,3.50,3.40,2.10
-Bundesliga,Sportium,Monchengladbach,Werder Bremen,1.87,3.50,4.00
+Bundesliga,Sportium,Monchengladbach,Werder Bremen,2.00,3.40,3.60
 Bundesliga,Sportium,Hamburg,Mainz 05,2.30,3.10,3.25
 Bundesliga,Sportium,Wolfsburg,Bayern Leverkusen,3.20,3.40,2.15
 Bundesliga,Sportium,Ausburg,Hoffenheim,2.65,3.30,2.60
@@ -227,11 +202,11 @@ Bundesliga,Sportium,Bayern Leverkusen,Monchengladbach,1.80,3.75,4.20
 Bundesliga,Sportium,Stuttgart,RB Leipzig,2.90,3.25,2.40
 Bundesliga,Sportium,Borussia Dormund,Frankfurt,1.61,3.90,5.25
 Bundesliga,Sportium,Werder Bremen,Colonia,1.90,3.50,4.00
-Ligue 1,Sportium,Niza,Lille,1.80,3.40,4.80
+Ligue 1,Sportium,Niza,Lille,1.75,3.40,4.80
 Ligue 1,Sportium,Monaco,Bordeaux,1.66,3.90,5.00
 Ligue 1,Sportium,Troyes,PSG,11.00,5.50,1.28
 Ligue 1,Sportium,Saint Etienne,Dijon,1.75,3.60,4.75
-Ligue 1,Sportium,Metz,Toulouse,2.65,3.10,2.70
+Ligue 1,Sportium,Metz,Toulouse,2.70,3.10,2.70
 Ligue 1,Sportium,Angers,Guingamp,2.00,3.20,3.90
 Ligue 1,Sportium,Amiens,Rennes,3.20,3.00,2.40
 Ligue 1,Sportium,Caen,Estraburgo,2.15,3.10,3.50
@@ -242,178 +217,3 @@ UEFA,Sportium,Borussia Dormund,RB Salzburg,1.44,4.50,7.50
 UEFA,Sportium,Sporting de Lisboa,Viktoria Plzen,1.40,4.33,9.50
 UEFA,Sportium,Lazio,Dinamo Kiev,1.44,4.50,7.50
 UEFA,Sportium,RB Leipzig,Zenit,1.66,3.80,5.50
-NBA,Betfair,Cleveland Cavaliers,Philadelphia 76ers, 1.7 ,None, 2.25 
-NBA,Betfair,Sacramento Kings,Brooklyn Nets, 2.25 ,None, 1.7 
-NBA,Betfair,Portland Trail Blazers,Minnesota Timberwolves, 1.53 ,None, 2.62 
-La Liga,Betfair,Villarreal,Girona, 1.8 , 3.7 , 4.75 
-La Liga,Betfair,Sevilla,Athletic de Bilbao, 1.75 , 3.75 , 5.0 
-La Liga,Betfair,Leganes,Malaga, 2.0 , 3.1 , 4.5 
-La Liga,Betfair,Real Madrid,Getafe, 1.2 , 7.5 , 14.0 
-La Liga,Betfair,Levante,Espa�ol, 3.0 , 3.1 , 2.62 
-La Liga,Betfair,Barcelona,Atletico de Madrid, 1.7 , 4.0 , 5.0 
-La Liga,Betfair,Real sociedad,Alaves, 1.72 , 3.9 , 5.0 
-La Liga,Betfair,Valencia,Betis, 1.47 , 4.75 , 6.0 
-La Liga,Betfair,Celta de Vigo,Las Palmas, 1.44 , 4.6 , 7.0 
-La Liga,Betfair,Eibar,Real Madrid, 7.0 , 4.6 , 1.44 
-La Liga,Betfair,Sevilla,Valencia, 2.1 , 3.7 , 3.4 
-La Liga,Betfair,Getafe,Levante, 1.83 , 3.4 , 4.75 
-La Liga,Betfair,Malaga,Barcelona, 12.0 , 6.0 , 1.25 
-La Liga,Betfair,Espa�ol,Real sociedad, 2.4 , 3.3 , 3.0 
-La Liga,Betfair,Atletico de Madrid,Celta de Vigo, 1.33 , 4.33 , 8.0 
-La Liga,Betfair,Las Palmas,Villarreal, 3.2 , 3.3 , 2.0 
-La Liga,Betfair,Athletic de Bilbao,Leganes, 1.75 , 3.2 , 4.5 
-La Liga,Betfair,Alaves,Betis, 2.1 , 3.2 , 3.2 
-Champions League,Betfair,PSG,Real Madrid, 2.05 , 4.0 , 3.3 
-Champions League,Betfair,Liverpool,Oporto, 1.5 , 4.5 , 6.5 
-Champions League,Betfair,Manchester City,Basel, 1.08 , 8.0 , 19.0 
-Champions League,Betfair,Tottenham,Juventus, 2.1 , 3.4 , 3.6 
-Champions League,Betfair,Roma,Shaktar, 1.61 , 3.6 , 4.5 
-Champions League,Betfair,Manchester United,Sevilla, 1.61 , 3.6 , 4.75 
-Champions League,Betfair,Besiktas,Bayern Munich, 6.0 , 4.33 , 1.36 
-Champions League,Betfair,Barcelona,Chelsea, 1.4 , 4.33 , 6.0 
-Premier,Betfair,Burnley,Everton, 2.5 , 3.1 , 3.3 
-Premier,Betfair,Leicester,Bournemouth, 1.85 , 3.8 , 4.33 
-Premier,Betfair,Watford,West Brom Albion, 2.1 , 3.3 , 3.75 
-Premier,Betfair,Swansea,West ham, 2.5 , 3.1 , 3.0 
-Premier,Betfair,Southampton,Stoke City, 1.75 , 3.7 , 5.0 
-Premier,Betfair,Tottenham,Huddersfield town, 1.2 , 7.5 , 21.0 
-Premier,Betfair,Liverpool,Newcastle, 1.22 , 7.0 , 15.0 
-Premier,Betfair,Brighton,Arsenal, 4.5 , 3.9 , 1.85 
-Premier,Betfair,Manchester City,Chelsea, 1.61 , 4.33 , 5.5 
-Premier,Betfair,Crystal Palace,Manchester United, 6.5 , 4.0 , 1.55 
-Premier,Betfair,Manchester United,Liverpool, 2.3 , 3.2 , 2.7 
-Premier,Betfair,West Brom Albion,Leicester, 2.9 , 3.25 , 2.5 
-Premier,Betfair,Huddersfield town,Swansea, 2.45 , 3.1 , 3.1 
-Premier,Betfair,Newcastle,Southampton, 2.55 , 3.3 , 2.87 
-Premier,Betfair,Everton,Brighton, 1.95 , 3.3 , 4.2 
-Premier,Betfair,West ham,Burnley, 2.1 , 2.87 , 3.5 
-Premier,Betfair,Chelsea,Crystal Palace, 1.25 , 5.5 , 12.0 
-Premier,Betfair,Arsenal,Watford, 1.28 , 4.75 , 8.0 
-Premier,Betfair,Bournemouth,Tottenham, 5.0 , 4.0 , 1.5 
-Premier,Betfair,Stoke City,Manchester City, 10.5 , 5.5 , 1.18 
-Serie A,Betfair,SPAL,Bolonia, 2.5 , 3.2 , 3.1 
-Serie A,Betfair,Lazio,Juventus, 3.6 , 3.3 , 2.2 
-Serie A,Betfair,Napoles,Roma, 1.6 , 4.1 , 6.0 
-Serie A,Betfair,Genova,Cagliari, 1.85 , 3.4 , 4.75 
-Serie A,Betfair,Udinese,Fiorentina, 3.25 , 3.25 , 2.3 
-Serie A,Betfair,Benevento,Hellas Verona, 2.1 , 3.5 , 3.4 
-Serie A,Betfair,Torino,Crotone, 1.4 , 4.6 , 8.0 
-Serie A,Betfair,Chievo,Sassuolo, 2.4 , 3.2 , 3.1 
-Serie A,Betfair,Atalanta,Sampdoria, 1.72 , 3.9 , 4.75 
-Serie A,Betfair,AC Milan,Inter de Mil�n, 2.45 , 3.2 , 3.1 
-Serie A,Betfair,Roma,Torino, 1.61 , 4.2 , 5.0 
-Serie A,Betfair,Hellas Verona,Chievo, 3.25 , 3.4 , 2.25 
-Serie A,Betfair,Fiorentina,Benevento, 1.2 , 5.5 , 10.5 
-Serie A,Betfair,Sassuolo,SPAL, 1.95 , 3.5 , 4.0 
-Serie A,Betfair,Juventus,Udinese, 1.2 , 5.0 , 10.5 
-Serie A,Betfair,Cagliari,Lazio, 5.0 , 3.6 , 1.57 
-Serie A,Betfair,Bolonia,Atalanta, 3.8 , 3.2 , 1.9 
-Serie A,Betfair,Genova,AC Milan, 2.9 , 2.87 , 2.4 
-Serie A,Betfair,Inter de Mil�n,Napoles, 3.3 , 3.3 , 1.95 
-Bundesliga,Betfair,Monchengladbach,Werder Bremen, 1.9 , 3.6 , 4.33 
-Bundesliga,Betfair,Wolfsburg,Bayern Leverkusen, 3.4 , 3.5 , 2.2 
-Bundesliga,Betfair,Schalke 04,Hertha Berlin, 1.66 , 3.8 , 5.5 
-Bundesliga,Betfair,Frankfurt,Hannover 96, 1.75 , 3.8 , 5.0 
-Bundesliga,Betfair,Hamburg,Mainz 05, 2.3 , 3.3 , 3.4 
-Bundesliga,Betfair,Ausburg,Hoffenheim, 2.62 , 3.4 , 2.75 
-Bundesliga,Betfair,RB Leipzig,Borussia Dormund, 2.55 , 3.6 , 2.62 
-Bundesliga,Betfair,Colonia,Stuttgart, 2.4 , 3.3 , 3.0 
-Bundesliga,Betfair,Friburgo,Bayern Munchen, 10.5 , 5.5 , 1.3 
-Bundesliga,Betfair,Mainz 05,Schalke 04, 2.87 , 3.3 , 2.2 
-Bundesliga,Betfair,Hoffenheim,Wolfsburg, 1.75 , 3.6 , 3.9 
-Bundesliga,Betfair,Bayern Munchen,Hamburg, 1.07 , 8.0 , 21.0 
-Bundesliga,Betfair,Hertha Berlin,Friburgo, 2.1 , 3.2 , 3.2 
-Bundesliga,Betfair,Hannover 96,Ausburg, 2.3 , 3.2 , 2.8 
-Bundesliga,Betfair,Stuttgart,RB Leipzig, 2.75 , 3.2 , 2.3 
-Bundesliga,Betfair,Borussia Dormund,Frankfurt, 1.5 , 4.0 , 5.0 
-Bundesliga,Betfair,Werder Bremen,Colonia, 1.75 , 3.5 , 3.9 
-Ligue 1,Betfair,Niza,Lille, 1.8 , 3.5 , 5.0 
-Ligue 1,Betfair,Monaco,Bordeaux, 1.65 , 4.0 , 5.5 
-Ligue 1,Betfair,Troyes,PSG, 12.0 , 5.5 , 1.28 
-Ligue 1,Betfair,Metz,Toulouse, 2.62 , 3.25 , 2.8 
-Ligue 1,Betfair,Amiens,Rennes, 3.1 , 3.1 , 2.5 
-Ligue 1,Betfair,Saint Etienne,Dijon, 1.7 , 3.9 , 5.0 
-Ligue 1,Betfair,Angers,Guingamp, 2.0 , 3.25 , 4.2 
-Ligue 1,Betfair,Caen,Estraburgo, 2.1 , 3.3 , 3.75 
-Ligue 1,Betfair,Oly. de Marsella,Nantes, 1.5 , 4.2 , 7.0 
-UEFA,Betfair,Atletico de Madrid,Lokomotiv Moscou, 1.25 , 5.5 , 13.0 
-UEFA,Betfair,Borussia Dormund,RB Salzburg, 1.44 , 4.75 , 7.0 
-UEFA,Betfair,CSKA Moscou,Olympique de Lyon, 2.62 , 3.25 , 2.7 
-UEFA,Betfair,Lazio,Dinamo Kiev, 1.47 , 4.5 , 6.5 
-UEFA,Betfair,Sporting de Lisboa,Viktoria Plzen, 1.4 , 4.5 , 8.5 
-UEFA,Betfair,RB Leipzig,Zenit, 1.7 , 3.8 , 5.0 
-UEFA,Betfair,Olympique de Marsella,Athletic de Bilbao, 1.9 , 3.6 , 4.2 
-Champions League,Bwin,Liverpool,Oporto,1.45,4.40,6.50
-Champions League,Bwin,Manchester City,Basel,1.12,8.50,17.50
-Champions League,Bwin,Manchester United,Sevilla,1.70,3.60,5.00
-Champions League,Bwin,Besiktas,Bayern Munich,6.50,4.50,1.44
-Champions League,Bwin,Barcelona,Chelsea,1.44,4.50,6.50
-UEFA,Bwin,CSKA Moscou,Olympique de Lyon,2.50,3.25,2.75
-UEFA,Bwin,Atletico de Madrid,Lokomotiv Moscou,1.28,5.00,11.00
-UEFA,Bwin,Milano,Arsenal,2.30,3.30,3.00
-UEFA,Bwin,Borussia Dormund,RB Salzburg,1.36,4.75,7.75
-UEFA,Bwin,Sporting de Lisboa,Viktoria Plzen,1.44,4.20,7.50
-Premier,Bwin,Burnley,Everton,2.50,3.00,3.20
-Premier,Bwin,Southampton,Stoke City,1.72,3.70,5.00
-Premier,Bwin,Leicester,Bournemouth,1.85,3.80,4.00
-Premier,Bwin,Liverpool,Newcastle,1.20,7.00,13.50
-Premier,Bwin,Manchester City,Chelsea,1.60,4.10,5.50
-Premier,Bwin,Crystal Palace,Manchester United,6.50,4.10,1.53
-Premier,Bwin,Manchester United,Liverpool,2.40,3.20,2.95
-Premier,Bwin,Newcastle,Southampton,2.50,3.20,2.90
-Premier,Bwin,Chelsea,Crystal Palace,1.27,5.50,11.50
-Premier,Bwin,Arsenal,Watford,1.33,5.50,8.50
-Premier,Bwin,Stoke City,Manchester City,10.50,6.00,1.27
-Bundesliga,Bwin,Monchengladbach,Werder Bremen,1.80,3.50,4.33
-Bundesliga,Bwin,Hamburg,Mainz 05,2.15,3.20,3.40
-Bundesliga,Bwin,Wolfsburg,Bayern Leverkusen,3.30,3.40,2.10
-Bundesliga,Bwin,Schalke 04,Hertha Berlin,1.60,3.80,5.50
-Bundesliga,Bwin,Colonia,Stuttgart,2.25,3.30,3.10
-Bundesliga,Bwin,Friburgo,Bayern Munchen,8.50,5.50,1.30
-Bundesliga,Bwin,Mainz 05,Schalke 04,3.00,3.30,2.30
-Bundesliga,Bwin,Hertha Berlin,Friburgo,2.15,3.30,3.30
-Bundesliga,Bwin,Bayern Munchen,Hamburg,1.14,8.00,15.50
-Bundesliga,Bwin,Hoffenheim,Wolfsburg,1.85,3.60,4.00
-Bundesliga,Bwin,Bayern Leverkusen,Monchengladbach,1.75,3.60,4.50
-Bundesliga,Bwin,Werder Bremen,Colonia,1.91,3.60,3.75
-Bundesliga,Bwin,Friburgo,Stuttgart,2.45,3.30,2.80
-Bundesliga,Bwin,Hamburg,Hertha Berlin,2.50,3.30,2.70
-Bundesliga,Bwin,Monchengladbach,Hoffenheim,2.25,3.30,3.10
-Bundesliga,Bwin,Wolfsburg,Schalke 04,2.85,3.30,2.40
-Bundesliga,Bwin,Borussia Dormund,Hannover 96,1.35,5.00,7.75
-Bundesliga,Bwin,Colonia,Bayern Leverkusen,3.30,3.40,2.10
-Ligue 1,Bwin,Niza,Lille,1.78,3.40,4.75
-Ligue 1,Bwin,Metz,Toulouse,2.60,3.10,2.75
-Ligue 1,Bwin,Angers,Guingamp,2.05,3.10,3.80
-Ligue 1,Bwin,Amiens,Rennes,3.20,3.10,2.30
-Ligue 1,Bwin,Montpellier,Oly. de Lyon,3.00,3.20,2.35
-Ligue 1,Bwin,Oly. de Marsella,Nantes,1.50,4.00,6.50
-Ligue 1,Bwin,Lille,Montpellier,2.20,3.20,3.30
-Ligue 1,Bwin,Nantes,Troyes,1.80,3.20,5.00
-Ligue 1,Bwin,Rennes,Saint Etienne,2.20,3.20,3.30
-Ligue 1,Bwin,Guingamp,Niza,2.50,3.20,2.80
-Ligue 1,Bwin,Oly. de Lyon,Caen,1.45,4.10,7.25
-Ligue 1,Bwin,Toulouse,Oly. de Marsella,4.40,3.30,1.85
-Serie A,Bwin,SPAL,Bolonia,2.35,3.10,3.10
-Serie A,Bwin,Lazio,Juventus,3.30,3.30,2.15
-Serie A,Bwin,Napoles,Roma,1.57,3.80,5.75
-Serie A,Bwin,Genova,Cagliari,1.83,3.25,4.60
-Serie A,Bwin,Torino,Crotone,1.44,4.33,7.00
-Serie A,Bwin,Udinese,Fiorentina,3.20,3.20,2.25
-Serie A,Bwin,Benevento,Hellas Verona,2.10,3.30,3.40
-Serie A,Bwin,Atalanta,Sampdoria,1.75,3.60,4.50
-Serie A,Bwin,Chievo,Sassuolo,2.35,3.10,3.10
-Serie A,Bwin,AC Milan,Inter de Mil�n,2.45,3.20,2.90
-Serie A,Bwin,Roma,Torino,1.55,4.00,5.60
-Serie A,Bwin,Hellas Verona,Chievo,3.25,3.20,2.20
-Serie A,Bwin,Fiorentina,Benevento,1.25,5.75,10.00
-Serie A,Bwin,Juventus,Udinese,1.25,5.50,11.00
-Serie A,Bwin,Genova,AC Milan,2.90,3.25,2.40
-Serie A,Bwin,Crotone,Sampdoria,3.40,3.30,2.10
-Serie A,Bwin,Cagliari,Lazio,5.25,3.75,1.62
-Serie A,Bwin,Bolonia,Atalanta,3.70,3.30,2.00
-Serie A,Bwin,Sassuolo,SPAL,1.90,3.40,4.00
-Serie A,Bwin,Inter de Mil�n,Napoles,3.40,3.30,2.10
-NBA,Bwin,Philadelphia 76ers,Cleveland Cavaliers,2.25,None,1.67
-NBA,Bwin,Brooklyn Nets,Sacramento Kings,1.70,None,2.20
-NBA,Bwin,Minnesota Timberwolves,Portland Trail Blazers,2.65,None,1.50

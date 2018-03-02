@@ -1281,7 +1281,7 @@ section.content-box h2 a.betting-cta,
         <div class="bet-of-the-day poll-gradient-linear">
             <h2>APUESTA DEL DIA</h2>
                         <div class="botd">
-                    <span class="digit">01</span><br/>
+                    <span class="digit">02</span><br/>
                 marzo            </div>
 
             <h3 id="bet-of-the-day-heading">Bet</h3>
@@ -1389,7 +1389,7 @@ section.content-box h2 a.betting-cta,
 				<h2>Encuesta del dia</h2>
 				<div id="polls-181" class="wp-polls">
 	<form id="polls_form_181" class="wp-polls-form" action="/es/news/index.php" method="post">
-		<p style="display: none;"><input type="hidden" id="poll_181_nonce" name="wp-polls-nonce" value="d137630a72" /></p>
+		<p style="display: none;"><input type="hidden" id="poll_181_nonce" name="wp-polls-nonce" value="c4889a3484" /></p>
 		<p style="display: none;"><input type="hidden" name="poll_id" value="181" /></p>
 		<p style="text-align: center;"><strong>¿Debe ser Iago Aspas titular con España?</strong></p><div id="polls-181-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
 		<li><div><input type="radio" id="poll-answer-469" name="poll_181" value="469" /> <label for="poll-answer-469">Sí</label></div></li>
@@ -1674,4 +1674,4 @@ var lang_data = {"wm":"4442660","zoneId":"1662051","lang":"es","match_odds":"PRO
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
- Served from: 88.99.92.159 @ 2018-03-02 00:34:31 by W3 Total Cache -->
+ Served from: 88.99.92.159 @ 2018-03-02 08:44:13 by W3 Total Cache -->
