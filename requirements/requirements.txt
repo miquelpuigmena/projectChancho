@@ -8,7 +8,7 @@ google-api-python-client==1.6.5
 gyp==0.1
 httplib2==0.10.3
 idna==2.6
-lxml==4.1.1
+lxml==4.6.3
 oauth2client==4.1.2
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
